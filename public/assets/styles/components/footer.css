@@ -302,3 +302,5 @@
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
 
 .resize-x { resize: horizontal; }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
