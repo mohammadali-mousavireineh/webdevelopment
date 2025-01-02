@@ -375,3 +375,5 @@
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
 
 .resize-none { resize: none; }
+
+.break-all { word-break: break-all; }
