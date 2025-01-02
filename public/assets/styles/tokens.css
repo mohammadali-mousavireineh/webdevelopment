@@ -1117,3 +1117,5 @@
 .accordion-item { border-bottom: 1px solid var(--color-border); }
 
 .shadow-none { box-shadow: none; }
+
+.btn-outline { border: 2px solid var(--color-primary); background: transparent; color: var(--color-primary); padding: 0.5rem 1.25rem; border-radius: var(--radius-md); cursor: pointer; transition: all var(--transition-fast); }
