@@ -2083,3 +2083,5 @@
 .table th { background: var(--color-surface-alt); font-weight: 600; padding: 0.75rem; text-align: right; }
 
 .form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
