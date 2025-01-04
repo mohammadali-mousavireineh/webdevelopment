@@ -469,3 +469,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .resize-x { resize: horizontal; }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
