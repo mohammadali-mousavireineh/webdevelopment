@@ -373,3 +373,5 @@
 .whitespace-pre-wrap { white-space: pre-wrap; }
 
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
+
+.resize-none { resize: none; }
