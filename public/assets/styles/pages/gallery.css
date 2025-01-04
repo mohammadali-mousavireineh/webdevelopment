@@ -334,3 +334,5 @@
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.z-10 { z-index: 10; }
