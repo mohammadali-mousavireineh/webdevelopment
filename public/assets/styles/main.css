@@ -1123,3 +1123,5 @@ body ::selection {
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .z-0 { z-index: 0; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
