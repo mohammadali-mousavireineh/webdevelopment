@@ -667,3 +667,5 @@
 .tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
