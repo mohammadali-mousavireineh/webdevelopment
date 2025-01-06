@@ -318,3 +318,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+.shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
