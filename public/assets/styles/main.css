@@ -1121,3 +1121,5 @@ body ::selection {
 .z-40 { z-index: 40; }
 
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
+
+.z-0 { z-index: 0; }
