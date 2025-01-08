@@ -290,3 +290,5 @@
 .shadow-none { box-shadow: none; }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.resize-x { resize: horizontal; }
