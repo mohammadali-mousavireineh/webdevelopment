@@ -316,3 +316,5 @@
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
 
 .dropdown-item:hover { background: var(--color-surface-alt); }
+
+.dropdown:hover .dropdown-menu { display: block; }
