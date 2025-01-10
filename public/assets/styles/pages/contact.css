@@ -380,3 +380,5 @@
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
 
 .btn-outline { border: 2px solid var(--color-primary); background: transparent; color: var(--color-primary); padding: 0.5rem 1.25rem; border-radius: var(--radius-md); cursor: pointer; transition: all var(--transition-fast); }
+
+.whitespace-normal { white-space: normal; }
