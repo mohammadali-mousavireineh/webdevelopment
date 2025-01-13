@@ -1115,3 +1115,5 @@
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
 
 .accordion-item { border-bottom: 1px solid var(--color-border); }
+
+.shadow-none { box-shadow: none; }
