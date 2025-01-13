@@ -2071,3 +2071,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
