@@ -2067,3 +2067,5 @@
 .transition { transition: all var(--transition-normal); }
 
 .shadow-none { box-shadow: none; }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
