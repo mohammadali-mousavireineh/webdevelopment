@@ -2065,3 +2065,5 @@
 .pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
 
 .transition { transition: all var(--transition-normal); }
+
+.shadow-none { box-shadow: none; }
