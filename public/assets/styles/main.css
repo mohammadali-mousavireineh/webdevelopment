@@ -1115,3 +1115,5 @@ body ::selection {
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .badge { display: inline-block; padding: 0.25em 0.6em; font-size: 0.75em; font-weight: 600; border-radius: var(--radius-sm); background: var(--color-primary-light); color: var(--color-primary); }
+
+.shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
