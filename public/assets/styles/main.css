@@ -1109,3 +1109,5 @@ body ::selection {
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
 
 .whitespace-pre-wrap { white-space: pre-wrap; }
+
+@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
