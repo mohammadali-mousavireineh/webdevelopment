@@ -461,3 +461,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
