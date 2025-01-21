@@ -376,3 +376,5 @@
 .shadow-md { box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06); }
 
 .whitespace-pre-wrap { white-space: pre-wrap; }
+
+.alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
