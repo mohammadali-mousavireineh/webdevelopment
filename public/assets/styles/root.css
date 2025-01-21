@@ -459,3 +459,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
+
+.whitespace-nowrap { white-space: nowrap; }
