@@ -280,3 +280,5 @@
 .transition-fast { transition: all var(--transition-fast); }
 
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
+
+.select-none { user-select: none; -webkit-user-select: none; }
