@@ -324,3 +324,5 @@
 .form-group { margin-bottom: var(--spacing-md); }
 
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
