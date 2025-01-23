@@ -282,3 +282,5 @@
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
