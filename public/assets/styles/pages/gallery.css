@@ -322,3 +322,5 @@
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
