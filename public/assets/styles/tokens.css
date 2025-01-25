@@ -1107,3 +1107,5 @@
 .select-none { user-select: none; -webkit-user-select: none; }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.table { width: 100%; border-collapse: collapse; }
