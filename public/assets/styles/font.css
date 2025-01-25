@@ -311,3 +311,5 @@
 .z-20 { z-index: 20; }
 
 @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+.alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
