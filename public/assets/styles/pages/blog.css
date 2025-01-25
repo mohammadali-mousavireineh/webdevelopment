@@ -308,3 +308,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.tooltip:hover::after { opacity: 1; }
