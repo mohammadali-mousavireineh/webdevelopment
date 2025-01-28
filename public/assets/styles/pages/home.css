@@ -2061,3 +2061,5 @@
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .transition { transition: all var(--transition-normal); }
+
+.pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
