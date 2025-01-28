@@ -304,3 +304,5 @@
 .media-body { flex: 1; }
 
 .pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
+
+.cursor-pointer { cursor: pointer; }
