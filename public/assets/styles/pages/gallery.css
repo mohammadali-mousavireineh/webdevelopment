@@ -318,3 +318,5 @@
 .break-words { overflow-wrap: break-word; }
 
 .hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
+
+.section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
