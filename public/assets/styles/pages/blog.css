@@ -298,3 +298,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
