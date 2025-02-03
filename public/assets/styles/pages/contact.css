@@ -370,3 +370,5 @@
 .resize-none { resize: none; }
 
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
