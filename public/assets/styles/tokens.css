@@ -1103,3 +1103,5 @@
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
 
 .z-0 { z-index: 0; }
+
+.select-none { user-select: none; -webkit-user-select: none; }
