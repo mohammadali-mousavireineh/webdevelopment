@@ -368,3 +368,5 @@
 .z-20 { z-index: 20; }
 
 .resize-none { resize: none; }
+
+.table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
