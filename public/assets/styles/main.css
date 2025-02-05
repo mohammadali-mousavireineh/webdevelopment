@@ -1103,3 +1103,5 @@ body ::selection {
 .resize-none { resize: none; }
 
 .form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
