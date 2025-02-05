@@ -305,3 +305,5 @@
 .cursor-move { cursor: move; }
 
 .z-20 { z-index: 20; }
+
+.whitespace-pre { white-space: pre; }
