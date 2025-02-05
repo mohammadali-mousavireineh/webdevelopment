@@ -2053,3 +2053,5 @@
 .whitespace-normal { white-space: normal; }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.z-10 { z-index: 10; }
