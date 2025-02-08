@@ -310,3 +310,5 @@
 .z-20 { z-index: 20; }
 
 .pointer-events-auto { pointer-events: auto; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
