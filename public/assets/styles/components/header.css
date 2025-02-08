@@ -653,3 +653,5 @@
 .z-50 { z-index: 50; }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
