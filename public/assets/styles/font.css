@@ -303,3 +303,5 @@
 .resize { resize: both; }
 
 .cursor-move { cursor: move; }
+
+.z-20 { z-index: 20; }
