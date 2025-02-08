@@ -314,3 +314,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .cursor-wait { cursor: wait; }
+
+.break-words { overflow-wrap: break-word; }
