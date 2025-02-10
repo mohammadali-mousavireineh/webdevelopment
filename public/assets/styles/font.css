@@ -301,3 +301,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .resize { resize: both; }
+
+.cursor-move { cursor: move; }
