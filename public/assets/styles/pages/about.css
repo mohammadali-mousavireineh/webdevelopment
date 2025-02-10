@@ -341,3 +341,5 @@
 .shadow-none { box-shadow: none; }
 
 .hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
+
+.pointer-events-auto { pointer-events: auto; }
