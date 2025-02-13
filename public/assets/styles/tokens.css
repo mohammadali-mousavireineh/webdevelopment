@@ -1093,3 +1093,5 @@
 .page-link:hover { background: var(--color-primary-light); }
 
 .tooltip { position: relative; display: inline-block; }
+
+.cursor-wait { cursor: wait; }
