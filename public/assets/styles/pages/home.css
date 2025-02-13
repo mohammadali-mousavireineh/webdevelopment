@@ -2043,3 +2043,5 @@
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
 
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
+
+.resize { resize: both; }
