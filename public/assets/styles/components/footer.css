@@ -268,3 +268,5 @@
 .cursor-default { cursor: default; }
 
 .break-all { word-break: break-all; }
+
+.z-20 { z-index: 20; }
