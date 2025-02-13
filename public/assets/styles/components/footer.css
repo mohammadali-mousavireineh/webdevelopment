@@ -266,3 +266,5 @@
 .pointer-events-none { pointer-events: none; }
 
 .cursor-default { cursor: default; }
+
+.break-all { word-break: break-all; }
