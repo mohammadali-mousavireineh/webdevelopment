@@ -364,3 +364,5 @@
 .form-group { margin-bottom: var(--spacing-md); }
 
 .resize-none { resize: none; }
+
+.z-20 { z-index: 20; }
