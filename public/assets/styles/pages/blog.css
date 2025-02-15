@@ -290,3 +290,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .shadow-lg { box-shadow: 0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05); }
+
+.transition-fast { transition: all var(--transition-fast); }
