@@ -358,3 +358,5 @@
 .resize { resize: both; }
 
 .tooltip { position: relative; display: inline-block; }
+
+.table th { background: var(--color-surface-alt); font-weight: 600; padding: 0.75rem; text-align: right; }
