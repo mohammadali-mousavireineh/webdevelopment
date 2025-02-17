@@ -354,3 +354,5 @@
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
 
 .dropdown { position: relative; display: inline-block; }
+
+.resize { resize: both; }
