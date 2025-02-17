@@ -356,3 +356,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .resize { resize: both; }
+
+.tooltip { position: relative; display: inline-block; }
