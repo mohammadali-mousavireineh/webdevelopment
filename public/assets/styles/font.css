@@ -287,3 +287,5 @@
 .page-item { display: inline-block; }
 
 .whitespace-pre-wrap { white-space: pre-wrap; }
+
+.page-link:hover { background: var(--color-primary-light); }
