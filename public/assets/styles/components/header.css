@@ -641,3 +641,5 @@
 .break-all { word-break: break-all; }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.z-20 { z-index: 20; }
