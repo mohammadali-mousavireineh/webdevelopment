@@ -2037,3 +2037,5 @@
 .select-none { user-select: none; -webkit-user-select: none; }
 
 .list-unstyled { list-style: none; padding: 0; margin: 0; }
+
+@keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
