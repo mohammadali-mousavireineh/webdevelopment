@@ -1101,3 +1101,5 @@ body ::selection {
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .resize-none { resize: none; }
+
+.form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
