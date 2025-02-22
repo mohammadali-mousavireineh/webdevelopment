@@ -439,3 +439,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .accordion-item:last-child { border-bottom: none; }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
