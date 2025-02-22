@@ -437,3 +437,5 @@
 .z-10 { z-index: 10; }
 
 .tooltip { position: relative; display: inline-block; }
+
+.accordion-item:last-child { border-bottom: none; }
