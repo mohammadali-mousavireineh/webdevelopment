@@ -1089,3 +1089,5 @@
 .transition-fast { transition: all var(--transition-fast); }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.page-link:hover { background: var(--color-primary-light); }
