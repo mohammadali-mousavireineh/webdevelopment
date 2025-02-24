@@ -283,3 +283,5 @@
 .resize-y { resize: vertical; }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.page-item { display: inline-block; }
