@@ -323,3 +323,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .skeleton { background: linear-gradient(90deg, var(--color-surface-alt) 25%, var(--color-surface) 50%, var(--color-surface-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: var(--radius-sm); }
+
+.tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
