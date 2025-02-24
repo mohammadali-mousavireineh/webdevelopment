@@ -1087,3 +1087,5 @@
 .accordion-item { border-bottom: 1px solid var(--color-border); }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.whitespace-nowrap { white-space: nowrap; }
