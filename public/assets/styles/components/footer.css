@@ -262,3 +262,5 @@
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .cursor-move { cursor: move; }
+
+.pointer-events-none { pointer-events: none; }
