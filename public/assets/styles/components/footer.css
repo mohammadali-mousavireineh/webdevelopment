@@ -260,3 +260,5 @@
 .whitespace-pre-wrap { white-space: pre-wrap; }
 
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
+
+.cursor-move { cursor: move; }
