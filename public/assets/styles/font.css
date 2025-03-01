@@ -281,3 +281,5 @@
 .tab-content { padding: var(--spacing-lg) 0; }
 
 .resize-y { resize: vertical; }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
