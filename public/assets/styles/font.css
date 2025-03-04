@@ -279,3 +279,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 .tab-content { padding: var(--spacing-lg) 0; }
+
+.resize-y { resize: vertical; }
