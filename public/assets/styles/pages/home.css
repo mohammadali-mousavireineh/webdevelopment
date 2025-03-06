@@ -2029,3 +2029,5 @@
 .transition { transition: all var(--transition-normal); }
 
 .pointer-events-auto { pointer-events: auto; }
+
+.alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
