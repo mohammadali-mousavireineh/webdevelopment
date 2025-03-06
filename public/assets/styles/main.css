@@ -1097,3 +1097,5 @@ body ::selection {
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
