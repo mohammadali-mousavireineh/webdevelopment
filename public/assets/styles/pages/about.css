@@ -319,3 +319,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
+
+.content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
