@@ -273,3 +273,5 @@
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
