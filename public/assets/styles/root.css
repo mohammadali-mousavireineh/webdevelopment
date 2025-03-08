@@ -425,3 +425,5 @@
 .shadow-sm { box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
 
 .resize { resize: both; }
+
+.alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
