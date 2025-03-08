@@ -317,3 +317,5 @@
 .z-40 { z-index: 40; }
 
 .cursor-pointer { cursor: pointer; }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
