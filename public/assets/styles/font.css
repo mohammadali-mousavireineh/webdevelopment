@@ -277,3 +277,5 @@
 .whitespace-pre-wrap { white-space: pre-wrap; }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.tab-content { padding: var(--spacing-lg) 0; }
