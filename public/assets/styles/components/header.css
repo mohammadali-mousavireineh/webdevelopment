@@ -631,3 +631,5 @@
 .accordion-item:last-child { border-bottom: none; }
 
 .whitespace-normal { white-space: normal; }
+
+.cursor-pointer { cursor: pointer; }
