@@ -258,3 +258,5 @@
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
 
 .whitespace-pre-wrap { white-space: pre-wrap; }
+
+.alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
