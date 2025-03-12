@@ -417,3 +417,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
