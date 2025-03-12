@@ -334,3 +334,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .dropdown { position: relative; display: inline-block; }
+
+.media-body { flex: 1; }
