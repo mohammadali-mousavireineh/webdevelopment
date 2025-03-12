@@ -313,3 +313,5 @@
 .accordion-item:last-child { border-bottom: none; }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.z-40 { z-index: 40; }
