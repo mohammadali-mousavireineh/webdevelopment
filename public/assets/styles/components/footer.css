@@ -254,3 +254,5 @@
 .section { padding: var(--spacing-xl) 0; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
