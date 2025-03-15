@@ -270,3 +270,5 @@
 .transition { transition: all var(--transition-normal); }
 
 .resize-x { resize: horizontal; }
+
+.media-body { flex: 1; }
