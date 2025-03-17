@@ -269,3 +269,5 @@
 .whitespace-normal { white-space: normal; }
 
 .cursor-move { cursor: move; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
