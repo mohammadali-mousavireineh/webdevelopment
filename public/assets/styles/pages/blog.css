@@ -266,3 +266,5 @@
 .tooltip:hover::after { opacity: 1; }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.transition { transition: all var(--transition-normal); }
