@@ -2019,3 +2019,5 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .dropdown { position: relative; display: inline-block; }
+
+.hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
