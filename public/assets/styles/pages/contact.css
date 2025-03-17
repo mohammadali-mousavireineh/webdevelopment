@@ -330,3 +330,5 @@
 .tooltip::after { content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding: 0.25rem 0.5rem; background: var(--color-text); color: #fff; font-size: 0.75rem; border-radius: var(--radius-sm); white-space: nowrap; opacity: 0; pointer-events: none; }
 
 .toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
+
+.dropdown-item:hover { background: var(--color-surface-alt); }
