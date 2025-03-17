@@ -252,3 +252,5 @@
 .resize { resize: both; }
 
 .section { padding: var(--spacing-xl) 0; }
+
+.form-group { margin-bottom: var(--spacing-md); }
