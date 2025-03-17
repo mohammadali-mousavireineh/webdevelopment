@@ -1071,3 +1071,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+
+.alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
