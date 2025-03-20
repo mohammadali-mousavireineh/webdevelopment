@@ -250,3 +250,5 @@
 .resize-x { resize: horizontal; }
 
 .resize { resize: both; }
+
+.section { padding: var(--spacing-xl) 0; }
