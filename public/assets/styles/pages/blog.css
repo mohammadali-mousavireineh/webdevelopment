@@ -262,3 +262,5 @@
 .cursor-wait { cursor: wait; }
 
 .accordion-item:last-child { border-bottom: none; }
+
+.tooltip:hover::after { opacity: 1; }
