@@ -260,3 +260,5 @@
 .accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
 
 .cursor-wait { cursor: wait; }
+
+.accordion-item:last-child { border-bottom: none; }
