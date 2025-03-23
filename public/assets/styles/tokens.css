@@ -1067,3 +1067,5 @@
 .resize-y { resize: vertical; }
 
 .break-all { word-break: break-all; }
+
+.btn-outline:hover { background: var(--color-primary); color: #fff; }
