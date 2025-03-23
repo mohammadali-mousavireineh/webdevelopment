@@ -2015,3 +2015,5 @@
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
 
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
