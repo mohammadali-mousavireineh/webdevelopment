@@ -1065,3 +1065,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .resize-y { resize: vertical; }
+
+.break-all { word-break: break-all; }
