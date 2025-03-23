@@ -2017,3 +2017,5 @@
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.dropdown { position: relative; display: inline-block; }
