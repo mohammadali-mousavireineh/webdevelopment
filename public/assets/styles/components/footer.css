@@ -248,3 +248,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 .resize-x { resize: horizontal; }
+
+.resize { resize: both; }
