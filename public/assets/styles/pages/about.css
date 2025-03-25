@@ -303,3 +303,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .whitespace-pre { white-space: pre; }
+
+.whitespace-nowrap { white-space: nowrap; }
