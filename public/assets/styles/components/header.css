@@ -621,3 +621,5 @@
 .whitespace-normal { white-space: normal; }
 
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+.transition-fast { transition: all var(--transition-fast); }
