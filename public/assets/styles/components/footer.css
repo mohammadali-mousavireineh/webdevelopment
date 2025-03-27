@@ -246,3 +246,5 @@
 .modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.resize-x { resize: horizontal; }
