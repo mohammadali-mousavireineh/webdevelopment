@@ -320,3 +320,5 @@
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
 .cursor-pointer { cursor: pointer; }
+
+.hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
