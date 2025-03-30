@@ -1089,3 +1089,5 @@ body ::selection {
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
