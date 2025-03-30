@@ -413,3 +413,5 @@
 .z-20 { z-index: 20; }
 
 .pointer-events-none { pointer-events: none; }
+
+.break-normal { overflow-wrap: normal; word-break: normal; }
