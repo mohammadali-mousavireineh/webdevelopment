@@ -617,3 +617,5 @@
 .dropdown:hover .dropdown-menu { display: block; }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.whitespace-normal { white-space: normal; }
