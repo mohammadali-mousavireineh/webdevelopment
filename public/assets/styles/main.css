@@ -1087,3 +1087,5 @@ body ::selection {
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
