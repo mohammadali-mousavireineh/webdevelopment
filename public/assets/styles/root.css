@@ -411,3 +411,5 @@
 .z-50 { z-index: 50; }
 
 .z-20 { z-index: 20; }
+
+.pointer-events-none { pointer-events: none; }
