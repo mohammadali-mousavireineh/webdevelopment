@@ -301,3 +301,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
+
+.whitespace-pre { white-space: pre; }
