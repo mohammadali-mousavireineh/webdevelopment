@@ -409,3 +409,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .z-50 { z-index: 50; }
+
+.z-20 { z-index: 20; }
