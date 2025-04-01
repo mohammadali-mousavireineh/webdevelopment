@@ -240,3 +240,5 @@
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
