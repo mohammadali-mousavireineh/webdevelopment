@@ -405,3 +405,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
