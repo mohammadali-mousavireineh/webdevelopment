@@ -257,3 +257,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
+
+.shadow-lg { box-shadow: 0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05); }
