@@ -1079,3 +1079,5 @@ body ::selection {
 .transition-fast { transition: all var(--transition-fast); }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
