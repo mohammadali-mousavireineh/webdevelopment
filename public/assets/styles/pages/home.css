@@ -2005,3 +2005,5 @@
 .z-10 { z-index: 10; }
 
 .page-item { display: inline-block; }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
