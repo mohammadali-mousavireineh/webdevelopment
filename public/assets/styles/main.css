@@ -1077,3 +1077,5 @@ body ::selection {
 .tooltip { position: relative; display: inline-block; }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.break-normal { overflow-wrap: normal; word-break: normal; }
