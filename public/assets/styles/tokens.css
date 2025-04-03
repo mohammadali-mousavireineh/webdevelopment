@@ -1057,3 +1057,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
