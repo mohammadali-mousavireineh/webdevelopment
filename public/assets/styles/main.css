@@ -1075,3 +1075,5 @@ body ::selection {
 .modal-body { margin-bottom: var(--spacing-md); }
 
 .tooltip { position: relative; display: inline-block; }
+
+.transition-fast { transition: all var(--transition-fast); }
