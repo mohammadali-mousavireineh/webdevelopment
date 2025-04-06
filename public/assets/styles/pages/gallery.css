@@ -292,3 +292,5 @@
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
 
 .whitespace-normal { white-space: normal; }
+
+.break-words { overflow-wrap: break-word; }
