@@ -253,3 +253,5 @@
 .tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
 
 .card { background: var(--color-surface); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); padding: var(--spacing-lg); }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
