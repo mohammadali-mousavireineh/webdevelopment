@@ -611,3 +611,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .z-30 { z-index: 30; }
+
+.dropdown-menu { position: absolute; top: 100%; right: 0; min-width: 160px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); box-shadow: var(--shadow-md); padding: var(--spacing-xs); display: none; z-index: var(--z-dropdown); }
