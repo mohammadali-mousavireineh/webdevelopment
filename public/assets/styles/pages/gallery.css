@@ -290,3 +290,5 @@
 .shadow { box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.06); }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.whitespace-normal { white-space: normal; }
