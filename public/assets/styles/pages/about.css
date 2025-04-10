@@ -293,3 +293,5 @@
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
 
 .shadow { box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.06); }
+
+.content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
