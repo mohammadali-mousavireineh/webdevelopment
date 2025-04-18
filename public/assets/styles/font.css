@@ -247,3 +247,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .tooltip:hover::after { opacity: 1; }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
