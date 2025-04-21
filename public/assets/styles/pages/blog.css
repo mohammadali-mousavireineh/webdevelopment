@@ -246,3 +246,5 @@
 .cursor-default { cursor: default; }
 
 .media-body { flex: 1; }
+
+.tooltip:hover::after { opacity: 1; }
