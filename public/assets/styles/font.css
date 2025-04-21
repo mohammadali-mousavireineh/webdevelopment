@@ -245,3 +245,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .dropdown { position: relative; display: inline-block; }
+
+.tooltip:hover::after { opacity: 1; }
