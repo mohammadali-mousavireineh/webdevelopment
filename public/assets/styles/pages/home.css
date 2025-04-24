@@ -1987,3 +1987,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+
+.page-item { display: inline-block; }
