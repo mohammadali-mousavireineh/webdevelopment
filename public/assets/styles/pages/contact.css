@@ -306,3 +306,5 @@
 @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
 
 .z-20 { z-index: 20; }
+
+.page-link { display: block; padding: 0.375rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-sm); color: var(--color-primary); text-decoration: none; }
