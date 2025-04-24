@@ -304,3 +304,5 @@
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
 
 @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+
+.z-20 { z-index: 20; }
