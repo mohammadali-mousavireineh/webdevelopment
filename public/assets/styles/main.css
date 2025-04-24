@@ -1067,3 +1067,5 @@ body ::selection {
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .resize { resize: both; }
+
+.page-item { display: inline-block; }
