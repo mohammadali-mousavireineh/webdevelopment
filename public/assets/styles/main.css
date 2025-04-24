@@ -1065,3 +1065,5 @@ body ::selection {
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
 
 .dropdown-item:hover { background: var(--color-surface-alt); }
+
+.resize { resize: both; }
