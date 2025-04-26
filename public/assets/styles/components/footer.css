@@ -234,3 +234,5 @@
 .break-words { overflow-wrap: break-word; }
 
 .accordion-item { border-bottom: 1px solid var(--color-border); }
+
+.cursor-pointer { cursor: pointer; }
