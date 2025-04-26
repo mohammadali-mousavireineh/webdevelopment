@@ -300,3 +300,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .resize-x { resize: horizontal; }
+
+.alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
