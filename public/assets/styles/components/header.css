@@ -599,3 +599,5 @@
 .z-20 { z-index: 20; }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
