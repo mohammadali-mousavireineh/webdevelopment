@@ -597,3 +597,5 @@
 .break-words { overflow-wrap: break-word; }
 
 .z-20 { z-index: 20; }
+
+.whitespace-nowrap { white-space: nowrap; }
