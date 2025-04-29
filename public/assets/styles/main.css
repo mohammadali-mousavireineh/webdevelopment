@@ -1061,3 +1061,5 @@ body ::selection {
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
+
+.alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
