@@ -1983,3 +1983,5 @@
 .z-50 { z-index: 50; }
 
 .shadow-none { box-shadow: none; }
+
+.cursor-not-allowed { cursor: not-allowed; }
