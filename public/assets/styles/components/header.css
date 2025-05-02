@@ -595,3 +595,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .break-words { overflow-wrap: break-word; }
+
+.z-20 { z-index: 20; }
