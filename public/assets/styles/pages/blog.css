@@ -244,3 +244,5 @@
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
 
 .cursor-default { cursor: default; }
+
+.media-body { flex: 1; }
