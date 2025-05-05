@@ -1035,3 +1035,5 @@
 .transition { transition: all var(--transition-normal); }
 
 .cursor-default { cursor: default; }
+
+.z-20 { z-index: 20; }
