@@ -240,3 +240,5 @@
 .dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
 
 .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; z-index: var(--z-modal); }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
