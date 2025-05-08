@@ -238,3 +238,5 @@
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
 
 .dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
+
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; z-index: var(--z-modal); }
