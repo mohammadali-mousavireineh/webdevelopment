@@ -1055,3 +1055,5 @@ body ::selection {
 .z-50 { z-index: 50; }
 
 .resize-x { resize: horizontal; }
+
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
