@@ -228,3 +228,5 @@
 .z-0 { z-index: 0; }
 
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+
+.cursor-not-allowed { cursor: not-allowed; }
