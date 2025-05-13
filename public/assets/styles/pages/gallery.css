@@ -268,3 +268,5 @@
 .tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
 
 .shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
+
+.modal-body { margin-bottom: var(--spacing-md); }
