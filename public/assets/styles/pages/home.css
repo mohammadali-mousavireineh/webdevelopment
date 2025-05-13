@@ -1963,3 +1963,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.shadow-none { box-shadow: none; }
