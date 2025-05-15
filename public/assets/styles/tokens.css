@@ -1029,3 +1029,5 @@
 .skeleton { background: linear-gradient(90deg, var(--color-surface-alt) 25%, var(--color-surface) 50%, var(--color-surface-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: var(--radius-sm); }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
