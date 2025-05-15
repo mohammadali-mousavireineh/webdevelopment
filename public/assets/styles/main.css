@@ -1051,3 +1051,5 @@ body ::selection {
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.z-50 { z-index: 50; }
