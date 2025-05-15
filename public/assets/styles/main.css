@@ -1053,3 +1053,5 @@ body ::selection {
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .z-50 { z-index: 50; }
+
+.resize-x { resize: horizontal; }
