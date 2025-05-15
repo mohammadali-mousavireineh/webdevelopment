@@ -589,3 +589,5 @@
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
+
+.modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
