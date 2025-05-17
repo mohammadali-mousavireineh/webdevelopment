@@ -264,3 +264,5 @@
 .section { padding: var(--spacing-xl) 0; }
 
 .tooltip:hover::after { opacity: 1; }
+
+.tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
