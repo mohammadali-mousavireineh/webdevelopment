@@ -262,3 +262,5 @@
 .z-10 { z-index: 10; }
 
 .section { padding: var(--spacing-xl) 0; }
+
+.tooltip:hover::after { opacity: 1; }
