@@ -288,3 +288,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
