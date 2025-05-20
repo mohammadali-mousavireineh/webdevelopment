@@ -230,3 +230,5 @@
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
 
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
+
+.whitespace-pre { white-space: pre; }
