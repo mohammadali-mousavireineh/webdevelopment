@@ -387,3 +387,5 @@
 @keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 
 .cursor-pointer { cursor: pointer; }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
