@@ -275,3 +275,5 @@
 .tab-content { padding: var(--spacing-lg) 0; }
 
 .z-20 { z-index: 20; }
+
+.form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
