@@ -225,3 +225,5 @@
 .pointer-events-none { pointer-events: none; }
 
 .modal-body { margin-bottom: var(--spacing-md); }
+
+.tooltip:hover::after { opacity: 1; }
