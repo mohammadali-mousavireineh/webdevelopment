@@ -1045,3 +1045,5 @@ body ::selection {
 .tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
 
 .cursor-move { cursor: move; }
+
+.table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
