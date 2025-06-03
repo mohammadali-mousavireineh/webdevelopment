@@ -1041,3 +1041,5 @@ body ::selection {
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
+
+.tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
