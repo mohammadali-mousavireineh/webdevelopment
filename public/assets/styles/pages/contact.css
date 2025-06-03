@@ -280,3 +280,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .break-words { overflow-wrap: break-word; }
+
+.page-item { display: inline-block; }
