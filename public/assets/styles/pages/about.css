@@ -269,3 +269,5 @@
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.whitespace-pre-line { white-space: pre-line; }
