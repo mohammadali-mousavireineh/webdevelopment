@@ -271,3 +271,5 @@
 .whitespace-nowrap { white-space: nowrap; }
 
 .whitespace-pre-line { white-space: pre-line; }
+
+.tab-content { padding: var(--spacing-lg) 0; }
