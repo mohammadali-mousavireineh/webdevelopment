@@ -273,3 +273,5 @@
 .whitespace-pre-line { white-space: pre-line; }
 
 .tab-content { padding: var(--spacing-lg) 0; }
+
+.z-20 { z-index: 20; }
