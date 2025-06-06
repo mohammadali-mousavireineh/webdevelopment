@@ -223,3 +223,5 @@
 .resize-none { resize: none; }
 
 .pointer-events-none { pointer-events: none; }
+
+.modal-body { margin-bottom: var(--spacing-md); }
