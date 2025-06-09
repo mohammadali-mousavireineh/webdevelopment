@@ -375,3 +375,5 @@
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+@keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
