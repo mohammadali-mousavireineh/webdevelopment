@@ -265,3 +265,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
