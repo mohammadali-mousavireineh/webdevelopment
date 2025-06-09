@@ -214,3 +214,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
