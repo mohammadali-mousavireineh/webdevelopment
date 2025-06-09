@@ -1959,3 +1959,5 @@
 .resize { resize: both; }
 
 .accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
