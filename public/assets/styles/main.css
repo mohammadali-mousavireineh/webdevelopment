@@ -1037,3 +1037,5 @@ body ::selection {
 @keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 
 .cursor-default { cursor: default; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
