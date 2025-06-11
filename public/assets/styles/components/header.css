@@ -579,3 +579,5 @@
 .z-50 { z-index: 50; }
 
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
+
+.dropdown { position: relative; display: inline-block; }
