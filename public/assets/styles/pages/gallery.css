@@ -248,3 +248,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
+
+.transition { transition: all var(--transition-normal); }
