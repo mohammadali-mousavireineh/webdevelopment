@@ -220,3 +220,5 @@
 .whitespace-pre-line { white-space: pre-line; }
 
 .z-20 { z-index: 20; }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
