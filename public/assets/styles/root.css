@@ -365,3 +365,5 @@
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.transition-slow { transition: all var(--transition-slow); }
