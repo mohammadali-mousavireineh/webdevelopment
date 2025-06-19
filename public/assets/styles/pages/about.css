@@ -261,3 +261,5 @@
 .section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
 
 .dropdown { position: relative; display: inline-block; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
