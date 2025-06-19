@@ -569,3 +569,5 @@
 .resize-none { resize: none; }
 
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
