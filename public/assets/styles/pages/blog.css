@@ -214,3 +214,5 @@
 .whitespace-nowrap { white-space: nowrap; }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
