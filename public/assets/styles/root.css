@@ -361,3 +361,5 @@
 .whitespace-normal { white-space: normal; }
 
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
