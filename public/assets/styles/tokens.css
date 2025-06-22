@@ -1019,3 +1019,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
+
+.whitespace-nowrap { white-space: nowrap; }
