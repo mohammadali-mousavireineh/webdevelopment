@@ -363,3 +363,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
