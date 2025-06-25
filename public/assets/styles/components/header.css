@@ -567,3 +567,5 @@
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .resize-none { resize: none; }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
