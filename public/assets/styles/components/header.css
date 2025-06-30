@@ -561,3 +561,5 @@
 .toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
