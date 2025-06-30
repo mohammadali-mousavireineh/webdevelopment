@@ -215,3 +215,5 @@
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
