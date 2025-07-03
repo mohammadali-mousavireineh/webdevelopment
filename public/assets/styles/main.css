@@ -1029,3 +1029,5 @@ body ::selection {
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.dropdown { position: relative; display: inline-block; }
