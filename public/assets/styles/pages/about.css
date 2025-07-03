@@ -251,3 +251,5 @@
 .whitespace-pre-wrap { white-space: pre-wrap; }
 
 .page-item { display: inline-block; }
+
+.shadow-none { box-shadow: none; }
