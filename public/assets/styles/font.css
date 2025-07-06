@@ -211,3 +211,5 @@
 .modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
