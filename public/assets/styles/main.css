@@ -1027,3 +1027,5 @@ body ::selection {
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
