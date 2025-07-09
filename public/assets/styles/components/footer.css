@@ -198,3 +198,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .whitespace-pre-line { white-space: pre-line; }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
