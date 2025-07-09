@@ -1025,3 +1025,5 @@ body ::selection {
 .hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
 
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
