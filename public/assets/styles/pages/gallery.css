@@ -232,3 +232,5 @@
 .z-50 { z-index: 50; }
 
 .cursor-default { cursor: default; }
+
+.skeleton { background: linear-gradient(90deg, var(--color-surface-alt) 25%, var(--color-surface) 50%, var(--color-surface-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: var(--radius-sm); }
