@@ -228,3 +228,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .list-unstyled { list-style: none; padding: 0; margin: 0; }
+
+.z-50 { z-index: 50; }
