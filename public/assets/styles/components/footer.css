@@ -196,3 +196,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
+
+.whitespace-pre-line { white-space: pre-line; }
