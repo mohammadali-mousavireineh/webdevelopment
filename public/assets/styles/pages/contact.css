@@ -266,3 +266,5 @@
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
 
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+
+.page-item { display: inline-block; }
