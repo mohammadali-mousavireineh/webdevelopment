@@ -1947,3 +1947,5 @@
 .transition { transition: all var(--transition-normal); }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
