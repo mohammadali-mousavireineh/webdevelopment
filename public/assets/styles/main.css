@@ -1021,3 +1021,5 @@ body ::selection {
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
 
 .z-40 { z-index: 40; }
+
+.hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
