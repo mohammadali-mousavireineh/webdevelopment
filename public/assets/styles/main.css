@@ -1015,3 +1015,5 @@ body ::selection {
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .z-30 { z-index: 30; }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
