@@ -1017,3 +1017,5 @@ body ::selection {
 .z-30 { z-index: 30; }
 
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
