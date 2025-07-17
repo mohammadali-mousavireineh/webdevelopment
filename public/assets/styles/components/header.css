@@ -553,3 +553,5 @@
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.shadow-lg { box-shadow: 0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05); }
