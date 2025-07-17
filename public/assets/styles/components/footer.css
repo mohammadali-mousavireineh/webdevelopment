@@ -194,3 +194,5 @@
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
 
 .dropdown { position: relative; display: inline-block; }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
