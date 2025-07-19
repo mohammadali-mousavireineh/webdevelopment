@@ -1009,3 +1009,5 @@ body ::selection {
 .skeleton { background: linear-gradient(90deg, var(--color-surface-alt) 25%, var(--color-surface) 50%, var(--color-surface-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: var(--radius-sm); }
 
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
+
+.dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
