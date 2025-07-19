@@ -551,3 +551,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
+
+.form-group { margin-bottom: var(--spacing-md); }
