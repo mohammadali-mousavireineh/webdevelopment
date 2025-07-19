@@ -197,3 +197,5 @@
 .resize { resize: both; }
 
 .toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
+
+.badge { display: inline-block; padding: 0.25em 0.6em; font-size: 0.75em; font-weight: 600; border-radius: var(--radius-sm); background: var(--color-primary-light); color: var(--color-primary); }
