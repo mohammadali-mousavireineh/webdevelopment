@@ -194,3 +194,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
+
+.whitespace-pre-line { white-space: pre-line; }
