@@ -264,3 +264,5 @@
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
 
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+.page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
