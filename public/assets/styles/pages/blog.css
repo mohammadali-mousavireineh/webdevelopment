@@ -190,3 +190,5 @@
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+@keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
