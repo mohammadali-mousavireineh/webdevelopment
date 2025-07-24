@@ -247,3 +247,5 @@
 .media-body { flex: 1; }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
