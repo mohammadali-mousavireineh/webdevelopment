@@ -192,3 +192,5 @@
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
