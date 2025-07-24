@@ -545,3 +545,5 @@
 .shadow-sm { box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
 
 .whitespace-pre { white-space: pre; }
+
+.page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
