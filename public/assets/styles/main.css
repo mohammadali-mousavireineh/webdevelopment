@@ -995,3 +995,5 @@ body ::selection {
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
 
 .cursor-pointer { cursor: pointer; }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
