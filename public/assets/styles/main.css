@@ -999,3 +999,5 @@ body ::selection {
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.break-all { word-break: break-all; }
