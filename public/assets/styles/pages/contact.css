@@ -258,3 +258,5 @@
 .accordion-item:last-child { border-bottom: none; }
 
 .whitespace-normal { white-space: normal; }
+
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
