@@ -256,3 +256,5 @@
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
 
 .accordion-item:last-child { border-bottom: none; }
+
+.whitespace-normal { white-space: normal; }
