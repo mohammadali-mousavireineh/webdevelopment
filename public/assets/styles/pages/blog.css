@@ -186,3 +186,5 @@
 .cursor-move { cursor: move; }
 
 .accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
