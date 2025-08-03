@@ -1937,3 +1937,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .dropdown-item:hover { background: var(--color-surface-alt); }
+
+.tooltip:hover::after { opacity: 1; }
