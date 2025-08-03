@@ -185,3 +185,5 @@
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 .z-30 { z-index: 30; }
+
+.content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
