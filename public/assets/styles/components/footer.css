@@ -190,3 +190,5 @@
 .z-20 { z-index: 20; }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
