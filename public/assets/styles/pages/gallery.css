@@ -220,3 +220,5 @@
 .whitespace-normal { white-space: normal; }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.form-group { margin-bottom: var(--spacing-md); }
