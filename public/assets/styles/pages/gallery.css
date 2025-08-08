@@ -216,3 +216,5 @@
 .z-20 { z-index: 20; }
 
 .modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
+
+.whitespace-normal { white-space: normal; }
