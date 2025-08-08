@@ -531,3 +531,5 @@
 .resize-x { resize: horizontal; }
 
 .whitespace-pre-line { white-space: pre-line; }
+
+.tooltip:hover::after { opacity: 1; }
