@@ -527,3 +527,5 @@
 .page-link:hover { background: var(--color-primary-light); }
 
 .resize-none { resize: none; }
+
+.resize-x { resize: horizontal; }
