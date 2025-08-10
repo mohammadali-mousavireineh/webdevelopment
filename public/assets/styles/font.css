@@ -181,3 +181,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
