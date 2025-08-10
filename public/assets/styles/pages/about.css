@@ -229,3 +229,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .pointer-events-none { pointer-events: none; }
+
+.z-50 { z-index: 50; }
