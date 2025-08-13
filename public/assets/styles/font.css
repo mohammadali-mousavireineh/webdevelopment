@@ -179,3 +179,5 @@
 .cursor-wait { cursor: wait; }
 
 .cursor-not-allowed { cursor: not-allowed; }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
