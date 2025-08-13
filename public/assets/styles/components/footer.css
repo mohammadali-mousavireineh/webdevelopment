@@ -188,3 +188,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .z-20 { z-index: 20; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
