@@ -244,3 +244,5 @@
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+.resize { resize: both; }
