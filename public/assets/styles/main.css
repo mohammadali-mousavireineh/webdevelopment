@@ -975,3 +975,5 @@ body ::selection {
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
