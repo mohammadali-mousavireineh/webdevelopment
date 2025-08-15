@@ -973,3 +973,5 @@ body ::selection {
 .transition-slow { transition: all var(--transition-slow); }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
