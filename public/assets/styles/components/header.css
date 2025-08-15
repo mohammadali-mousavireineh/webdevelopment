@@ -525,3 +525,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.resize-none { resize: none; }
