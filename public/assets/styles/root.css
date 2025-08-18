@@ -337,3 +337,5 @@
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
 
 .resize-y { resize: vertical; }
+
+.break-all { word-break: break-all; }
