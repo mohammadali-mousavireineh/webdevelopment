@@ -242,3 +242,5 @@
 .hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
 
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+
+.dropdown:hover .dropdown-menu { display: block; }
