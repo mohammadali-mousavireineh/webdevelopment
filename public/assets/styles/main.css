@@ -971,3 +971,5 @@ body ::selection {
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
