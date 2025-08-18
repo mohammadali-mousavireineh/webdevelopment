@@ -186,3 +186,5 @@
 .transition-slow { transition: all var(--transition-slow); }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.z-20 { z-index: 20; }
