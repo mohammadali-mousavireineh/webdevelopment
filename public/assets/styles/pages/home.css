@@ -1933,3 +1933,5 @@
 .hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
 
 .transition { transition: all var(--transition-normal); }
+
+.tooltip { position: relative; display: inline-block; }
