@@ -339,3 +339,5 @@
 .resize-y { resize: vertical; }
 
 .break-all { word-break: break-all; }
+
+.tooltip { position: relative; display: inline-block; }
