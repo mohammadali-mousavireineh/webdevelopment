@@ -184,3 +184,5 @@
 .dropdown-menu { position: absolute; top: 100%; right: 0; min-width: 160px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); box-shadow: var(--shadow-md); padding: var(--spacing-xs); display: none; z-index: var(--z-dropdown); }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+@keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
