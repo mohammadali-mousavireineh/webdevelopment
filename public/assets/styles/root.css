@@ -335,3 +335,5 @@
 .resize-y { resize: vertical; }
 
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
+
+.resize-y { resize: vertical; }
