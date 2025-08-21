@@ -206,3 +206,5 @@
 .resize-none { resize: none; }
 
 .hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
+
+.cursor-not-allowed { cursor: not-allowed; }
