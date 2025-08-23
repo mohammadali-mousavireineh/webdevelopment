@@ -171,3 +171,5 @@
 .form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
 
 .shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
