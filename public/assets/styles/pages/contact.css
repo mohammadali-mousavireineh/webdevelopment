@@ -236,3 +236,5 @@
 .z-50 { z-index: 50; }
 
 .z-40 { z-index: 40; }
+
+.form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
