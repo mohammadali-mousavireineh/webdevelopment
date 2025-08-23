@@ -325,3 +325,5 @@
 .z-50 { z-index: 50; }
 
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
