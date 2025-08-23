@@ -238,3 +238,5 @@
 .z-40 { z-index: 40; }
 
 .form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
+
+.hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
