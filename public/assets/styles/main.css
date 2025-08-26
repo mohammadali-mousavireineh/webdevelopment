@@ -967,3 +967,5 @@ body ::selection {
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
 
 .form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
