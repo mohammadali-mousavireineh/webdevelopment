@@ -1001,3 +1001,5 @@
 .resize-none { resize: none; }
 
 @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
