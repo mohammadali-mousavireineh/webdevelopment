@@ -211,3 +211,5 @@
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
 
 .pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
+
+.tooltip::after { content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding: 0.25rem 0.5rem; background: var(--color-text); color: #fff; font-size: 0.75rem; border-radius: var(--radius-sm); white-space: nowrap; opacity: 0; pointer-events: none; }
