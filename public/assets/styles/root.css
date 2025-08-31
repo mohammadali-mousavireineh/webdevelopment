@@ -321,3 +321,5 @@
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.z-50 { z-index: 50; }
