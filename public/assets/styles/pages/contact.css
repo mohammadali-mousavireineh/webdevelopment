@@ -232,3 +232,5 @@
 .whitespace-normal { white-space: normal; }
 
 .resize { resize: both; }
+
+.z-50 { z-index: 50; }
