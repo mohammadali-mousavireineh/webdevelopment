@@ -319,3 +319,5 @@
 .whitespace-pre { white-space: pre; }
 
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
+
+.page-link:hover { background: var(--color-primary-light); }
