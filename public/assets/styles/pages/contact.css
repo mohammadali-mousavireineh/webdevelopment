@@ -230,3 +230,5 @@
 .select-none { user-select: none; -webkit-user-select: none; }
 
 .whitespace-normal { white-space: normal; }
+
+.resize { resize: both; }
