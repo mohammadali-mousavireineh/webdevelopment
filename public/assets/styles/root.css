@@ -315,3 +315,5 @@
 .break-words { overflow-wrap: break-word; }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.whitespace-pre { white-space: pre; }
