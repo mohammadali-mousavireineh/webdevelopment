@@ -317,3 +317,5 @@
 .transition-fast { transition: all var(--transition-fast); }
 
 .whitespace-pre { white-space: pre; }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
