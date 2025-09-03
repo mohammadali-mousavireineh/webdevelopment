@@ -170,3 +170,5 @@
 .modal-body { margin-bottom: var(--spacing-md); }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
