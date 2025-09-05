@@ -200,3 +200,5 @@
 .break-all { word-break: break-all; }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.accordion-item:last-child { border-bottom: none; }
