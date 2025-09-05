@@ -168,3 +168,5 @@
 .tab-content { padding: var(--spacing-lg) 0; }
 
 .modal-body { margin-bottom: var(--spacing-md); }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
