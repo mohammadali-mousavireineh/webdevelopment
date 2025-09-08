@@ -166,3 +166,5 @@
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
 
 .tab-content { padding: var(--spacing-lg) 0; }
+
+.modal-body { margin-bottom: var(--spacing-md); }
