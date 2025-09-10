@@ -309,3 +309,5 @@
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
