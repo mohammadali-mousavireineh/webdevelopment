@@ -170,3 +170,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
+
+.select-none { user-select: none; -webkit-user-select: none; }
