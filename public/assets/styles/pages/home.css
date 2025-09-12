@@ -1917,3 +1917,5 @@
 .resize { resize: both; }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.page-link { display: block; padding: 0.375rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-sm); color: var(--color-primary); text-decoration: none; }
