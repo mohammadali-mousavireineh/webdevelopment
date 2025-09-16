@@ -957,3 +957,5 @@ body ::selection {
 .shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
 
 .tab-content { padding: var(--spacing-lg) 0; }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
