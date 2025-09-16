@@ -194,3 +194,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .whitespace-pre-line { white-space: pre-line; }
+
+.table { width: 100%; border-collapse: collapse; }
