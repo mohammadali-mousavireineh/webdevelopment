@@ -295,3 +295,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+
+.tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
