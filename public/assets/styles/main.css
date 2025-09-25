@@ -951,3 +951,5 @@ body ::selection {
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .cursor-pointer { cursor: pointer; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
