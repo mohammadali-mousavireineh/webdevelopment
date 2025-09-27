@@ -503,3 +503,5 @@
 .whitespace-nowrap { white-space: nowrap; }
 
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
+
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
