@@ -152,3 +152,5 @@
 .resize-x { resize: horizontal; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
