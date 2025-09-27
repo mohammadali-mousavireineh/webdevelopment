@@ -985,3 +985,5 @@
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .badge { display: inline-block; padding: 0.25em 0.6em; font-size: 0.75em; font-weight: 600; border-radius: var(--radius-sm); background: var(--color-primary-light); color: var(--color-primary); }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
