@@ -195,3 +195,5 @@
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
 .break-words { overflow-wrap: break-word; }
+
+.cursor-move { cursor: move; }
