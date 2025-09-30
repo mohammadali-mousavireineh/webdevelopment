@@ -293,3 +293,5 @@
 .z-30 { z-index: 30; }
 
 .dropdown-item:hover { background: var(--color-surface-alt); }
+
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
