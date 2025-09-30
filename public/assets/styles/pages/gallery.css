@@ -186,3 +186,5 @@
 .form-group { margin-bottom: var(--spacing-md); }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.accordion-item:last-child { border-bottom: none; }
