@@ -981,3 +981,5 @@
 @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
