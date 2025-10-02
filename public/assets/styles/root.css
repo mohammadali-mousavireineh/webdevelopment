@@ -289,3 +289,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .section { padding: var(--spacing-xl) 0; }
+
+.z-30 { z-index: 30; }
