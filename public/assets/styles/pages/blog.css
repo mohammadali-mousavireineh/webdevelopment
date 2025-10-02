@@ -150,3 +150,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .resize-x { resize: horizontal; }
+
+.form-group { margin-bottom: var(--spacing-md); }
