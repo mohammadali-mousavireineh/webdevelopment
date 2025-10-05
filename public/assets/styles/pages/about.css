@@ -191,3 +191,5 @@
 .pointer-events-none { pointer-events: none; }
 
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
+
+.page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
