@@ -204,3 +204,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
+
+.section-title { font-size: var(--font-size-2xl); font-weight: 700; margin-bottom: var(--spacing-lg); color: var(--color-text); }
