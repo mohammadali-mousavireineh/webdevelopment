@@ -975,3 +975,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .media-body { flex: 1; }
+
+.resize-x { resize: horizontal; }
