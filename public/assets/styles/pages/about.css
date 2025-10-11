@@ -185,3 +185,5 @@
 .resize-none { resize: none; }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.shadow-none { box-shadow: none; }
