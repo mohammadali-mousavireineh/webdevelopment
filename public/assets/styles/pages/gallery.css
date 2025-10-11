@@ -184,3 +184,5 @@
 .resize-x { resize: horizontal; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.whitespace-nowrap { white-space: nowrap; }
