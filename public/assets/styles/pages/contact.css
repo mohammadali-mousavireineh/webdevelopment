@@ -198,3 +198,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
