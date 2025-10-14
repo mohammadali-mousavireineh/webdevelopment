@@ -183,3 +183,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .resize-none { resize: none; }
+
+.table { width: 100%; border-collapse: collapse; }
