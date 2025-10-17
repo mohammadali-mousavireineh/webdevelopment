@@ -142,3 +142,5 @@
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.transition-slow { transition: all var(--transition-slow); }
