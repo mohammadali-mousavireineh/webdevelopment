@@ -181,3 +181,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .tooltip { position: relative; display: inline-block; }
+
+.resize-none { resize: none; }
