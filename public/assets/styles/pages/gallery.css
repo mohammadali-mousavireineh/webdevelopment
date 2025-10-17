@@ -182,3 +182,5 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .resize-x { resize: horizontal; }
+
+.form-group { margin-bottom: var(--spacing-md); }
