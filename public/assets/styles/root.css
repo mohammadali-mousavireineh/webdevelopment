@@ -285,3 +285,5 @@
 .z-10 { z-index: 10; }
 
 .dropdown-item:hover { background: var(--color-surface-alt); }
+
+.dropdown-item:hover { background: var(--color-surface-alt); }
