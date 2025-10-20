@@ -489,3 +489,5 @@
 .resize-none { resize: none; }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
