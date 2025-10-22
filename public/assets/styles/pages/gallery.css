@@ -174,3 +174,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
