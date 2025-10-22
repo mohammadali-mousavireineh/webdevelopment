@@ -149,3 +149,5 @@
 .alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
 
 .modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
