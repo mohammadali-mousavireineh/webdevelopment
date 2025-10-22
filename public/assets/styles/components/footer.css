@@ -140,3 +140,5 @@
 .select-none { user-select: none; -webkit-user-select: none; }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.page-link:hover { background: var(--color-primary-light); }
