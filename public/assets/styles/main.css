@@ -941,3 +941,5 @@ body ::selection {
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
+
+.z-40 { z-index: 40; }
