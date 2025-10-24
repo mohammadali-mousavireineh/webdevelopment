@@ -130,3 +130,5 @@
 .pointer-events-auto { pointer-events: auto; }
 
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
+
+.tooltip:hover::after { opacity: 1; }
