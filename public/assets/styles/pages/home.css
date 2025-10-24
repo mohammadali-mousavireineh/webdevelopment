@@ -1909,3 +1909,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
