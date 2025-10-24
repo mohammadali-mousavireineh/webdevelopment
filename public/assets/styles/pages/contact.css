@@ -188,3 +188,5 @@
 @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
