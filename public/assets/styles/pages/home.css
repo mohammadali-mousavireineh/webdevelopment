@@ -1911,3 +1911,5 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
+
+.form-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font-size: var(--font-size-base); }
