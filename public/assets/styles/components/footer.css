@@ -138,3 +138,5 @@
 .z-40 { z-index: 40; }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
