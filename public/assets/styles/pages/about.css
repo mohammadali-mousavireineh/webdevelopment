@@ -173,3 +173,5 @@
 .section { padding: var(--spacing-xl) 0; }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.tooltip:hover::after { opacity: 1; }
