@@ -134,3 +134,5 @@
 .resize-x { resize: horizontal; }
 
 .pointer-events-auto { pointer-events: auto; }
+
+.z-40 { z-index: 40; }
