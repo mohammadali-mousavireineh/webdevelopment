@@ -935,3 +935,5 @@ body ::selection {
 .shadow-none { box-shadow: none; }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.z-30 { z-index: 30; }
