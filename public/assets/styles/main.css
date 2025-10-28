@@ -937,3 +937,5 @@ body ::selection {
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .z-30 { z-index: 30; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
