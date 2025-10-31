@@ -1907,3 +1907,5 @@
 .modal-body { margin-bottom: var(--spacing-md); }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
