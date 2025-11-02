@@ -963,3 +963,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.tooltip:hover::after { opacity: 1; }
