@@ -130,3 +130,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .transition { transition: all var(--transition-normal); }
+
+.resize-x { resize: horizontal; }
