@@ -336,3 +336,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 .z-10 { z-index: 10; }
+
+.origin-left { transform-origin: left; }
