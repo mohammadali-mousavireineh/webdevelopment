@@ -277,3 +277,5 @@
 .dropdown:hover .dropdown-menu { display: block; }
 
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
+
+.toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
