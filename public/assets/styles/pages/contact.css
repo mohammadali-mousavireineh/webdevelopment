@@ -174,3 +174,5 @@
 .transition-fast { transition: all var(--transition-fast); }
 
 .dropdown { position: relative; display: inline-block; }
+
+.transition-fast { transition: all var(--transition-fast); }
