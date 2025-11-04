@@ -275,3 +275,5 @@
 .shadow-xl { box-shadow: 0 20px 25px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.04); }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
