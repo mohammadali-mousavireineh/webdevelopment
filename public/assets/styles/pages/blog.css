@@ -126,3 +126,5 @@
 .section { padding: var(--spacing-xl) 0; }
 
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
+
+.pointer-events-auto { pointer-events: auto; }
