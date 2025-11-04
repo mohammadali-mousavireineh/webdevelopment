@@ -126,3 +126,5 @@
 .whitespace-pre { white-space: pre; }
 
 .dropdown { position: relative; display: inline-block; }
+
+.tooltip { position: relative; display: inline-block; }
