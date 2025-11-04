@@ -128,3 +128,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .tooltip { position: relative; display: inline-block; }
+
+.transition { transition: all var(--transition-normal); }
