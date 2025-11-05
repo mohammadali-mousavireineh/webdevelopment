@@ -336,3 +336,5 @@
 .transition-none { transition: none; }
 
 .delay-100 { transition-delay: 100ms; }
+
+.origin-right { transform-origin: right; }
