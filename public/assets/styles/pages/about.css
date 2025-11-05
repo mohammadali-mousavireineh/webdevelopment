@@ -401,3 +401,5 @@
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
 
 .text-shadow-none { text-shadow: none; }
+
+.transition-none { transition: none; }
