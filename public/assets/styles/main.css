@@ -1139,3 +1139,5 @@ body ::selection {
 .transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 
 .backdrop-blur-lg { backdrop-filter: blur(16px); }
+
+.text-shadow-lg { text-shadow: 0 2px 4px rgba(0,0,0,0.15); }
