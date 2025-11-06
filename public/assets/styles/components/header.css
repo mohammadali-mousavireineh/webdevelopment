@@ -687,3 +687,5 @@
 .rotate-90 { transform: rotate(90deg); }
 
 .shadow-2xl { box-shadow: 0 25px 50px rgba(0,0,0,0.15); }
+
+.self-center { align-self: center; }
