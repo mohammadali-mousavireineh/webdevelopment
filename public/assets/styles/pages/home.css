@@ -1901,3 +1901,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.tooltip:hover::after { opacity: 1; }
