@@ -403,3 +403,5 @@
 .text-shadow-none { text-shadow: none; }
 
 .transition-none { transition: none; }
+
+.grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
