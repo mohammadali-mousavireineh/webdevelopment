@@ -1131,3 +1131,5 @@
 .transition-none { transition: none; }
 
 .bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
+
+.scale-95 { transform: scale(0.95); }
