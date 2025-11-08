@@ -354,3 +354,5 @@
 .delay-100 { transition-delay: 100ms; }
 
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
+
+.transition-all { transition: all 0.2s ease; }
