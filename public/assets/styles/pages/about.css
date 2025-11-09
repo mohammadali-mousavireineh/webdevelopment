@@ -381,3 +381,5 @@
 .cursor-default { cursor: default; }
 
 .duration-75 { transition-duration: 75ms; }
+
+.shadow-2xl { box-shadow: 0 25px 50px rgba(0,0,0,0.15); }
