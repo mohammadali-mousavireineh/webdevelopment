@@ -122,3 +122,5 @@
 .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.whitespace-pre { white-space: pre; }
