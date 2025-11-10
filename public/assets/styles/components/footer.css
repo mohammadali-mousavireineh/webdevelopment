@@ -124,3 +124,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .whitespace-pre { white-space: pre; }
+
+.dropdown { position: relative; display: inline-block; }
