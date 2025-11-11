@@ -691,3 +691,5 @@
 .self-center { align-self: center; }
 
 .rotate-180 { transform: rotate(180deg); }
+
+.self-start { align-self: flex-start; }
