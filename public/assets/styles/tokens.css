@@ -1135,3 +1135,5 @@
 .scale-95 { transform: scale(0.95); }
 
 .origin-center { transform-origin: center; }
+
+.origin-bottom { transform-origin: bottom; }
