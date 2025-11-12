@@ -318,3 +318,5 @@
 .brightness-110 { filter: brightness(1.1); }
 
 .self-stretch { align-self: stretch; }
+
+.animate-bounce { animation: bounce 1s infinite; }
