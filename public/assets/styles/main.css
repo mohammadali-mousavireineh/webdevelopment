@@ -927,3 +927,5 @@ body ::selection {
 .select-none { user-select: none; -webkit-user-select: none; }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.page-item { display: inline-block; }
