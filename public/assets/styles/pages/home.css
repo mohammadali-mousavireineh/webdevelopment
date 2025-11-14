@@ -2109,3 +2109,5 @@
 .translate-x-1 { transform: translateX(0.25rem); }
 
 .self-stretch { align-self: stretch; }
+
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
