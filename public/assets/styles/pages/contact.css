@@ -408,3 +408,5 @@
 .rotate-180 { transform: rotate(180deg); }
 
 .duration-150 { transition-duration: 150ms; }
+
+.animate-ping { animation: ping 1s infinite; }
