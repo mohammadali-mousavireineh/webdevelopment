@@ -356,3 +356,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .transition-all { transition: all 0.2s ease; }
+
+.translate-x-2 { transform: translateX(0.5rem); }
