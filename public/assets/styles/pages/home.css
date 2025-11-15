@@ -2111,3 +2111,5 @@
 .self-stretch { align-self: stretch; }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.col-span-2 { grid-column: span 2 / span 2; }
