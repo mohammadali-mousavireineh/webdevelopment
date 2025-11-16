@@ -158,3 +158,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .z-30 { z-index: 30; }
+
+.table { width: 100%; border-collapse: collapse; }
