@@ -135,3 +135,5 @@
 .resize-none { resize: none; }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.cursor-not-allowed { cursor: not-allowed; }
