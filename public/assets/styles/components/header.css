@@ -479,3 +479,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .tooltip:hover::after { opacity: 1; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
