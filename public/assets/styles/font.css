@@ -137,3 +137,5 @@
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .cursor-not-allowed { cursor: not-allowed; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
