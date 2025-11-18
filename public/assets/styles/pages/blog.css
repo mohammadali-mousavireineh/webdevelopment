@@ -118,3 +118,5 @@
 .transition-fast { transition: all var(--transition-fast); }
 
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
