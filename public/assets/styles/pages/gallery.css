@@ -156,3 +156,5 @@
 .resize-none { resize: none; }
 
 .cursor-pointer { cursor: pointer; }
+
+.z-30 { z-index: 30; }
