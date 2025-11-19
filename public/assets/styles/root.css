@@ -479,3 +479,5 @@
 .self-end { align-self: flex-end; }
 
 .row-span-3 { grid-row: span 3 / span 3; }
+
+.contrast-150 { filter: contrast(1.5); }
