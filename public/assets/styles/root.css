@@ -481,3 +481,5 @@
 .row-span-3 { grid-row: span 3 / span 3; }
 
 .contrast-150 { filter: contrast(1.5); }
+
+.col-span-1 { grid-column: span 1 / span 1; }
