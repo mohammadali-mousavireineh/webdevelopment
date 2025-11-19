@@ -1137,3 +1137,5 @@
 .origin-center { transform-origin: center; }
 
 .origin-bottom { transform-origin: bottom; }
+
+.row-span-1 { grid-row: span 1 / span 1; }
