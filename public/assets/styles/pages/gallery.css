@@ -358,3 +358,5 @@
 .transition-all { transition: all 0.2s ease; }
 
 .translate-x-2 { transform: translateX(0.5rem); }
+
+.ease-linear { transition-timing-function: linear; }
