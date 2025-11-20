@@ -322,3 +322,5 @@
 .animate-bounce { animation: bounce 1s infinite; }
 
 .origin-left { transform-origin: left; }
+
+.contrast-150 { filter: contrast(1.5); }
