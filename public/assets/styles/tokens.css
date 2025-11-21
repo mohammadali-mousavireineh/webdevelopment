@@ -957,3 +957,5 @@
 .cursor-default { cursor: default; }
 
 .resize-none { resize: none; }
+
+.dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
