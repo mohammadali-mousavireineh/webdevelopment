@@ -1119,3 +1119,5 @@
 .shadow-none { box-shadow: none; }
 
 .btn-outline { border: 2px solid var(--color-primary); background: transparent; color: var(--color-primary); padding: 0.5rem 1.25rem; border-radius: var(--radius-md); cursor: pointer; transition: all var(--transition-fast); }
+
+.col-span-3 { grid-column: span 3 / span 3; }
