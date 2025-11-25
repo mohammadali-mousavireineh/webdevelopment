@@ -695,3 +695,5 @@
 .self-start { align-self: flex-start; }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
