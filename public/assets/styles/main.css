@@ -1145,3 +1145,5 @@ body ::selection {
 .text-shadow-lg { text-shadow: 0 2px 4px rgba(0,0,0,0.15); }
 
 .grayscale { filter: grayscale(100%); }
+
+.shadow-2xl { box-shadow: 0 25px 50px rgba(0,0,0,0.15); }
