@@ -693,3 +693,5 @@
 .rotate-180 { transform: rotate(180deg); }
 
 .self-start { align-self: flex-start; }
+
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
