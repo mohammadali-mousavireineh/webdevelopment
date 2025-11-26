@@ -131,3 +131,5 @@
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.resize-none { resize: none; }
