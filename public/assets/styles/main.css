@@ -925,3 +925,5 @@ body ::selection {
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
