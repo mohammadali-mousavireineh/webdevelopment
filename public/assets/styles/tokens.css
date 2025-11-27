@@ -1141,3 +1141,5 @@
 .row-span-1 { grid-row: span 1 / span 1; }
 
 .translate-y-2 { transform: translateY(0.5rem); }
+
+.hue-rotate-180 { filter: hue-rotate(180deg); }
