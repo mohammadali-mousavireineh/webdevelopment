@@ -412,3 +412,5 @@
 .animate-ping { animation: ping 1s infinite; }
 
 .backdrop-blur-lg { backdrop-filter: blur(16px); }
+
+.animate-bounce { animation: bounce 1s infinite; }
