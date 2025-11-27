@@ -360,3 +360,5 @@
 .translate-x-2 { transform: translateX(0.5rem); }
 
 .ease-linear { transition-timing-function: linear; }
+
+.translate-y-1 { transform: translateY(0.25rem); }
