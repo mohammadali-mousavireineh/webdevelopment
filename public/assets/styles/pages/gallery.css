@@ -362,3 +362,5 @@
 .ease-linear { transition-timing-function: linear; }
 
 .translate-y-1 { transform: translateY(0.25rem); }
+
+.col-span-2 { grid-column: span 2 / span 2; }
