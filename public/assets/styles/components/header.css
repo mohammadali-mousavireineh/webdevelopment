@@ -467,3 +467,5 @@
 .z-30 { z-index: 30; }
 
 .break-words { overflow-wrap: break-word; }
+
+.accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
