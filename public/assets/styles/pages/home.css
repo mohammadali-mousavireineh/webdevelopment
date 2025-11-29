@@ -1883,3 +1883,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .table th { background: var(--color-surface-alt); font-weight: 600; padding: 0.75rem; text-align: right; }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
