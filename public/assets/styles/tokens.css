@@ -951,3 +951,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+
+.tab-item { padding: 0.625rem 1.25rem; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; color: var(--color-text-muted); }
