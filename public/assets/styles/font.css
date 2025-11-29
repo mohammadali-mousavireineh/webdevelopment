@@ -127,3 +127,5 @@
 .z-50 { z-index: 50; }
 
 .tooltip:hover::after { opacity: 1; }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
