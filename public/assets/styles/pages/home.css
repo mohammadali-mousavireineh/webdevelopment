@@ -2087,3 +2087,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
+
+.duration-200 { transition-duration: 200ms; }
