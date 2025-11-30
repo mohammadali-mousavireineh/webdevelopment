@@ -677,3 +677,5 @@
 .self-start { align-self: flex-start; }
 
 .saturate-150 { filter: saturate(1.5); }
+
+.contrast-50 { filter: contrast(0.5); }
