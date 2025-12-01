@@ -949,3 +949,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
