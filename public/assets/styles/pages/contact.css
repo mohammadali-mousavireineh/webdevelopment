@@ -166,3 +166,5 @@
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
 
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+.pointer-events-auto { pointer-events: auto; }
