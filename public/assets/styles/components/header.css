@@ -465,3 +465,5 @@
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .z-30 { z-index: 30; }
+
+.break-words { overflow-wrap: break-word; }
