@@ -415,3 +415,5 @@
 .ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
 
 .backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+
+.row-span-2 { grid-row: span 2 / span 2; }
