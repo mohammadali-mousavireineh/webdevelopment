@@ -947,3 +947,5 @@
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.break-normal { overflow-wrap: normal; word-break: normal; }
