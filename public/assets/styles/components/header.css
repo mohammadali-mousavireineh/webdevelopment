@@ -461,3 +461,5 @@
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
 
 .media-body { flex: 1; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
