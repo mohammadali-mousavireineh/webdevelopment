@@ -354,3 +354,5 @@
 .row-span-2 { grid-row: span 2 / span 2; }
 
 .duration-300 { transition-duration: 300ms; }
+
+@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-25%); } }
