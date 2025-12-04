@@ -352,3 +352,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .row-span-2 { grid-row: span 2 / span 2; }
+
+.duration-300 { transition-duration: 300ms; }
