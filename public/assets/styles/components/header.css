@@ -459,3 +459,5 @@
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
 
 .table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
+
+.media-body { flex: 1; }
