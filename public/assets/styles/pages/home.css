@@ -1879,3 +1879,5 @@
 .cursor-wait { cursor: wait; }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+.btn-outline:hover { background: var(--color-primary); color: #fff; }
