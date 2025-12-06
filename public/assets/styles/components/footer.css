@@ -110,3 +110,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.whitespace-pre-line { white-space: pre-line; }
