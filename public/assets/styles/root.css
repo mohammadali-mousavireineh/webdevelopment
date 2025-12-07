@@ -485,3 +485,5 @@
 .col-span-1 { grid-column: span 1 / span 1; }
 
 .origin-top-right { transform-origin: top right; }
+
+.blur-none { filter: blur(0); }
