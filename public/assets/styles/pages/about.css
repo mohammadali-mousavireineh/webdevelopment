@@ -417,3 +417,5 @@
 .backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
 
 .row-span-2 { grid-row: span 2 / span 2; }
+
+.translate-x-1 { transform: translateX(0.25rem); }
