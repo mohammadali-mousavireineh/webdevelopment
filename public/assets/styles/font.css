@@ -115,3 +115,5 @@
 .resize-y { resize: vertical; }
 
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
