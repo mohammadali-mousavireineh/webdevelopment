@@ -328,3 +328,5 @@
 .rotate-180 { transform: rotate(180deg); }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.brightness-110 { filter: brightness(1.1); }
