@@ -701,3 +701,5 @@
 .-rotate-45 { transform: rotate(-45deg); }
 
 .self-end { align-self: flex-end; }
+
+.blur-none { filter: blur(0); }
