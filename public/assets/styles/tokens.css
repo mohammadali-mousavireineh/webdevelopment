@@ -1143,3 +1143,5 @@
 .translate-y-2 { transform: translateY(0.5rem); }
 
 .hue-rotate-180 { filter: hue-rotate(180deg); }
+
+.text-shadow { text-shadow: 0 1px 2px rgba(0,0,0,0.1); }
