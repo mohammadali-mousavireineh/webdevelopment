@@ -374,3 +374,5 @@
 .hue-rotate-60 { filter: hue-rotate(60deg); }
 
 .self-stretch { align-self: stretch; }
+
+.animate-spin { animation: spin 1s linear infinite; }
