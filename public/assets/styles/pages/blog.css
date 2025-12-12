@@ -104,3 +104,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .z-30 { z-index: 30; }
+
+.shadow-md { box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06); }
