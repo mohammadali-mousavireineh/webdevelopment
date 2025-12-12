@@ -102,3 +102,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.z-30 { z-index: 30; }
