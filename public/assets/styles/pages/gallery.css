@@ -378,3 +378,5 @@
 .animate-spin { animation: spin 1s linear infinite; }
 
 .contrast-50 { filter: contrast(0.5); }
+
+.rotate-180 { transform: rotate(180deg); }
