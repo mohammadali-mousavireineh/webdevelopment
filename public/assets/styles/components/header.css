@@ -455,3 +455,5 @@
 .media-body { flex: 1; }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
