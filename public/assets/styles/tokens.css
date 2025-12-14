@@ -935,3 +935,5 @@
 .pointer-events-auto { pointer-events: auto; }
 
 .dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
+
+.accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
