@@ -453,3 +453,5 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .media-body { flex: 1; }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
