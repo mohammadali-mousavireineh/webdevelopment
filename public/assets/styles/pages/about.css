@@ -423,3 +423,5 @@
 .rotate-45 { transform: rotate(45deg); }
 
 .origin-top { transform-origin: top; }
+
+.origin-top-right { transform-origin: top right; }
