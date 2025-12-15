@@ -487,3 +487,5 @@
 .origin-top-right { transform-origin: top right; }
 
 .blur-none { filter: blur(0); }
+
+.translate-y-2 { transform: translateY(0.5rem); }
