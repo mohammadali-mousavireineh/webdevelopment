@@ -425,3 +425,5 @@
 .origin-top { transform-origin: top; }
 
 .origin-top-right { transform-origin: top right; }
+
+.animate-ping { animation: ping 1s infinite; }
