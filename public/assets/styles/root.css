@@ -471,3 +471,5 @@
 .resize-x { resize: horizontal; }
 
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
+
+.text-shadow-none { text-shadow: none; }
