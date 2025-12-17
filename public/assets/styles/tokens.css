@@ -933,3 +933,5 @@
 .alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
 
 .pointer-events-auto { pointer-events: auto; }
+
+.dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
