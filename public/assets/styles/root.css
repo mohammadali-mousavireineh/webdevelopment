@@ -253,3 +253,5 @@
 .break-all { word-break: break-all; }
 
 .page-link { display: block; padding: 0.375rem 0.75rem; border: 1px solid var(--color-border); border-radius: var(--radius-sm); color: var(--color-primary); text-decoration: none; }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
