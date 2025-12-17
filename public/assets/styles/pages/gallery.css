@@ -146,3 +146,5 @@
 .badge { display: inline-block; padding: 0.25em 0.6em; font-size: 0.75em; font-weight: 600; border-radius: var(--radius-sm); background: var(--color-primary-light); color: var(--color-primary); }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.shadow-md { box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06); }
