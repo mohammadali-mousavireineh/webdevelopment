@@ -921,3 +921,5 @@ body ::selection {
 .z-40 { z-index: 40; }
 
 .shadow-none { box-shadow: none; }
+
+@keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
