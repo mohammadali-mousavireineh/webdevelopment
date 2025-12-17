@@ -923,3 +923,5 @@ body ::selection {
 .shadow-none { box-shadow: none; }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.select-none { user-select: none; -webkit-user-select: none; }
