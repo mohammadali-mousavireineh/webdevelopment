@@ -340,3 +340,5 @@
 .origin-left { transform-origin: left; }
 
 .delay-75 { transition-delay: 75ms; }
+
+.grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
