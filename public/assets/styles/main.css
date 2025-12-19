@@ -919,3 +919,5 @@ body ::selection {
 .page-link:hover { background: var(--color-primary-light); }
 
 .z-40 { z-index: 40; }
+
+.shadow-none { box-shadow: none; }
