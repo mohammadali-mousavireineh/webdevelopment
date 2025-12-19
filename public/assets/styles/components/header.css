@@ -451,3 +451,5 @@
 .transition-slow { transition: all var(--transition-slow); }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.media-body { flex: 1; }
