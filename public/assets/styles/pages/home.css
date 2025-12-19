@@ -1875,3 +1875,5 @@
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
+
+.cursor-wait { cursor: wait; }
