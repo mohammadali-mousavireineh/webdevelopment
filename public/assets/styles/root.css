@@ -245,3 +245,5 @@
 .z-20 { z-index: 20; }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.tooltip { position: relative; display: inline-block; }
