@@ -247,3 +247,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .tooltip { position: relative; display: inline-block; }
+
+.table { width: 100%; border-collapse: collapse; }
