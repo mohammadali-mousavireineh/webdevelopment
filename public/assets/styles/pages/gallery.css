@@ -144,3 +144,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .badge { display: inline-block; padding: 0.25em 0.6em; font-size: 0.75em; font-weight: 600; border-radius: var(--radius-sm); background: var(--color-primary-light); color: var(--color-primary); }
+
+.whitespace-nowrap { white-space: nowrap; }
