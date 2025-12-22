@@ -679,3 +679,5 @@
 .saturate-150 { filter: saturate(1.5); }
 
 .contrast-50 { filter: contrast(0.5); }
+
+.sepia { filter: sepia(100%); }
