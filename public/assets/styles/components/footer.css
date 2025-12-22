@@ -306,3 +306,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .hue-rotate-180 { filter: hue-rotate(180deg); }
+
+.self-stretch { align-self: stretch; }
