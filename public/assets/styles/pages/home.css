@@ -2089,3 +2089,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .duration-200 { transition-duration: 200ms; }
+
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
