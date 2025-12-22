@@ -388,3 +388,5 @@
 .duration-100 { transition-duration: 100ms; }
 
 .duration-200 { transition-duration: 200ms; }
+
+.self-center { align-self: center; }
