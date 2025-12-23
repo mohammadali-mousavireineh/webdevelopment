@@ -90,3 +90,5 @@
 .break-all { word-break: break-all; }
 
 .accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
