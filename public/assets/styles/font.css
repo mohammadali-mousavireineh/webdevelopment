@@ -111,3 +111,5 @@
 .whitespace-pre { white-space: pre; }
 
 .pointer-events-none { pointer-events: none; }
+
+.resize-y { resize: vertical; }
