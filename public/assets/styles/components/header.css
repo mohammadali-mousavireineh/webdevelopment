@@ -447,3 +447,5 @@
 .dropdown:hover .dropdown-menu { display: block; }
 
 .pointer-events-auto { pointer-events: auto; }
+
+.transition-slow { transition: all var(--transition-slow); }
