@@ -427,3 +427,5 @@
 .origin-top-right { transform-origin: top right; }
 
 .animate-ping { animation: ping 1s infinite; }
+
+.hue-rotate-180 { filter: hue-rotate(180deg); }
