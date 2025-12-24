@@ -418,3 +418,5 @@
 .bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
 
 .transition-opacity { transition: opacity 0.2s; }
+
+.invert { filter: invert(100%); }
