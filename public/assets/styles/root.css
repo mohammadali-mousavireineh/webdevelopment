@@ -491,3 +491,5 @@
 .translate-y-2 { transform: translateY(0.5rem); }
 
 .rotate-90 { transform: rotate(90deg); }
+
+.animate-bounce { animation: bounce 1s infinite; }
