@@ -2119,3 +2119,5 @@
 .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
 
 .text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
+
+.saturate-150 { filter: saturate(1.5); }
