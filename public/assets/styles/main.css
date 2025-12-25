@@ -1151,3 +1151,5 @@ body ::selection {
 .contrast-50 { filter: contrast(0.5); }
 
 .self-center { align-self: center; }
+
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
