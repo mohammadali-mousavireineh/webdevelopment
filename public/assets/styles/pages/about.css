@@ -429,3 +429,5 @@
 .animate-ping { animation: ping 1s infinite; }
 
 .hue-rotate-180 { filter: hue-rotate(180deg); }
+
+.skew-x-6 { transform: skewX(6deg); }
