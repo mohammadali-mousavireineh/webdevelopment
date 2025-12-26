@@ -915,3 +915,5 @@ body ::selection {
 .break-all { word-break: break-all; }
 
 .transition { transition: all var(--transition-normal); }
+
+.page-link:hover { background: var(--color-primary-light); }
