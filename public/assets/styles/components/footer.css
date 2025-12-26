@@ -98,3 +98,5 @@
 .resize-y { resize: vertical; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.accordion { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; }
