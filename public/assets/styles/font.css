@@ -109,3 +109,5 @@
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 .whitespace-pre { white-space: pre; }
+
+.pointer-events-none { pointer-events: none; }
