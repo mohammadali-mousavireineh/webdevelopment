@@ -445,3 +445,5 @@
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+.pointer-events-auto { pointer-events: auto; }
