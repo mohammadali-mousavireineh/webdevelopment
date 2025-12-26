@@ -1871,3 +1871,5 @@
 .transition-slow { transition: all var(--transition-slow); }
 
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
