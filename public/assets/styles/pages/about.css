@@ -431,3 +431,5 @@
 .hue-rotate-180 { filter: hue-rotate(180deg); }
 
 .skew-x-6 { transform: skewX(6deg); }
+
+.brightness-110 { filter: brightness(1.1); }
