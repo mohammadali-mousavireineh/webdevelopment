@@ -360,3 +360,5 @@
 .invert { filter: invert(100%); }
 
 .bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
+
+.grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
