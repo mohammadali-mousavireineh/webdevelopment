@@ -493,3 +493,5 @@
 .rotate-90 { transform: rotate(90deg); }
 
 .animate-bounce { animation: bounce 1s infinite; }
+
+.transition-none { transition: none; }
