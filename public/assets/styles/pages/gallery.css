@@ -382,3 +382,5 @@
 .rotate-180 { transform: rotate(180deg); }
 
 .ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
