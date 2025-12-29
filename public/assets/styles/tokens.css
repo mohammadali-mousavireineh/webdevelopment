@@ -927,3 +927,5 @@
 .cursor-move { cursor: move; }
 
 .pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
+
+.list-unstyled { list-style: none; padding: 0; margin: 0; }
