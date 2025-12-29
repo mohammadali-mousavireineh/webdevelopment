@@ -913,3 +913,5 @@ body ::selection {
 .form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
 
 .break-all { word-break: break-all; }
+
+.transition { transition: all var(--transition-normal); }
