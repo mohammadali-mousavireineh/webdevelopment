@@ -390,3 +390,5 @@
 .duration-200 { transition-duration: 200ms; }
 
 .self-center { align-self: center; }
+
+.grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
