@@ -1127,3 +1127,5 @@ body ::selection {
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .self-stretch { align-self: stretch; }
+
+.skew-x-6 { transform: skewX(6deg); }
