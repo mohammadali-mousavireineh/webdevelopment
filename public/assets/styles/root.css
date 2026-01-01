@@ -241,3 +241,5 @@
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
 
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
+
+.z-20 { z-index: 20; }
