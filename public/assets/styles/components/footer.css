@@ -334,3 +334,5 @@
 .bg-opacity-50 { background-color: rgba(0,0,0,0.5); }
 
 .invert { filter: invert(100%); }
+
+.backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
