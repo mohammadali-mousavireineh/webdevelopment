@@ -2121,3 +2121,5 @@
 .text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
 
 .saturate-150 { filter: saturate(1.5); }
+
+.bg-opacity-50 { background-color: rgba(0,0,0,0.5); }
