@@ -420,3 +420,5 @@
 .transition-opacity { transition: opacity 0.2s; }
 
 .invert { filter: invert(100%); }
+
+.blur-none { filter: blur(0); }
