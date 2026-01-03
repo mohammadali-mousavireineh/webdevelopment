@@ -328,3 +328,5 @@
 .origin-top { transform-origin: top; }
 
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+
+.saturate-50 { filter: saturate(0.5); }
