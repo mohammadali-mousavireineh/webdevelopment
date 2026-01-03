@@ -1125,3 +1125,5 @@
 .blur-lg { filter: blur(16px); }
 
 .grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
+
+.animate-ping { animation: ping 1s infinite; }
