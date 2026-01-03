@@ -2091,3 +2091,5 @@
 .duration-200 { transition-duration: 200ms; }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.rotate-90 { transform: rotate(90deg); }
