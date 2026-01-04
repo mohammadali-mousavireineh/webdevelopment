@@ -237,3 +237,5 @@
 .card { background: var(--color-surface); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); padding: var(--spacing-lg); }
 
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
