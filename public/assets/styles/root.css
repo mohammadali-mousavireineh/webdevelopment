@@ -239,3 +239,5 @@
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
