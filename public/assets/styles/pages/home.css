@@ -2125,3 +2125,5 @@
 .bg-opacity-50 { background-color: rgba(0,0,0,0.5); }
 
 .transition-opacity { transition: opacity 0.2s; }
+
+.grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
