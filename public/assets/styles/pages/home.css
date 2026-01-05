@@ -2127,3 +2127,5 @@
 .transition-opacity { transition: opacity 0.2s; }
 
 .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
+
+.col-span-full { grid-column: 1 / -1; }
