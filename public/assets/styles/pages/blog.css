@@ -364,3 +364,5 @@
 .grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
 
 .origin-right { transform-origin: right; }
+
+.translate-y-1 { transform: translateY(0.25rem); }
