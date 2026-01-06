@@ -144,3 +144,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .skeleton { background: linear-gradient(90deg, var(--color-surface-alt) 25%, var(--color-surface) 50%, var(--color-surface-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: var(--radius-sm); }
+
+.section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
