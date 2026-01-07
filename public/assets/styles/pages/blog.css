@@ -366,3 +366,5 @@
 .origin-right { transform-origin: right; }
 
 .translate-y-1 { transform: translateY(0.25rem); }
+
+.skew-y-6 { transform: skewY(6deg); }
