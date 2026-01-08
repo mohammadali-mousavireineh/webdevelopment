@@ -907,3 +907,5 @@ body ::selection {
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
 .tooltip:hover::after { opacity: 1; }
+
+.alert-info { background: var(--color-info-light, #e8f4fd); color: var(--color-info, #0c63e4); border-color: var(--color-info, #0c63e4); }
