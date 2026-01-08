@@ -86,3 +86,5 @@
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
 
 .dropdown-item { display: block; padding: 0.5rem 0.75rem; color: var(--color-text); text-decoration: none; border-radius: var(--radius-sm); }
+
+.break-all { word-break: break-all; }
