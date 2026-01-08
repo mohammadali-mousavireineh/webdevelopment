@@ -135,3 +135,5 @@
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
 
 .shadow-md { box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06); }
+
+.tooltip::after { content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding: 0.25rem 0.5rem; background: var(--color-text); color: #fff; font-size: 0.75rem; border-radius: var(--radius-sm); white-space: nowrap; opacity: 0; pointer-events: none; }
