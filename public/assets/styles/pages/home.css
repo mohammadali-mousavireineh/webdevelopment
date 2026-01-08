@@ -1869,3 +1869,5 @@
 .z-20 { z-index: 20; }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
