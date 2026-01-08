@@ -132,3 +132,5 @@
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
 
 .cursor-pointer { cursor: pointer; }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
