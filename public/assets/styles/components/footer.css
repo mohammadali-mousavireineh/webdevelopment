@@ -338,3 +338,5 @@
 .backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
 
 .blur-none { filter: blur(0); }
+
+.contrast-150 { filter: contrast(1.5); }
