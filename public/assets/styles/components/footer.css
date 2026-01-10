@@ -340,3 +340,5 @@
 .blur-none { filter: blur(0); }
 
 .contrast-150 { filter: contrast(1.5); }
+
+.origin-right { transform-origin: right; }
