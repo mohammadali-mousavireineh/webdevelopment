@@ -1867,3 +1867,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .z-20 { z-index: 20; }
+
+.transition-slow { transition: all var(--transition-slow); }
