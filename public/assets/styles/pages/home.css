@@ -1865,3 +1865,5 @@
 .shadow-lg { box-shadow: 0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05); }
 
 .cursor-pointer { cursor: pointer; }
+
+.z-20 { z-index: 20; }
