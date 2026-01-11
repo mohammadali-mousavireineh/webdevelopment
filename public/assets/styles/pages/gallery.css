@@ -130,3 +130,5 @@
 .hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.cursor-pointer { cursor: pointer; }
