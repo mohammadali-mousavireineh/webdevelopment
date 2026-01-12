@@ -495,3 +495,5 @@
 .animate-bounce { animation: bounce 1s infinite; }
 
 .transition-none { transition: none; }
+
+.skew-x-6 { transform: skewX(6deg); }
