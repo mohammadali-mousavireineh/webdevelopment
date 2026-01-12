@@ -1153,3 +1153,5 @@ body ::selection {
 .self-center { align-self: center; }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.transition-shadow { transition: box-shadow 0.2s; }
