@@ -386,3 +386,5 @@
 .text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
 
 .rotate-90 { transform: rotate(90deg); }
+
+.origin-top { transform-origin: top; }
