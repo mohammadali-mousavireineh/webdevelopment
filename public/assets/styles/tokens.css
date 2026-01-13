@@ -1151,3 +1151,5 @@
 .ring-inset { box-shadow: inset 0 0 0 3px var(--color-primary-light); }
 
 .animate-bounce { animation: bounce 1s infinite; }
+
+.grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
