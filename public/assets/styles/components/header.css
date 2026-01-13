@@ -709,3 +709,5 @@
 .backdrop-blur-lg { backdrop-filter: blur(16px); }
 
 .col-span-full { grid-column: 1 / -1; }
+
+.origin-right { transform-origin: right; }
