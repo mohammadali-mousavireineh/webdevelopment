@@ -370,3 +370,5 @@
 .skew-y-6 { transform: skewY(6deg); }
 
 .blur-none { filter: blur(0); }
+
+.bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
