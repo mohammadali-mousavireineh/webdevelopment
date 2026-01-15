@@ -394,3 +394,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .animate-bounce { animation: bounce 1s infinite; }
+
+.col-span-1 { grid-column: span 1 / span 1; }
