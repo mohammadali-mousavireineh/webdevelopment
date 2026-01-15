@@ -310,3 +310,5 @@
 .self-stretch { align-self: stretch; }
 
 .bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
+
+.rotate-45 { transform: rotate(45deg); }
