@@ -1129,3 +1129,5 @@ body ::selection {
 .self-stretch { align-self: stretch; }
 
 .skew-x-6 { transform: skewX(6deg); }
+
+.duration-75 { transition-duration: 75ms; }
