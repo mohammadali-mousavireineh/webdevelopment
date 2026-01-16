@@ -90,3 +90,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
+
+.cursor-not-allowed { cursor: not-allowed; }
