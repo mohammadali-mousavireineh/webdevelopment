@@ -427,3 +427,5 @@
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
 
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
+
+.z-50 { z-index: 50; }
