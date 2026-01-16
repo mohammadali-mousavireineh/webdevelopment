@@ -425,3 +425,5 @@
 .table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border); }
 
 .tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
+
+.alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
