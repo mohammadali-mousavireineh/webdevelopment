@@ -225,3 +225,5 @@
 .resize-y { resize: vertical; }
 
 .z-30 { z-index: 30; }
+
+.alert { padding: var(--spacing-md); border-radius: var(--radius-md); border: 1px solid transparent; }
