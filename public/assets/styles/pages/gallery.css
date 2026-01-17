@@ -388,3 +388,5 @@
 .rotate-90 { transform: rotate(90deg); }
 
 .origin-top { transform-origin: top; }
+
+.self-end { align-self: flex-end; }
