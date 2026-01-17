@@ -1155,3 +1155,5 @@ body ::selection {
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
 
 .transition-shadow { transition: box-shadow 0.2s; }
+
+.rotate-90 { transform: rotate(90deg); }
