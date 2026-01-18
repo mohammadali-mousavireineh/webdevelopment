@@ -95,3 +95,5 @@
 .card { background: var(--color-surface); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); padding: var(--spacing-lg); }
 
 .list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
+
+.pagination { display: flex; gap: var(--spacing-xs); list-style: none; padding: 0; }
