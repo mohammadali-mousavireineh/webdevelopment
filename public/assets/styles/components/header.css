@@ -715,3 +715,5 @@
 .animate-bounce { animation: bounce 1s infinite; }
 
 .origin-right { transform-origin: right; }
+
+.saturate-150 { filter: saturate(1.5); }
