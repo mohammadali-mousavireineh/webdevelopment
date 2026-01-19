@@ -437,3 +437,5 @@
 .col-span-6 { grid-column: span 6 / span 6; }
 
 .sepia { filter: sepia(100%); }
+
+.transition-all { transition: all 0.2s ease; }
