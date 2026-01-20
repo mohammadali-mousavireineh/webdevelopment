@@ -121,3 +121,5 @@
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
 .table { width: 100%; border-collapse: collapse; }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
