@@ -80,3 +80,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
