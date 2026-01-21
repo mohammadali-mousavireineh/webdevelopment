@@ -1155,3 +1155,5 @@
 .grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
 
 .ring-inset { box-shadow: inset 0 0 0 3px var(--color-primary-light); }
+
+.contrast-150 { filter: contrast(1.5); }
