@@ -430,3 +430,5 @@
 .text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
 
 .backdrop-blur-lg { backdrop-filter: blur(16px); }
+
+.row-span-2 { grid-row: span 2 / span 2; }
