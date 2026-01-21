@@ -390,3 +390,5 @@
 .origin-top { transform-origin: top; }
 
 .self-end { align-self: flex-end; }
+
+.bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
