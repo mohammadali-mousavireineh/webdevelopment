@@ -126,3 +126,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.cursor-move { cursor: move; }
