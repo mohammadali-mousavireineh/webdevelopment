@@ -392,3 +392,5 @@
 .self-end { align-self: flex-end; }
 
 .bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
+
+.translate-x-2 { transform: translateX(0.5rem); }
