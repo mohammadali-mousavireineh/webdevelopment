@@ -1157,3 +1157,5 @@ body ::selection {
 .transition-shadow { transition: box-shadow 0.2s; }
 
 .rotate-90 { transform: rotate(90deg); }
+
+.text-shadow-sm { text-shadow: 0 1px 1px rgba(0,0,0,0.05); }
