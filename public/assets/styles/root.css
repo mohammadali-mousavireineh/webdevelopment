@@ -497,3 +497,5 @@
 .transition-none { transition: none; }
 
 .skew-x-6 { transform: skewX(6deg); }
+
+.rotate-45 { transform: rotate(45deg); }
