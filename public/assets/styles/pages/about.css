@@ -439,3 +439,5 @@
 .sepia { filter: sepia(100%); }
 
 .transition-all { transition: all 0.2s ease; }
+
+@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-25%); } }
