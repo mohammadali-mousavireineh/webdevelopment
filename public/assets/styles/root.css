@@ -219,3 +219,5 @@
 .resize-y { resize: vertical; }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.z-20 { z-index: 20; }
