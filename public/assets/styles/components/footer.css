@@ -76,3 +76,5 @@
 .tooltip { position: relative; display: inline-block; }
 
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
