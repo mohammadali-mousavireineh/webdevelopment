@@ -432,3 +432,5 @@
 .backdrop-blur-lg { backdrop-filter: blur(16px); }
 
 .row-span-2 { grid-row: span 2 / span 2; }
+
+.scale-95 { transform: scale(0.95); }
