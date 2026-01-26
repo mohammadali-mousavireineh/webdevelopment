@@ -72,3 +72,5 @@
 .tab-content { padding: var(--spacing-lg) 0; }
 
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+.break-all { word-break: break-all; }
