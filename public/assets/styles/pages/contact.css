@@ -434,3 +434,5 @@
 .row-span-2 { grid-row: span 2 / span 2; }
 
 .scale-95 { transform: scale(0.95); }
+
+.skew-x-6 { transform: skewX(6deg); }
