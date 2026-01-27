@@ -436,3 +436,5 @@
 .scale-95 { transform: scale(0.95); }
 
 .skew-x-6 { transform: skewX(6deg); }
+
+.contrast-150 { filter: contrast(1.5); }
