@@ -2133,3 +2133,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+
+.bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
