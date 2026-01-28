@@ -719,3 +719,5 @@
 .saturate-150 { filter: saturate(1.5); }
 
 .invert { filter: invert(100%); }
+
+.blur { filter: blur(8px); }
