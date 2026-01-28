@@ -380,3 +380,5 @@
 .ease-linear { transition-timing-function: linear; }
 
 .col-span-3 { grid-column: span 3 / span 3; }
+
+.shadow-2xl { box-shadow: 0 25px 50px rgba(0,0,0,0.15); }
