@@ -1861,3 +1861,5 @@
 .z-50 { z-index: 50; }
 
 .dropdown { position: relative; display: inline-block; }
+
+.shadow-lg { box-shadow: 0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05); }
