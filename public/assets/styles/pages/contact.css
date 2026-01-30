@@ -438,3 +438,5 @@
 .skew-x-6 { transform: skewX(6deg); }
 
 .contrast-150 { filter: contrast(1.5); }
+
+.origin-top-right { transform-origin: top right; }
