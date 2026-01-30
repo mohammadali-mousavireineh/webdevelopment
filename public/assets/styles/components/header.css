@@ -721,3 +721,5 @@
 .invert { filter: invert(100%); }
 
 .blur { filter: blur(8px); }
+
+.animate-bounce { animation: bounce 1s infinite; }
