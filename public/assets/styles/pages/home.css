@@ -2135,3 +2135,5 @@
 .transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 
 .bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
+
+.translate-x-2 { transform: translateX(0.5rem); }
