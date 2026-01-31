@@ -891,3 +891,5 @@ body ::selection {
 .transition-fast { transition: all var(--transition-fast); }
 
 .btn-outline { border: 2px solid var(--color-primary); background: transparent; color: var(--color-primary); padding: 0.5rem 1.25rem; border-radius: var(--radius-md); cursor: pointer; transition: all var(--transition-fast); }
+
+.z-0 { z-index: 0; }
