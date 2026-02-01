@@ -398,3 +398,5 @@
 .contrast-150 { filter: contrast(1.5); }
 
 .-rotate-45 { transform: rotate(-45deg); }
+
+.text-shadow-none { text-shadow: none; }
