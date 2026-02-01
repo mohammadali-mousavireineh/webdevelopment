@@ -1165,3 +1165,5 @@ body ::selection {
 .rotate-180 { transform: rotate(180deg); }
 
 .animate-spin { animation: spin 1s linear infinite; }
+
+.col-span-6 { grid-column: span 6 / span 6; }
