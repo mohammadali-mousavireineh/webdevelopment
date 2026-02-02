@@ -1167,3 +1167,5 @@ body ::selection {
 .animate-spin { animation: spin 1s linear infinite; }
 
 .col-span-6 { grid-column: span 6 / span 6; }
+
+.saturate-50 { filter: saturate(0.5); }
