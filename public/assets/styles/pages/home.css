@@ -2137,3 +2137,5 @@
 .bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
 
 .translate-x-2 { transform: translateX(0.5rem); }
+
+.col-span-2 { grid-column: span 2 / span 2; }
