@@ -1859,3 +1859,5 @@
 .resize-y { resize: vertical; }
 
 .z-50 { z-index: 50; }
+
+.dropdown { position: relative; display: inline-block; }
