@@ -885,3 +885,5 @@ body ::selection {
 .transition-slow { transition: all var(--transition-slow); }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.table-striped tbody tr:nth-child(odd) { background: var(--color-surface-alt); }
