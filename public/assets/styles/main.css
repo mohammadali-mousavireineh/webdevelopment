@@ -883,3 +883,5 @@ body ::selection {
 .page-item { display: inline-block; }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+.btn-outline:hover { background: var(--color-primary); color: #fff; }
