@@ -723,3 +723,5 @@
 .blur { filter: blur(8px); }
 
 .animate-bounce { animation: bounce 1s infinite; }
+
+.transition-all { transition: all 0.2s ease; }
