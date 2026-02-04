@@ -1169,3 +1169,5 @@ body ::selection {
 .col-span-6 { grid-column: span 6 / span 6; }
 
 .saturate-50 { filter: saturate(0.5); }
+
+.col-span-6 { grid-column: span 6 / span 6; }
