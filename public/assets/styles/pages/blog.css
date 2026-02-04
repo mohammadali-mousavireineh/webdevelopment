@@ -384,3 +384,5 @@
 .shadow-2xl { box-shadow: 0 25px 50px rgba(0,0,0,0.15); }
 
 .translate-y-2 { transform: translateY(0.5rem); }
+
+.duration-100 { transition-duration: 100ms; }
