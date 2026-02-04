@@ -402,3 +402,5 @@
 .text-shadow-none { text-shadow: none; }
 
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+
+.transition-opacity { transition: opacity 0.2s; }
