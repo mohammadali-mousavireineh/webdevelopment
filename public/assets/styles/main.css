@@ -881,3 +881,5 @@ body ::selection {
 .modal-body { margin-bottom: var(--spacing-md); }
 
 .page-item { display: inline-block; }
+
+.transition-slow { transition: all var(--transition-slow); }
