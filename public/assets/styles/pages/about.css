@@ -115,3 +115,5 @@
 .cursor-default { cursor: default; }
 
 .form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
+
+.tag { display: inline-block; padding: 0.2em 0.5em; font-size: 0.8em; border-radius: var(--radius-sm); background: var(--color-surface-alt); color: var(--color-text-muted); }
