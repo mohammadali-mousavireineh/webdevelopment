@@ -879,3 +879,5 @@ body ::selection {
 .page-link:hover { background: var(--color-primary-light); }
 
 .modal-body { margin-bottom: var(--spacing-md); }
+
+.page-item { display: inline-block; }
