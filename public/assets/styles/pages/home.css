@@ -1855,3 +1855,5 @@
 .section { padding: var(--spacing-xl) 0; }
 
 .resize { resize: both; }
+
+.resize-y { resize: vertical; }
