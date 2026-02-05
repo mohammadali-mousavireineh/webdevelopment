@@ -877,3 +877,5 @@ body ::selection {
 .select-none { user-select: none; -webkit-user-select: none; }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.modal-body { margin-bottom: var(--spacing-md); }
