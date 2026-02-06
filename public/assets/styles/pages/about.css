@@ -441,3 +441,5 @@
 .transition-all { transition: all 0.2s ease; }
 
 @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-25%); } }
+
+.row-span-3 { grid-row: span 3 / span 3; }
