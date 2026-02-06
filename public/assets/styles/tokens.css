@@ -1159,3 +1159,5 @@
 .contrast-150 { filter: contrast(1.5); }
 
 .bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
+
+.blur-lg { filter: blur(16px); }
