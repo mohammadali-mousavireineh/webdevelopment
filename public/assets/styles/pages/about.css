@@ -443,3 +443,5 @@
 @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-25%); } }
 
 .row-span-3 { grid-row: span 3 / span 3; }
+
+.delay-100 { transition-delay: 100ms; }
