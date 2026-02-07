@@ -396,3 +396,5 @@
 .animate-bounce { animation: bounce 1s infinite; }
 
 .col-span-1 { grid-column: span 1 / span 1; }
+
+.ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
