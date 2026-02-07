@@ -344,3 +344,5 @@
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 
 .origin-bottom { transform-origin: bottom; }
+
+.duration-100 { transition-duration: 100ms; }
