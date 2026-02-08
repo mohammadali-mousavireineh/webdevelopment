@@ -68,3 +68,5 @@
 .page-item { display: inline-block; }
 
 .dropdown:hover .dropdown-menu { display: block; }
+
+.tab-content { padding: var(--spacing-lg) 0; }
