@@ -415,3 +415,5 @@
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 .whitespace-nowrap { white-space: nowrap; }
+
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
