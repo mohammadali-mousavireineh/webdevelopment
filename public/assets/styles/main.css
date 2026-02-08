@@ -875,3 +875,5 @@ body ::selection {
 .cursor-pointer { cursor: pointer; }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+.page-link:hover { background: var(--color-primary-light); }
