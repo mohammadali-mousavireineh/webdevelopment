@@ -445,3 +445,5 @@
 .row-span-3 { grid-row: span 3 / span 3; }
 
 .delay-100 { transition-delay: 100ms; }
+
+.row-span-2 { grid-row: span 2 / span 2; }
