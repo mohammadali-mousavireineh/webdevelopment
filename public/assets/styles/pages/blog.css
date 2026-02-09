@@ -386,3 +386,5 @@
 .translate-y-2 { transform: translateY(0.5rem); }
 
 .duration-100 { transition-duration: 100ms; }
+
+.rotate-45 { transform: rotate(45deg); }
