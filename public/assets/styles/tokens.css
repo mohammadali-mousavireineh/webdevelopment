@@ -903,3 +903,5 @@
 .resize { resize: both; }
 
 .resize { resize: both; }
+
+.break-all { word-break: break-all; }
