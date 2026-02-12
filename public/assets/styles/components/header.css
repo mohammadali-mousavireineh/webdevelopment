@@ -725,3 +725,5 @@
 .animate-bounce { animation: bounce 1s infinite; }
 
 .transition-all { transition: all 0.2s ease; }
+
+.col-span-1 { grid-column: span 1 / span 1; }
