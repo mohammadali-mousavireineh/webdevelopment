@@ -104,3 +104,5 @@
 .tab-content { padding: var(--spacing-lg) 0; }
 
 .select-none { user-select: none; -webkit-user-select: none; }
+
+.z-20 { z-index: 20; }
