@@ -871,3 +871,5 @@ body ::selection {
 .whitespace-pre-wrap { white-space: pre-wrap; }
 
 .cursor-move { cursor: move; }
+
+.cursor-pointer { cursor: pointer; }
