@@ -404,3 +404,5 @@
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
 
 .transition-opacity { transition: opacity 0.2s; }
+
+.origin-top-left { transform-origin: top left; }
