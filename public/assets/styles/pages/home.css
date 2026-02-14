@@ -2143,3 +2143,5 @@
 .bg-opacity-50 { background-color: rgba(0,0,0,0.5); }
 
 .transition-all { transition: all 0.2s ease; }
+
+.rotate-180 { transform: rotate(180deg); }
