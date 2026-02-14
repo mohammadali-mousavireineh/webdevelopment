@@ -447,3 +447,5 @@
 .delay-100 { transition-delay: 100ms; }
 
 .row-span-2 { grid-row: span 2 / span 2; }
+
+.text-shadow { text-shadow: 0 1px 2px rgba(0,0,0,0.1); }
