@@ -869,3 +869,5 @@ body ::selection {
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
 
 .whitespace-pre-wrap { white-space: pre-wrap; }
+
+.cursor-move { cursor: move; }
