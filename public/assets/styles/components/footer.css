@@ -72,3 +72,5 @@
 .dropdown { position: relative; display: inline-block; }
 
 .resize-y { resize: vertical; }
+
+.tooltip { position: relative; display: inline-block; }
