@@ -411,3 +411,5 @@
 .shadow-none { box-shadow: none; }
 
 .section-subtitle { font-size: var(--font-size-base); color: var(--color-text-muted); margin-bottom: var(--spacing-xl); }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
