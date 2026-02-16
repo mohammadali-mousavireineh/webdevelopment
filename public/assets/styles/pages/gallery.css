@@ -406,3 +406,5 @@
 .transition-opacity { transition: opacity 0.2s; }
 
 .origin-top-left { transform-origin: top left; }
+
+.scale-95 { transform: scale(0.95); }
