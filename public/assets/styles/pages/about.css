@@ -107,3 +107,5 @@
 .resize { resize: both; }
 
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
+
+.page-link:hover { background: var(--color-primary-light); }
