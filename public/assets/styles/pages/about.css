@@ -105,3 +105,5 @@
 .tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
 
 .resize { resize: both; }
+
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--spacing-md); }
