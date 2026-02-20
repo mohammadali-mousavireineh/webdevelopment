@@ -312,3 +312,5 @@
 .bg-opacity-25 { background-color: rgba(0,0,0,0.25); }
 
 .rotate-45 { transform: rotate(45deg); }
+
+.transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
