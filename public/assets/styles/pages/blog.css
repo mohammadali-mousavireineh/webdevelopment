@@ -332,3 +332,5 @@
 .saturate-50 { filter: saturate(0.5); }
 
 .grid-cols-1 { grid-template-columns: repeat(1, 1fr); }
+
+.transition-none { transition: none; }
