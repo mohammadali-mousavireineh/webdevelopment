@@ -101,3 +101,5 @@
 .pointer-events-none { pointer-events: none; }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+.tab-item.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
