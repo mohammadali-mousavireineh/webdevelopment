@@ -68,3 +68,5 @@
 .z-50 { z-index: 50; }
 
 .resize { resize: both; }
+
+.dropdown { position: relative; display: inline-block; }
