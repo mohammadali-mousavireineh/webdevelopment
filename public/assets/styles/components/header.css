@@ -407,3 +407,5 @@
 .cursor-not-allowed { cursor: not-allowed; }
 
 .cursor-default { cursor: default; }
+
+.shadow-none { box-shadow: none; }
