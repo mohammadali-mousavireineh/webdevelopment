@@ -64,3 +64,5 @@
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
 
 .page-link:hover { background: var(--color-primary-light); }
+
+.page-item { display: inline-block; }
