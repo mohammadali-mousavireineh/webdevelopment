@@ -1173,3 +1173,5 @@ body ::selection {
 .col-span-6 { grid-column: span 6 / span 6; }
 
 .col-span-2 { grid-column: span 2 / span 2; }
+
+.translate-x-1 { transform: translateX(0.25rem); }
