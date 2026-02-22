@@ -503,3 +503,5 @@
 .skew-x-6 { transform: skewX(6deg); }
 
 .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
+
+.origin-left { transform-origin: left; }
