@@ -99,3 +99,5 @@
 .table th { background: var(--color-surface-alt); font-weight: 600; padding: 0.75rem; text-align: right; }
 
 .pointer-events-none { pointer-events: none; }
+
+.transition-slow { transition: all var(--transition-slow); }
