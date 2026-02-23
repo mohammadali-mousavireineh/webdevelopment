@@ -861,3 +861,5 @@ body ::selection {
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .cursor-default { cursor: default; }
+
+.z-30 { z-index: 30; }
