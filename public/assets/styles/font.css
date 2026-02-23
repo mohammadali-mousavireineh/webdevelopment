@@ -71,3 +71,5 @@
 .dropdown:hover .dropdown-menu { display: block; }
 
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+.z-50 { z-index: 50; }
