@@ -865,3 +865,5 @@ body ::selection {
 .z-30 { z-index: 30; }
 
 .alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
+
+.hero { padding: var(--spacing-2xl) 0; text-align: center; }
