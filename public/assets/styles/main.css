@@ -863,3 +863,5 @@ body ::selection {
 .cursor-default { cursor: default; }
 
 .z-30 { z-index: 30; }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
