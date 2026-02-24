@@ -388,3 +388,5 @@
 .duration-100 { transition-duration: 100ms; }
 
 .rotate-45 { transform: rotate(45deg); }
+
+.scale-100 { transform: scale(1); }
