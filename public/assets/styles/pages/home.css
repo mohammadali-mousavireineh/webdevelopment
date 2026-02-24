@@ -2147,3 +2147,5 @@
 .rotate-180 { transform: rotate(180deg); }
 
 .translate-x-2 { transform: translateX(0.5rem); }
+
+.ring { box-shadow: 0 0 0 3px var(--color-primary-light); }
