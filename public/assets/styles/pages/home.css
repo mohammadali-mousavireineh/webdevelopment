@@ -2145,3 +2145,5 @@
 .transition-all { transition: all 0.2s ease; }
 
 .rotate-180 { transform: rotate(180deg); }
+
+.translate-x-2 { transform: translateX(0.5rem); }
