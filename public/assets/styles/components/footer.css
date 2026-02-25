@@ -350,3 +350,5 @@
 .row-span-3 { grid-row: span 3 / span 3; }
 
 .text-shadow-none { text-shadow: none; }
+
+.scale-110 { transform: scale(1.1); }
