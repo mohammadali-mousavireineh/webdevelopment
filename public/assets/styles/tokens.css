@@ -1165,3 +1165,5 @@
 .transition-none { transition: none; }
 
 .invert { filter: invert(100%); }
+
+.text-shadow-lg { text-shadow: 0 2px 4px rgba(0,0,0,0.15); }
