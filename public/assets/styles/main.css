@@ -859,3 +859,5 @@ body ::selection {
 .hero { padding: var(--spacing-2xl) 0; text-align: center; }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.cursor-default { cursor: default; }
