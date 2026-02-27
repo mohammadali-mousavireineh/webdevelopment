@@ -1169,3 +1169,5 @@
 .text-shadow-lg { text-shadow: 0 2px 4px rgba(0,0,0,0.15); }
 
 .origin-top-right { transform-origin: top right; }
+
+.scale-95 { transform: scale(0.95); }
