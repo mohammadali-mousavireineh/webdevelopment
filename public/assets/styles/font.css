@@ -67,3 +67,5 @@
 .cursor-pointer { cursor: pointer; }
 
 .z-10 { z-index: 10; }
+
+.dropdown:hover .dropdown-menu { display: block; }
