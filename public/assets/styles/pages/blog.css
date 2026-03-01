@@ -56,3 +56,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .whitespace-pre { white-space: pre; }
+
+.accordion-item:last-child { border-bottom: none; }
