@@ -65,3 +65,5 @@
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
 
 .cursor-pointer { cursor: pointer; }
+
+.z-10 { z-index: 10; }
