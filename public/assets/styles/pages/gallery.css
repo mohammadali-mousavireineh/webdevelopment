@@ -346,3 +346,5 @@
 .origin-bottom { transform-origin: bottom; }
 
 .duration-100 { transition-duration: 100ms; }
+
+.translate-x-1 { transform: translateX(0.25rem); }
