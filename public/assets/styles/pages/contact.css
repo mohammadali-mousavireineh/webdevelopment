@@ -400,3 +400,5 @@
 .ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
 
 .-rotate-45 { transform: rotate(-45deg); }
+
+.duration-500 { transition-duration: 500ms; }
