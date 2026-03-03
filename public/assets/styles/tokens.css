@@ -1171,3 +1171,5 @@
 .origin-top-right { transform-origin: top right; }
 
 .scale-95 { transform: scale(0.95); }
+
+.saturate-150 { filter: saturate(1.5); }
