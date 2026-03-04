@@ -1835,3 +1835,5 @@
 .page-item { display: inline-block; }
 
 .transition-fast { transition: all var(--transition-fast); }
+
+.resize-none { resize: none; }
