@@ -405,3 +405,5 @@
 .resize { resize: both; }
 
 .cursor-not-allowed { cursor: not-allowed; }
+
+.cursor-default { cursor: default; }
