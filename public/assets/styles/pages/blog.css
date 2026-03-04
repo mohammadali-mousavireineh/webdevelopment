@@ -54,3 +54,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.whitespace-pre { white-space: pre; }
