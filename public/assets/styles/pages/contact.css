@@ -104,3 +104,5 @@
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
 
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
