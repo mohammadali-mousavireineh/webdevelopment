@@ -87,3 +87,5 @@
 .hero-title { font-size: var(--font-size-3xl); font-weight: 800; line-height: 1.2; margin-bottom: var(--spacing-md); }
 
 .transition-slow { transition: all var(--transition-slow); }
+
+.alert-danger { background: #f8d7da; color: #842029; border-color: #f5c2c7; }
