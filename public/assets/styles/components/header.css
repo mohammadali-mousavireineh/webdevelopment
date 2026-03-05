@@ -731,3 +731,5 @@
 .blur { filter: blur(8px); }
 
 .-rotate-45 { transform: rotate(-45deg); }
+
+.duration-150 { transition-duration: 150ms; }
