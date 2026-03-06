@@ -403,3 +403,5 @@
 .list-unstyled { list-style: none; padding: 0; margin: 0; }
 
 .resize { resize: both; }
+
+.cursor-not-allowed { cursor: not-allowed; }
