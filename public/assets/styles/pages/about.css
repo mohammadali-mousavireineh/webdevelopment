@@ -387,3 +387,5 @@
 .grid-cols-5 { grid-template-columns: repeat(5, 1fr); }
 
 .rotate-180 { transform: rotate(180deg); }
+
+.scale-110 { transform: scale(1.1); }
