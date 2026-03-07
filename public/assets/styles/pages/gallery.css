@@ -348,3 +348,5 @@
 .duration-100 { transition-duration: 100ms; }
 
 .translate-x-1 { transform: translateX(0.25rem); }
+
+.translate-y-1 { transform: translateY(0.25rem); }
