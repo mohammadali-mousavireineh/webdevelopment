@@ -1173,3 +1173,5 @@
 .scale-95 { transform: scale(0.95); }
 
 .saturate-150 { filter: saturate(1.5); }
+
+.skew-y-6 { transform: skewY(6deg); }
