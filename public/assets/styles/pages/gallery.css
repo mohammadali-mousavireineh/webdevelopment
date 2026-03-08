@@ -408,3 +408,5 @@
 .origin-top-left { transform-origin: top left; }
 
 .scale-95 { transform: scale(0.95); }
+
+.row-span-3 { grid-row: span 3 / span 3; }
