@@ -851,3 +851,5 @@ body ::selection {
 .tooltip { position: relative; display: inline-block; }
 
 .page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
+
+.alert-warning { background: #fff3cd; color: #664d03; border-color: #ffecb5; }
