@@ -100,3 +100,5 @@
 .form-group { margin-bottom: var(--spacing-md); }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
