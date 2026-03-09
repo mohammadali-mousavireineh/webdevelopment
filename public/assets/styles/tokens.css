@@ -893,3 +893,5 @@
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
 
 .dropdown { position: relative; display: inline-block; }
+
+.z-40 { z-index: 40; }
