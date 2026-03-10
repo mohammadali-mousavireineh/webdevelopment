@@ -314,3 +314,5 @@
 .rotate-45 { transform: rotate(45deg); }
 
 .transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+
+.brightness-110 { filter: brightness(1.1); }
