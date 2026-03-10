@@ -1133,3 +1133,5 @@ body ::selection {
 .duration-75 { transition-duration: 75ms; }
 
 .brightness-110 { filter: brightness(1.1); }
+
+.grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
