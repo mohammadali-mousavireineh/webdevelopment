@@ -350,3 +350,5 @@
 .translate-x-1 { transform: translateX(0.25rem); }
 
 .translate-y-1 { transform: translateY(0.25rem); }
+
+.delay-100 { transition-delay: 100ms; }
