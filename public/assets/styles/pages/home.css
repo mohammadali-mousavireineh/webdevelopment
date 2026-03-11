@@ -2099,3 +2099,5 @@
 .ring { box-shadow: 0 0 0 3px var(--color-primary-light); }
 
 .ease-out { transition-timing-function: cubic-bezier(0, 0, 0.2, 1); }
+
+.drop-shadow { filter: drop-shadow(0 1px 2px rgba(0,0,0,0.1)); }
