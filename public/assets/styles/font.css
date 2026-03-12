@@ -55,3 +55,5 @@
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
 
 .media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
+
+.modal-content { background: var(--color-surface); border-radius: var(--radius-xl); padding: var(--spacing-xl); max-width: 500px; width: 90%; box-shadow: var(--shadow-lg); }
