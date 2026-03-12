@@ -849,3 +849,5 @@ body ::selection {
 .resize-none { resize: none; }
 
 .tooltip { position: relative; display: inline-block; }
+
+.page-item.active .page-link { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
