@@ -53,3 +53,5 @@
 .accordion-item:last-child { border-bottom: none; }
 
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+
+.media { display: flex; align-items: flex-start; gap: var(--spacing-md); }
