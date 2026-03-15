@@ -891,3 +891,5 @@
 .hero-subtitle { font-size: var(--font-size-lg); color: var(--color-text-muted); max-width: 600px; margin: 0 auto var(--spacing-lg); }
 
 .accordion-body { padding: 0 var(--spacing-md) var(--spacing-md); }
+
+.dropdown { position: relative; display: inline-block; }
