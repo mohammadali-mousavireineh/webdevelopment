@@ -847,3 +847,5 @@ body ::selection {
 .whitespace-normal { white-space: normal; }
 
 .resize-none { resize: none; }
+
+.tooltip { position: relative; display: inline-block; }
