@@ -885,3 +885,5 @@
 @keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 
 .accordion-header { padding: var(--spacing-md); cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+
+.form-label { display: block; margin-bottom: var(--spacing-xs); font-weight: 500; color: var(--color-text); }
