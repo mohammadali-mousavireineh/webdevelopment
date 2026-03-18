@@ -733,3 +733,5 @@
 .-rotate-45 { transform: rotate(-45deg); }
 
 .duration-150 { transition-duration: 150ms; }
+
+.transition-transform { transition: transform 0.2s; }
