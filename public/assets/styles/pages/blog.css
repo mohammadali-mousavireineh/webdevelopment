@@ -392,3 +392,5 @@
 .scale-100 { transform: scale(1); }
 
 .transition-transform { transition: transform 0.2s; }
+
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
