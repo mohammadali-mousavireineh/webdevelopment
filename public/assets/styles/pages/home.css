@@ -1819,3 +1819,5 @@
 .cursor-default { cursor: default; }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.z-50 { z-index: 50; }
