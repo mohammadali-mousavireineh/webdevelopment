@@ -393,3 +393,5 @@
 .scale-100 { transform: scale(1); }
 
 .backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+
+.translate-x-1 { transform: translateX(0.25rem); }
