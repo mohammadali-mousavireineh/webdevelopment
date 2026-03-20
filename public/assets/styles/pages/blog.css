@@ -334,3 +334,5 @@
 .grid-cols-1 { grid-template-columns: repeat(1, 1fr); }
 
 .transition-none { transition: none; }
+
+.delay-100 { transition-delay: 100ms; }
