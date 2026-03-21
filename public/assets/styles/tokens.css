@@ -1175,3 +1175,5 @@
 .saturate-150 { filter: saturate(1.5); }
 
 .skew-y-6 { transform: skewY(6deg); }
+
+.self-stretch { align-self: stretch; }
