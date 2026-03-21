@@ -1177,3 +1177,5 @@
 .skew-y-6 { transform: skewY(6deg); }
 
 .self-stretch { align-self: stretch; }
+
+.translate-y-2 { transform: translateY(0.5rem); }
