@@ -1179,3 +1179,5 @@
 .self-stretch { align-self: stretch; }
 
 .translate-y-2 { transform: translateY(0.5rem); }
+
+.scale-100 { transform: scale(1); }
