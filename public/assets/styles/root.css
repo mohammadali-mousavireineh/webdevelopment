@@ -505,3 +505,5 @@
 .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
 
 .origin-left { transform-origin: left; }
+
+.saturate-150 { filter: saturate(1.5); }
