@@ -195,3 +195,5 @@
 .pointer-events-auto { pointer-events: auto; }
 
 .cursor-move { cursor: move; }
+
+.transition-slow { transition: all var(--transition-slow); }
