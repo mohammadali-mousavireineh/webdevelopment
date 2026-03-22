@@ -90,3 +90,5 @@
 .table { width: 100%; border-collapse: collapse; }
 
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+.whitespace-nowrap { white-space: nowrap; }
