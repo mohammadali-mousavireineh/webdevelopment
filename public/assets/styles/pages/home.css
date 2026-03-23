@@ -2157,3 +2157,5 @@
 .grid-cols-1 { grid-template-columns: repeat(1, 1fr); }
 
 .skew-x-6 { transform: skewX(6deg); }
+
+.delay-100 { transition-delay: 100ms; }
