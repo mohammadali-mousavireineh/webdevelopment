@@ -46,3 +46,5 @@
 .form-input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
 
 .alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
+
+.modal-body { margin-bottom: var(--spacing-md); }
