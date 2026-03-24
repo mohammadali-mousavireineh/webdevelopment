@@ -879,3 +879,5 @@
 .shadow-none { box-shadow: none; }
 
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
