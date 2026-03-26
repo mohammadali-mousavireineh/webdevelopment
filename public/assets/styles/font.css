@@ -43,3 +43,5 @@
 .transition-slow { transition: all var(--transition-slow); }
 
 .break-normal { overflow-wrap: normal; word-break: normal; }
+
+.form-group { margin-bottom: var(--spacing-md); }
