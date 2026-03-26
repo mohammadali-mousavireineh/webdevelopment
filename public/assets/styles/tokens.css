@@ -877,3 +877,5 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .shadow-none { box-shadow: none; }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
