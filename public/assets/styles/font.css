@@ -45,3 +45,5 @@
 .break-normal { overflow-wrap: normal; word-break: normal; }
 
 .form-group { margin-bottom: var(--spacing-md); }
+
+.pointer-events-auto { pointer-events: auto; }
