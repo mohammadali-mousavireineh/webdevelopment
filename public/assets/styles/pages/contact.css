@@ -92,3 +92,5 @@
 .modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
 
 .tooltip::after { content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding: 0.25rem 0.5rem; background: var(--color-text); color: #fff; font-size: 0.75rem; border-radius: var(--radius-sm); white-space: nowrap; opacity: 0; pointer-events: none; }
+
+.tabs { display: flex; gap: 0; border-bottom: 2px solid var(--color-border); }
