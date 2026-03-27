@@ -1177,3 +1177,5 @@ body ::selection {
 .translate-x-1 { transform: translateX(0.25rem); }
 
 .text-shadow { text-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+
+.col-span-2 { grid-column: span 2 / span 2; }
