@@ -410,3 +410,5 @@
 .scale-95 { transform: scale(0.95); }
 
 .row-span-3 { grid-row: span 3 / span 3; }
+
+.ease-in { transition-timing-function: cubic-bezier(0.4, 0, 1, 1); }
