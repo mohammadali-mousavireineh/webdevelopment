@@ -735,3 +735,5 @@
 .duration-150 { transition-duration: 150ms; }
 
 .transition-transform { transition: transform 0.2s; }
+
+.contrast-50 { filter: contrast(0.5); }
