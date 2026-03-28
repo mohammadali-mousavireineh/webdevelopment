@@ -84,3 +84,5 @@
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
 
 .resize-y { resize: vertical; }
+
+.list-inline { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
