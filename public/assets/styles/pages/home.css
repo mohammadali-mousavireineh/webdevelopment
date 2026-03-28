@@ -1811,3 +1811,5 @@
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
 .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
