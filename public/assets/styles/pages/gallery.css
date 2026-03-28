@@ -82,3 +82,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .btn-outline:hover { background: var(--color-primary); color: #fff; }
+
+.resize-y { resize: vertical; }
