@@ -191,3 +191,5 @@
 .dropdown-item:hover { background: var(--color-surface-alt); }
 
 .toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
+
+.pointer-events-auto { pointer-events: auto; }
