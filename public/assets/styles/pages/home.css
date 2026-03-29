@@ -2159,3 +2159,5 @@
 .skew-x-6 { transform: skewX(6deg); }
 
 .delay-100 { transition-delay: 100ms; }
+
+.transition-all { transition: all 0.2s ease; }
