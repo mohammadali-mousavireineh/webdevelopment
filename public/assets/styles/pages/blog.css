@@ -394,3 +394,5 @@
 .transition-transform { transition: transform 0.2s; }
 
 .backdrop-blur-sm { backdrop-filter: blur(4px); }
+
+.text-shadow-lg { text-shadow: 0 2px 4px rgba(0,0,0,0.15); }
