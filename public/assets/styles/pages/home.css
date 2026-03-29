@@ -2163,3 +2163,5 @@
 .transition-all { transition: all 0.2s ease; }
 
 .self-end { align-self: flex-end; }
+
+.contrast-150 { filter: contrast(1.5); }
