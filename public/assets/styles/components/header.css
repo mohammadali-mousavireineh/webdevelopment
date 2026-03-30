@@ -391,3 +391,5 @@
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
 .cursor-move { cursor: move; }
+
+.table { width: 100%; border-collapse: collapse; }
