@@ -845,3 +845,5 @@ body ::selection {
 .pt-13 { padding-top: 13px; }
 .pb-13 { padding-bottom: 13px; }
 .whitespace-normal { white-space: normal; }
+
+.resize-none { resize: none; }
