@@ -46,3 +46,5 @@
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
 .accordion-item:last-child { border-bottom: none; }
+
+.alert-success { background: #d1e7dd; color: #0f5132; border-color: #badbcc; }
