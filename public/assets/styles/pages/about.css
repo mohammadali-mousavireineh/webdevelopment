@@ -395,3 +395,5 @@
 .backdrop-blur { backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
 
 .translate-x-1 { transform: translateX(0.25rem); }
+
+.text-shadow-none { text-shadow: none; }
