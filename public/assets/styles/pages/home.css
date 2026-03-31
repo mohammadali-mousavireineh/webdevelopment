@@ -2105,3 +2105,5 @@
 .self-stretch { align-self: stretch; }
 
 .grid-cols-6 { grid-template-columns: repeat(6, 1fr); }
+
+.translate-x-1 { transform: translateX(0.25rem); }
