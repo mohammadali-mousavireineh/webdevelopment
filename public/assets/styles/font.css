@@ -39,3 +39,5 @@
 .content-around { content-visibility: auto; contain-intrinsic-size: 1px 5000px; }
 
 .z-20 { z-index: 20; }
+
+.transition-slow { transition: all var(--transition-slow); }
