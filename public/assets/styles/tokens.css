@@ -873,3 +873,5 @@
   --basis-5-6: 83.333333%;
 }
 .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; z-index: var(--z-modal); }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
