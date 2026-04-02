@@ -477,3 +477,5 @@
 .drop-shadow { filter: drop-shadow(0 1px 2px rgba(0,0,0,0.1)); }
 
 .self-end { align-self: flex-end; }
+
+.row-span-3 { grid-row: span 3 / span 3; }
