@@ -1129,3 +1129,5 @@
 .animate-ping { animation: ping 1s infinite; }
 
 .transition-none { transition: none; }
+
+.bg-opacity-10 { background-color: rgba(0,0,0,0.1); }
