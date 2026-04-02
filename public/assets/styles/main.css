@@ -1137,3 +1137,5 @@ body ::selection {
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
 
 .transition-colors { transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+
+.backdrop-blur-lg { backdrop-filter: blur(16px); }
