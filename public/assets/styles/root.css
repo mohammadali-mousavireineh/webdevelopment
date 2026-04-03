@@ -187,3 +187,5 @@
     --color-code-text: #e0e0e0;
   }
 }
+
+.dropdown-item:hover { background: var(--color-surface-alt); }
