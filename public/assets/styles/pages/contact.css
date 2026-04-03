@@ -89,3 +89,4 @@
 .contact::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
+.modal-footer { display: flex; justify-content: flex-end; gap: var(--spacing-sm); }
