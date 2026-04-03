@@ -75,3 +75,4 @@
 .gallery::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
+.whitespace-nowrap { white-space: nowrap; }
