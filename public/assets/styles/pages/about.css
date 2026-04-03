@@ -68,3 +68,4 @@
 .about::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
  { outline: 2px solid var(--color-accent); }
+.toast { position: fixed; bottom: var(--spacing-lg); right: var(--spacing-lg); padding: var(--spacing-md); background: var(--color-text); color: #fff; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); z-index: var(--z-toast); animation: slideIn 0.3s ease; }
