@@ -335,4 +335,5 @@
   --card-max-width: 400px;
   --button-min-width: 120px;
   --button-height: 44px;
+  --z-dropdown: 100;
 }
