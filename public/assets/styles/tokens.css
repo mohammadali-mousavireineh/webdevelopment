@@ -126,4 +126,5 @@
   45deg: --card-shadow-hover-y;
   12px: --card-shadow-hover-blur;
   40px: --card-shadow-rest-y;
+  --z-dropdown: 100;
 }
