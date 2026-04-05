@@ -545,4 +545,5 @@
   --button-height: 44px;
   --color-primary-50: var(--color-primary);
   --color-primary-100: var(--color-primary);
+  --color-primary-200: var(--color-primary);
 }
