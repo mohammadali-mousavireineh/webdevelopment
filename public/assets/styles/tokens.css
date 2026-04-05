@@ -543,4 +543,5 @@
   --card-max-width: 400px;
   --button-min-width: 120px;
   --button-height: 44px;
+  --color-primary-50: var(--color-primary);
 }
