@@ -555,4 +555,5 @@
   --color-primary-900: var(--color-primary);
   --color-primary-950: var(--color-primary);
   --color-secondary-50: var(--color-secondary);
+  --color-secondary-100: var(--color-secondary);
 }
