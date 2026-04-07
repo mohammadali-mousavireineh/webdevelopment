@@ -565,4 +565,5 @@
   --color-secondary-800: var(--color-secondary);
   --color-secondary-900: var(--color-secondary);
   --color-secondary-950: var(--color-secondary);
+  --color-accent-50: var(--color-accent);
 }
