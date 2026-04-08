@@ -576,4 +576,5 @@
   --color-accent-800: var(--color-accent);
   --color-accent-900: var(--color-accent);
   --color-accent-950: var(--color-accent);
+  --color-success-50: var(--color-success);
 }
