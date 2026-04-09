@@ -587,4 +587,5 @@
   --color-success-800: var(--color-success);
   --color-success-900: var(--color-success);
   --color-success-950: var(--color-success);
+  --color-danger-50: var(--color-danger);
 }
