@@ -375,4 +375,5 @@
   --leading-heading: 1.2;
   --leading-compact: 1.15;
   --heading-line-height: 1.3;
+  --tracking-tight: -0.025em;
 }
