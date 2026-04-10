@@ -596,4 +596,5 @@
   --color-danger-600: var(--color-danger);
   --color-danger-700: var(--color-danger);
   --color-danger-800: var(--color-danger);
+  --color-danger-950: var(--color-danger);
 }
