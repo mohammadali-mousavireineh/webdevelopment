@@ -609,4 +609,5 @@
   --color-warning-900: var(--color-warning);
   --color-warning-950: var(--color-warning);
   --color-info-50: var(--color-info);
+  --color-info-100: var(--color-info);
 }
