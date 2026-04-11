@@ -396,4 +396,5 @@
   --shadow-card: 0 1px 3px 0 rgba(0,0,0,0.12);
   --shadow-elevated: 0 8px 24px rgba(0,0,0,0.15);
   --radius-xs: 4px;
+  --radius-sm: 6px;
 }
