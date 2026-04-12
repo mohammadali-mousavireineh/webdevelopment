@@ -412,4 +412,5 @@
   --transition-bounce: cubic-bezier(0.68,-0.55,0.265,1.55);
   --transition-linear: 250ms linear;
   --transition-colors: background-color 250ms ease, color 250ms ease, border-color 250ms ease;
+  --shadow-sm: 0 1px 3px 0 rgba(0,0,0,0.12);
 }
