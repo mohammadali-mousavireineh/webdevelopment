@@ -196,4 +196,5 @@
   --radius-full: 9999px;
   --radius-button: var(--radius-md);
   --radius-input: var(--radius-sm);
+  --transition-fast: 150ms ease;
 }
