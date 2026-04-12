@@ -618,4 +618,5 @@
   --color-info-800: var(--color-info);
   --color-info-900: var(--color-info);
   --color-info-950: var(--color-info);
+  --fw-100: 100;
 }
