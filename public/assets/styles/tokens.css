@@ -224,4 +224,5 @@
   --aspect-landscape: 4 / 3;
   --aspect-wide: 21 / 9;
   --aspect-ultrawide: 32 / 9;
+  --aspect-auto: auto;
 }
