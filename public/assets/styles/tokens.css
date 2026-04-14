@@ -223,4 +223,5 @@
   --aspect-portrait: 3 / 4;
   --aspect-landscape: 4 / 3;
   --aspect-wide: 21 / 9;
+  --aspect-ultrawide: 32 / 9;
 }
