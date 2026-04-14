@@ -221,4 +221,5 @@
   --aspect-square: 1 / 1;
   --aspect-video: 16 / 9;
   --aspect-portrait: 3 / 4;
+  --aspect-landscape: 4 / 3;
 }
