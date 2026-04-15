@@ -442,4 +442,5 @@
   --container-prose: 65ch;
   --content-max-width: var(--container-xl);
   --content-padding: 1rem;
+  --content-padding-md: 2rem;
 }
