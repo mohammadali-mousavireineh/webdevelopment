@@ -441,4 +441,5 @@
   --container-2xl: 1440px;
   --container-prose: 65ch;
   --content-max-width: var(--container-xl);
+  --content-padding: 1rem;
 }
