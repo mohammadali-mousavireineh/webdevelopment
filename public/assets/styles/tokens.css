@@ -440,4 +440,5 @@
   --container-xl: 1280px;
   --container-2xl: 1440px;
   --container-prose: 65ch;
+  --content-max-width: var(--container-xl);
 }
