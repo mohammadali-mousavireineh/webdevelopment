@@ -234,4 +234,5 @@
   --content-max-width: var(--container-xl);
   --content-padding: 1rem;
   --content-padding-md: 2rem;
+  --content-padding-lg: 4rem;
 }
