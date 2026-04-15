@@ -439,4 +439,5 @@
   --container-lg: 1024px;
   --container-xl: 1280px;
   --container-2xl: 1440px;
+  --container-prose: 65ch;
 }
