@@ -236,4 +236,5 @@
   --content-padding-md: 2rem;
   --content-padding-lg: 4rem;
   --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
 }
