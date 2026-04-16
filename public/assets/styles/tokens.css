@@ -449,4 +449,5 @@
   --breakpoint-lg: 1024px;
   --breakpoint-xl: 1280px;
   --breakpoint-2xl: 1536px;
+  --font-weight-thin: 100;
 }
