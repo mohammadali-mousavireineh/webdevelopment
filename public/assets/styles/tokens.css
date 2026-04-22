@@ -512,4 +512,5 @@
   --grid-gap: 1.5rem;
   --grid-gap-sm: 0.75rem;
   --grid-gap-lg: 2rem;
+  --grid-column-gap: var(--grid-gap);
 }
