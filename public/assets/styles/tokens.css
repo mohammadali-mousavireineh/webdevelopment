@@ -301,4 +301,5 @@
   --color-info-100: rgb(219,234,254);
   --color-info-500: rgb(59,130,246);
   --color-info-700: rgb(29,78,216);
+  --grid-gap: 1.5rem;
 }
