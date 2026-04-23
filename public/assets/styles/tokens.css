@@ -514,4 +514,5 @@
   --grid-gap-lg: 2rem;
   --grid-column-gap: var(--grid-gap);
   --grid-row-gap: var(--grid-gap);
+  --flex-gap: var(--grid-gap);
 }
