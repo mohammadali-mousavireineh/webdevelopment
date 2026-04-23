@@ -522,4 +522,5 @@
   --blur-md: 8px;
   --blur-lg: 16px;
   --outline-width: 2px;
+  --outline-offset: 2px;
 }
