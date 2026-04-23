@@ -515,4 +515,5 @@
   --grid-column-gap: var(--grid-gap);
   --grid-row-gap: var(--grid-gap);
   --flex-gap: var(--grid-gap);
+  --backdrop-blur-sm: 2px;
 }
