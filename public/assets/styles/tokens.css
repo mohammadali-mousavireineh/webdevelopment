@@ -523,4 +523,5 @@
   --blur-lg: 16px;
   --outline-width: 2px;
   --outline-offset: 2px;
+  --outline-color: var(--color-accent);
 }
