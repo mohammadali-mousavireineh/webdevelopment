@@ -309,4 +309,5 @@
   --flex-gap: var(--grid-gap);
   --backdrop-blur-sm: 2px;
   --backdrop-blur-md: 8px;
+  --backdrop-blur-lg: 16px;
 }
