@@ -317,4 +317,5 @@
   --outline-offset: 2px;
   --outline-color: var(--color-accent);
   --stroke-width: 2px;
+  --icon-size-sm: 1rem;
 }
