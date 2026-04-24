@@ -533,4 +533,5 @@
   --logo-width: auto;
   --mobile-menu-width: 280px;
   --sidebar-width: 300px;
+  --min-target-size: 44px;
 }
