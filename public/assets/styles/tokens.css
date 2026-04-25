@@ -332,4 +332,5 @@
   --section-spacing-sm: 2rem;
   --section-spacing-lg: 6rem;
   --card-min-height: 100px;
+  --card-max-width: 400px;
 }
