@@ -534,4 +534,5 @@
   --mobile-menu-width: 280px;
   --sidebar-width: 300px;
   --min-target-size: 44px;
+  --max-width-readable: 70ch;
 }
