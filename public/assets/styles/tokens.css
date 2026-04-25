@@ -541,4 +541,5 @@
   --section-spacing-lg: 6rem;
   --card-min-height: 100px;
   --card-max-width: 400px;
+  --button-min-width: 120px;
 }
