@@ -539,4 +539,5 @@
   --section-spacing: 4rem;
   --section-spacing-sm: 2rem;
   --section-spacing-lg: 6rem;
+  --card-min-height: 100px;
 }
