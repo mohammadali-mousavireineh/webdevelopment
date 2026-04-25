@@ -535,4 +535,5 @@
   --sidebar-width: 300px;
   --min-target-size: 44px;
   --max-width-readable: 70ch;
+  --content-spacing: 1.5rem;
 }
