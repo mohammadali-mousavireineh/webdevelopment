@@ -218,3 +218,5 @@ body ::selection {
 .text-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 .clearfix::after { content: ""; display: table; clear: both; }
+
+.d-none { display: none; }
