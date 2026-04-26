@@ -177,3 +177,5 @@ body ::selection {
 .not-sr-only { position: static; width: auto; height: auto; padding: 0; margin: 0; overflow: visible; clip: auto; white-space: normal; }
 
 .text-truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.text-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
