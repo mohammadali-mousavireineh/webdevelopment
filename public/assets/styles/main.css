@@ -222,3 +222,5 @@ body ::selection {
 .d-none { display: none; }
 
 .d-block { display: block; }
+
+.d-inline { display: inline; }
