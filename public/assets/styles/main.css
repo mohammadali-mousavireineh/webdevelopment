@@ -185,3 +185,5 @@ body ::selection {
 .clearfix::after { content: ""; display: table; clear: both; }
 
 .d-none { display: none; }
+
+.d-block { display: block; }
