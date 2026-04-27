@@ -199,3 +199,5 @@ body ::selection {
 .d-grid { display: grid; }
 
 .flex-row { flex-direction: row; }
+
+.flex-column { flex-direction: column; }
