@@ -197,3 +197,5 @@ body ::selection {
 .d-inline-flex { display: inline-flex; }
 
 .d-grid { display: grid; }
+
+.flex-row { flex-direction: row; }
