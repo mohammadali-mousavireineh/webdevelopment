@@ -763,4 +763,5 @@
   --space-24: 6rem;
   --space-28: 7rem;
   --space-32: 8rem;
+  --shadow-xs: 0 1px 2px rgba(0,0,0,0.05);
 }
