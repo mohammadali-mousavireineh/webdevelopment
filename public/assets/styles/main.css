@@ -254,3 +254,5 @@ body ::selection {
 .justify-end { justify-content: flex-end; }
 
 .justify-between { justify-content: space-between; }
+
+.gap-0 { gap: 0; }
