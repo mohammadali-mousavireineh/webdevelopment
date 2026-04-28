@@ -248,3 +248,5 @@ body ::selection {
 .items-end { align-items: flex-end; }
 
 .justify-start { justify-content: flex-start; }
+
+.justify-center { justify-content: center; }
