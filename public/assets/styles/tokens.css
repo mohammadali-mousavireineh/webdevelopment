@@ -784,4 +784,5 @@
   --transition-opacity: opacity 0.2s;
   --transition-shadow: box-shadow 0.2s;
   --transition-transform: transform 0.2s;
+  --duration-100: 100ms;
 }
