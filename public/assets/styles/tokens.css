@@ -781,4 +781,5 @@
   --ring-shadow: 0 0 0 var(--ring-width) var(--ring-color);
   --transition: all 0.2s ease;
   --transition-colors: background-color 0.2s,color 0.2s,border-color 0.2s;
+  --transition-opacity: opacity 0.2s;
 }
