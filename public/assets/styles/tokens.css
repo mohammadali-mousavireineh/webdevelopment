@@ -786,4 +786,5 @@
   --transition-transform: transform 0.2s;
   --duration-100: 100ms;
   --duration-150: 150ms;
+  --duration-200: 200ms;
 }
