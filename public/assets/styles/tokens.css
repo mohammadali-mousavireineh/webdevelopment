@@ -782,4 +782,5 @@
   --transition: all 0.2s ease;
   --transition-colors: background-color 0.2s,color 0.2s,border-color 0.2s;
   --transition-opacity: opacity 0.2s;
+  --transition-shadow: box-shadow 0.2s;
 }
