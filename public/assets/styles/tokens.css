@@ -798,4 +798,5 @@
   --ease-spring: cubic-bezier(0.34,1.56,0.64,1);
   --blur: 8px;
   --blur-sm: 4px;
+  --blur-md: 12px;
 }
