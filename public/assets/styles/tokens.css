@@ -807,4 +807,5 @@
   --backdrop-blur-md: 12px;
   --backdrop-blur-lg: 24px;
   --backdrop-blur-xl: 48px;
+  --drop-shadow-sm: 0 1px 1px rgba(0,0,0,0.05);
 }
