@@ -812,4 +812,5 @@
   --drop-shadow-lg: 0 4px 6px rgba(0,0,0,0.1);
   --drop-shadow-xl: 0 8px 12px rgba(0,0,0,0.15);
   --drop-shadow-2xl: 0 12px 24px rgba(0,0,0,0.2);
+  --width-xs: 20rem;
 }
