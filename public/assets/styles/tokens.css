@@ -825,4 +825,5 @@
   --width-7xl: 80rem;
   --prose: 65ch;
   --container-sm: 640px;
+  --container-md: 768px;
 }
