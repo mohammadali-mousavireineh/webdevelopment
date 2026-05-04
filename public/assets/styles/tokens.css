@@ -831,4 +831,5 @@
   --container-2xl: 1536px;
   --min-h-screen: 100vh;
   --max-h-screen: 100vh;
+  --min-w-0: 0;
 }
