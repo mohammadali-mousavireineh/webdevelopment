@@ -844,4 +844,5 @@
   --max-w-6xl: 72rem;
   --max-w-7xl: 80rem;
   --max-w-prose: 65ch;
+  --max-w-full: 100%;
 }
