@@ -850,4 +850,5 @@
   --min-h-screen: 100vh;
   --max-h-full: 100%;
   --max-h-screen: 100vh;
+  --inset-0: 0;
 }
