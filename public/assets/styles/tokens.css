@@ -846,4 +846,5 @@
   --max-w-prose: 65ch;
   --max-w-full: 100%;
   --min-h-0: 0;
+  --min-h-full: 100%;
 }
