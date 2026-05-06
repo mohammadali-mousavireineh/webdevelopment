@@ -848,4 +848,5 @@
   --min-h-0: 0;
   --min-h-full: 100%;
   --min-h-screen: 100vh;
+  --max-h-full: 100%;
 }
