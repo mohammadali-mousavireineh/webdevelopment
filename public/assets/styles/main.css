@@ -295,3 +295,4 @@ body ::selection {
 .{m}-32 { margin: 8rem; }
 .{mt}-0 { margin-top: 0; }
 .{mt}-1 { margin-top: 0.25rem; }
+.{mt}-2 { margin-top: 0.5rem; }
