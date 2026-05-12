@@ -309,3 +309,4 @@ body ::selection {
 .{mr}-20 { margin-right: 5rem; }
 .{mr}-24 { margin-right: 6rem; }
 .{mr}-32 { margin-right: 8rem; }
+.{mb}-0 { margin-bottom: 0; }
