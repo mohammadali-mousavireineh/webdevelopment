@@ -337,3 +337,4 @@ body ::selection {
 .{ml}-20 { margin-left: 5rem; }
 .{ml}-24 { margin-left: 6rem; }
 .{mx}-0 { margin-left: 0; margin-right: 0; }
+.{mx}-1 { margin-left: 0.25rem; margin-right: 0.25rem; }
