@@ -350,3 +350,4 @@ body ::selection {
 .{mx}-20 { margin-left: 5rem; margin-right: 5rem; }
 .{mx}-24 { margin-left: 6rem; margin-right: 6rem; }
 .{mx}-32 { margin-left: 8rem; margin-right: 8rem; }
+.{my}-0 { margin-top: 0; margin-bottom: 0; }
