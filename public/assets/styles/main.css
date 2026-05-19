@@ -378,3 +378,4 @@ body ::selection {
 .{p}-20 { padding: 5rem; }
 .{p}-24 { padding: 6rem; }
 .{p}-32 { padding: 8rem; }
+.{pt}-0 { padding-top: 0; }
