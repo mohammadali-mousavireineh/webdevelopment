@@ -393,3 +393,4 @@ body ::selection {
 .{pt}-24 { padding-top: 6rem; }
 .{pt}-32 { padding-top: 8rem; }
 .{pr}-0 { padding-right: 0; }
+.{pr}-1 { padding-right: 0.25rem; }
