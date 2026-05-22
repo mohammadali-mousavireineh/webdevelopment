@@ -406,3 +406,4 @@ body ::selection {
 .{pr}-20 { padding-right: 5rem; }
 .{pr}-24 { padding-right: 6rem; }
 .{pr}-32 { padding-right: 8rem; }
+.{pb}-0 { padding-bottom: 0; }
