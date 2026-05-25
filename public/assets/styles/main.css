@@ -434,3 +434,4 @@ body ::selection {
 .{pl}-20 { padding-left: 5rem; }
 .{pl}-24 { padding-left: 6rem; }
 .{pl}-32 { padding-left: 8rem; }
+.{px}-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
