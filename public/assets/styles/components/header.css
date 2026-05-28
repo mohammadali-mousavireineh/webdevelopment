@@ -381,3 +381,4 @@
 .header { transition: all var(--transition-normal); }
 .header { isolation: isolate; }
 .header { -webkit-tap-highlight-color: transparent; }
+.header { user-select: none; -webkit-user-select: none; }
