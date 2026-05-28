@@ -376,3 +376,4 @@
 }
 
 .header { scroll-margin-top: var(--header-height); }
+.header { content-visibility: auto; contain-intrinsic-size: 0 200px; }
