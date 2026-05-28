@@ -374,3 +374,5 @@
     font-size: 0.85rem;
   }
 }
+
+.header { scroll-margin-top: var(--header-height); }
