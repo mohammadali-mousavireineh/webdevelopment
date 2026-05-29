@@ -30,3 +30,4 @@
 .footer:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
 .footer { transition: all var(--transition-normal); }
 .footer { isolation: isolate; }
+.footer { -webkit-tap-highlight-color: transparent; }
