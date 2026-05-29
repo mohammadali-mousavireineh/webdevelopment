@@ -32,3 +32,4 @@
 .footer { isolation: isolate; }
 .footer { -webkit-tap-highlight-color: transparent; }
 .footer { user-select: none; -webkit-user-select: none; }
+@media (hover: hover) { .footer:hover { opacity: 0.9; } }
