@@ -31,3 +31,4 @@
 .footer { transition: all var(--transition-normal); }
 .footer { isolation: isolate; }
 .footer { -webkit-tap-highlight-color: transparent; }
+.footer { user-select: none; -webkit-user-select: none; }
