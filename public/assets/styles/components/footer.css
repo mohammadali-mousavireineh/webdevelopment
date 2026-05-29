@@ -26,3 +26,4 @@
     }
 }
 .footer { scroll-margin-top: var(--header-height); }
+.footer { content-visibility: auto; contain-intrinsic-size: 0 200px; }
