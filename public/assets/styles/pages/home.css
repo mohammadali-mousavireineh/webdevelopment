@@ -1793,3 +1793,4 @@
 
 .home-section, .home { scroll-margin-top: var(--header-height); }
 .home-section, .home { content-visibility: auto; contain-intrinsic-size: 0 200px; }
+.home-section, .home { transition: all var(--transition-normal); }
