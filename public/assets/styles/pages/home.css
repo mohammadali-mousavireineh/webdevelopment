@@ -1796,3 +1796,4 @@
 .home-section, .home { transition: all var(--transition-normal); }
 .home-section, .home { isolation: isolate; }
 .home-section, .home { -webkit-tap-highlight-color: transparent; }
+.home-section, .home { user-select: none; -webkit-user-select: none; }
