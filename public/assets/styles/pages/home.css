@@ -1797,3 +1797,4 @@
 .home-section, .home { isolation: isolate; }
 .home-section, .home { -webkit-tap-highlight-color: transparent; }
 .home-section, .home { user-select: none; -webkit-user-select: none; }
+@media (hover: hover) { .home-section, .home:hover { opacity: 0.9; } }
