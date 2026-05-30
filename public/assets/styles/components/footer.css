@@ -34,3 +34,4 @@
 .footer { user-select: none; -webkit-user-select: none; }
 @media (hover: hover) { .footer:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .footer { animation: none; transition: none; } }
+@media print { ..footer { page-break-inside: avoid; } }
