@@ -1790,3 +1790,5 @@
     transform: none;
   }
 }
+
+.home-section, .home { scroll-margin-top: var(--header-height); }
