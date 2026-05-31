@@ -47,3 +47,5 @@
   color: var(--color-text-muted);
   font-size: 0.9rem;
 }
+
+.about-section, .about { scroll-margin-top: var(--header-height); }
