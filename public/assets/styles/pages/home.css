@@ -1799,3 +1799,4 @@
 .home-section, .home { user-select: none; -webkit-user-select: none; }
 @media (hover: hover) { .home-section, .home:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .home-section, .home { animation: none; transition: none; } }
+@media print { ..home-section, .home { page-break-inside: avoid; } }
