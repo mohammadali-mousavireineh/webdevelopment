@@ -52,3 +52,4 @@
 .about-section, .about { content-visibility: auto; contain-intrinsic-size: 0 200px; }
 .about-section, .about:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
 .about-section, .about { transition: all var(--transition-normal); }
+.about-section, .about { isolation: isolate; }
