@@ -55,3 +55,4 @@
 .about-section, .about { isolation: isolate; }
 .about-section, .about { -webkit-tap-highlight-color: transparent; }
 .about-section, .about { user-select: none; -webkit-user-select: none; }
+@media (hover: hover) { .about-section, .about:hover { opacity: 0.9; } }
