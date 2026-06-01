@@ -70,3 +70,4 @@
 }
 
 .contact-section, .contact { scroll-margin-top: var(--header-height); }
+.contact-section, .contact { content-visibility: auto; contain-intrinsic-size: 0 200px; }
