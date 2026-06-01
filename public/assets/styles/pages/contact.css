@@ -75,3 +75,4 @@
 .contact-section, .contact { transition: all var(--transition-normal); }
 .contact-section, .contact { isolation: isolate; }
 .contact-section, .contact { -webkit-tap-highlight-color: transparent; }
+.contact-section, .contact { user-select: none; -webkit-user-select: none; }
