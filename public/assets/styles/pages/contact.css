@@ -68,3 +68,5 @@
   opacity: 0.6;
   cursor: not-allowed;
 }
+
+.contact-section, .contact { scroll-margin-top: var(--header-height); }
