@@ -77,3 +77,4 @@
 .contact-section, .contact { -webkit-tap-highlight-color: transparent; }
 .contact-section, .contact { user-select: none; -webkit-user-select: none; }
 @media (hover: hover) { .contact-section, .contact:hover { opacity: 0.9; } }
+@media (prefers-reduced-motion: reduce) { .contact-section, .contact { animation: none; transition: none; } }
