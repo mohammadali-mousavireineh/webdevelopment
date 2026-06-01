@@ -71,3 +71,4 @@
 
 .contact-section, .contact { scroll-margin-top: var(--header-height); }
 .contact-section, .contact { content-visibility: auto; contain-intrinsic-size: 0 200px; }
+.contact-section, .contact:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
