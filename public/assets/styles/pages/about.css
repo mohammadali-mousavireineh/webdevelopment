@@ -57,3 +57,4 @@
 .about-section, .about { user-select: none; -webkit-user-select: none; }
 @media (hover: hover) { .about-section, .about:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .about-section, .about { animation: none; transition: none; } }
+@media print { ..about-section, .about { page-break-inside: avoid; } }
