@@ -27,3 +27,4 @@
 .blog-section, .blog { transition: all var(--transition-normal); }
 .blog-section, .blog { isolation: isolate; }
 .blog-section, .blog { -webkit-tap-highlight-color: transparent; }
+.blog-section, .blog { user-select: none; -webkit-user-select: none; }
