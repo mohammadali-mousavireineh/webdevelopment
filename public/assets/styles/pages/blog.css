@@ -30,3 +30,4 @@
 .blog-section, .blog { user-select: none; -webkit-user-select: none; }
 @media (hover: hover) { .blog-section, .blog:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .blog-section, .blog { animation: none; transition: none; } }
+@media print { ..blog-section, .blog { page-break-inside: avoid; } }
