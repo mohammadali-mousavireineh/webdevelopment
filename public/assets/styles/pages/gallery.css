@@ -62,3 +62,4 @@
 .gallery-section, .gallery { isolation: isolate; }
 .gallery-section, .gallery { -webkit-tap-highlight-color: transparent; }
 .gallery-section, .gallery { user-select: none; -webkit-user-select: none; }
+@media (hover: hover) { .gallery-section, .gallery:hover { opacity: 0.9; } }
