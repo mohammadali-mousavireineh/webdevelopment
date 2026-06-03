@@ -54,3 +54,5 @@
   color: var(--color-text-secondary);
   position: relative;
 }
+
+.gallery-section, .gallery { scroll-margin-top: var(--header-height); }
