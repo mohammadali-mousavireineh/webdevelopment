@@ -61,3 +61,4 @@
 .gallery-section, .gallery { transition: all var(--transition-normal); }
 .gallery-section, .gallery { isolation: isolate; }
 .gallery-section, .gallery { -webkit-tap-highlight-color: transparent; }
+.gallery-section, .gallery { user-select: none; -webkit-user-select: none; }
