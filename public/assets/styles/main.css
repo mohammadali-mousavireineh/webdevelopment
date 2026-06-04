@@ -465,3 +465,4 @@ body ::selection {
 .container-lg { max-width: 1024px; }
 .container-xl { max-width: 1280px; }
 .container-2xl { max-width: 1536px; }
+.prose { max-width: 65ch; }
