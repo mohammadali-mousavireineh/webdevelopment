@@ -474,3 +474,4 @@ body ::selection {
 .prose li { margin-bottom: 0.25em; }
 .prose blockquote { border-left: 4px solid var(--color-primary); padding-left: 1em; font-style: italic; }
 .prose code { background: var(--color-surface-alt); padding: 0.2em 0.4em; border-radius: 4px; font-size: 0.875em; }
+.prose pre { background: var(--color-surface-alt); padding: 1em; border-radius: 8px; overflow-x: auto; }
