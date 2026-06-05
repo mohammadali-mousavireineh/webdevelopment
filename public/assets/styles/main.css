@@ -477,3 +477,4 @@ body ::selection {
 .prose pre { background: var(--color-surface-alt); padding: 1em; border-radius: 8px; overflow-x: auto; }
 .prose img { border-radius: 8px; margin: 1.5em 0; }
 .prose a { color: var(--color-primary); text-decoration: underline; }
+.prose table { width: 100%; border-collapse: collapse; }
