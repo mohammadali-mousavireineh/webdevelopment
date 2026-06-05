@@ -472,3 +472,4 @@ body ::selection {
 .prose ul { padding-left: 1.5em; }
 .prose ol { padding-left: 1.5em; }
 .prose li { margin-bottom: 0.25em; }
+.prose blockquote { border-left: 4px solid var(--color-primary); padding-left: 1em; font-style: italic; }
