@@ -471,3 +471,4 @@ body ::selection {
 .prose h3 { margin-top: 1.25em; margin-bottom: 0.5em; }
 .prose ul { padding-left: 1.5em; }
 .prose ol { padding-left: 1.5em; }
+.prose li { margin-bottom: 0.25em; }
