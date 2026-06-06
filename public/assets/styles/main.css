@@ -482,3 +482,4 @@ body ::selection {
 .prose td { padding: 0.75em; border-bottom: 1px solid var(--color-border); }
 .row { display: flex; flex-wrap: wrap; }
 .col { flex: 1 0 0%; }
+.col-auto { flex: 0 0 auto; }
