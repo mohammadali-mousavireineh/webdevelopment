@@ -479,3 +479,4 @@ body ::selection {
 .prose a { color: var(--color-primary); text-decoration: underline; }
 .prose table { width: 100%; border-collapse: collapse; }
 .prose th { background: var(--color-surface-alt); font-weight: 600; padding: 0.75em; text-align: left; }
+.prose td { padding: 0.75em; border-bottom: 1px solid var(--color-border); }
