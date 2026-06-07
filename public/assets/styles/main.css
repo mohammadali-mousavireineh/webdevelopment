@@ -494,3 +494,4 @@ body ::selection {
 .order-last { order: 9999; }
 .order-0 { order: 0; }
 .order-1 { order: 1; }
+.order-2 { order: 2; }
