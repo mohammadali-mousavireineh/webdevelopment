@@ -491,3 +491,4 @@ body ::selection {
 .offset-2 { margin-left: 16.666667%; }
 .offset-4 { margin-left: 33.333333%; }
 .order-first { order: -1; }
+.order-last { order: 9999; }
