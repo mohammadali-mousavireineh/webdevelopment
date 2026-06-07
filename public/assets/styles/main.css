@@ -490,3 +490,4 @@ body ::selection {
 .col-8 { flex: 0 0 66.666667%; }
 .offset-2 { margin-left: 16.666667%; }
 .offset-4 { margin-left: 33.333333%; }
+.order-first { order: -1; }
