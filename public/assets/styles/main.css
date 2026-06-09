@@ -508,3 +508,4 @@ body ::selection {
 .g-16 { gap: 4rem; }
 .row-gap-0 { row-gap: 0; }
 .row-gap-2 { row-gap: 0.5rem; }
+.row-gap-4 { row-gap: 1rem; }
