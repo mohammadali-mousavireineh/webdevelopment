@@ -515,3 +515,4 @@ body ::selection {
 .col-gap-4 { column-gap: 1rem; }
 .col-gap-6 { column-gap: 1.5rem; }
 .aspect-ratio { position: relative; }
+.aspect-ratio::before { content: ""; display: block; }
