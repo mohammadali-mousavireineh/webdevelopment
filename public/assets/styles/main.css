@@ -525,3 +525,4 @@ body ::selection {
 .aspect-9x16::before { padding-bottom: 177.777%; }
 .img-fluid { max-width: 100%; height: auto; }
 .img-round { border-radius: 50%; }
+.img-thumbnail { padding: 0.25rem; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); }
