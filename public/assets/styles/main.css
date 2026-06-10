@@ -520,3 +520,4 @@ body ::selection {
 .aspect-1x1::before { padding-bottom: 100%; }
 .aspect-4x3::before { padding-bottom: 75%; }
 .aspect-16x9::before { padding-bottom: 56.25%; }
+.aspect-21x9::before { padding-bottom: 42.857%; }
