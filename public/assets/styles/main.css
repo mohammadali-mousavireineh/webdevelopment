@@ -523,3 +523,4 @@ body ::selection {
 .aspect-21x9::before { padding-bottom: 42.857%; }
 .aspect-3x4::before { padding-bottom: 133.333%; }
 .aspect-9x16::before { padding-bottom: 177.777%; }
+.img-fluid { max-width: 100%; height: auto; }
