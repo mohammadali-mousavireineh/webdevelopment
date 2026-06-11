@@ -534,3 +534,4 @@ body ::selection {
 .embed-responsive iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
 .embed-responsive-16by9::before { padding-bottom: 56.25%; }
 .embed-responsive-4by3::before { padding-bottom: 75%; }
+.embed-responsive-1by1::before { padding-bottom: 100%; }
