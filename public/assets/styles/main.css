@@ -529,3 +529,4 @@ body ::selection {
 .figure { display: inline-block; }
 .figure-img { margin-bottom: 0.5rem; }
 .figure-caption { font-size: 0.875rem; color: var(--color-text-muted); }
+.embed-responsive { position: relative; overflow: hidden; }
