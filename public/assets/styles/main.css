@@ -536,3 +536,4 @@ body ::selection {
 .embed-responsive-4by3::before { padding-bottom: 75%; }
 .embed-responsive-1by1::before { padding-bottom: 100%; }
 .float-start { float: left; }
+.float-end { float: right; }
