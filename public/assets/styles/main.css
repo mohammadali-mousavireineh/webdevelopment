@@ -545,3 +545,4 @@ body ::selection {
 .overflow-scroll { overflow: scroll; }
 .overflow-x-auto { overflow-x: auto; }
 .overflow-y-auto { overflow-y: auto; }
+.overflow-x-hidden { overflow-x: hidden; }
