@@ -538,3 +538,4 @@ body ::selection {
 .float-start { float: left; }
 .float-end { float: right; }
 .float-none { float: none; }
+.clearfix::after { display: block; clear: both; content: ""; }
