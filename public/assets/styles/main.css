@@ -543,3 +543,4 @@ body ::selection {
 .overflow-hidden { overflow: hidden; }
 .overflow-visible { overflow: visible; }
 .overflow-scroll { overflow: scroll; }
+.overflow-x-auto { overflow-x: auto; }
