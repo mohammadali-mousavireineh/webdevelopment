@@ -539,3 +539,4 @@ body ::selection {
 .float-end { float: right; }
 .float-none { float: none; }
 .clearfix::after { display: block; clear: both; content: ""; }
+.overflow-auto { overflow: auto; }
