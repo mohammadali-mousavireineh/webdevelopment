@@ -540,3 +540,4 @@ body ::selection {
 .float-none { float: none; }
 .clearfix::after { display: block; clear: both; content: ""; }
 .overflow-auto { overflow: auto; }
+.overflow-hidden { overflow: hidden; }
