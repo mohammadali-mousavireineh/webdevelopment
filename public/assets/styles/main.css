@@ -549,3 +549,4 @@ body ::selection {
 .overflow-y-hidden { overflow-y: hidden; }
 .d-inline { display: inline; }
 .d-block { display: block; }
+.d-grid { display: grid; }
