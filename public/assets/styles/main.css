@@ -550,3 +550,4 @@ body ::selection {
 .d-inline { display: inline; }
 .d-block { display: block; }
 .d-grid { display: grid; }
+.d-inline-block { display: inline-block; }
