@@ -553,3 +553,4 @@ body ::selection {
 .d-inline-block { display: inline-block; }
 .d-inline-flex { display: inline-flex; }
 .d-none { display: none; }
+.d-table-cell { display: table-cell; }
