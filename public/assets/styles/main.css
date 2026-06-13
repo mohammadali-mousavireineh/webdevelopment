@@ -555,3 +555,4 @@ body ::selection {
 .d-none { display: none; }
 .d-table-cell { display: table-cell; }
 .d-table-row { display: table-row; }
+.flex-fill { flex: 1 1 auto; }
