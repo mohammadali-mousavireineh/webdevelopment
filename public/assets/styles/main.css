@@ -558,3 +558,4 @@ body ::selection {
 .flex-fill { flex: 1 1 auto; }
 .flex-row { flex-direction: row; }
 .flex-column { flex-direction: column; }
+.flex-row-reverse { flex-direction: row-reverse; }
