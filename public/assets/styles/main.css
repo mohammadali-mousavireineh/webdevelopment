@@ -576,3 +576,4 @@ body ::selection {
 .align-start { align-items: flex-start; }
 .align-end { align-items: flex-end; }
 .align-center { align-items: center; }
+.align-baseline { align-items: baseline; }
