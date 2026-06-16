@@ -580,3 +580,4 @@ body ::selection {
 .align-stretch { align-items: stretch; }
 .align-content-start { align-content: flex-start; }
 .align-content-center { align-content: center; }
+.align-content-end { align-content: flex-end; }
