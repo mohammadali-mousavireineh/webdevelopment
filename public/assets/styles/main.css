@@ -583,3 +583,4 @@ body ::selection {
 .align-content-end { align-content: flex-end; }
 .align-content-between { align-content: space-between; }
 .align-content-around { align-content: space-around; }
+.align-self-auto { align-self: auto; }
