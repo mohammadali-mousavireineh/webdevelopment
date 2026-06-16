@@ -579,3 +579,4 @@ body ::selection {
 .align-baseline { align-items: baseline; }
 .align-stretch { align-items: stretch; }
 .align-content-start { align-content: flex-start; }
+.align-content-center { align-content: center; }
