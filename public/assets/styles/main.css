@@ -587,3 +587,4 @@ body ::selection {
 .align-self-start { align-self: flex-start; }
 .align-self-center { align-self: center; }
 .align-self-end { align-self: flex-end; }
+.align-self-stretch { align-self: stretch; }
