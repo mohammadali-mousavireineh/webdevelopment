@@ -589,3 +589,4 @@ body ::selection {
 .align-self-end { align-self: flex-end; }
 .align-self-stretch { align-self: stretch; }
 .align-self-baseline { align-self: baseline; }
+.w-25 { width: 25%; }
