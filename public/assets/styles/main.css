@@ -596,3 +596,4 @@ body ::selection {
 .w-auto { width: auto; }
 .mw-100 { max-width: 100%; }
 .vw-100 { width: 100vw; }
+.min-vw-100 { min-width: 100vw; }
