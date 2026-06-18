@@ -598,3 +598,4 @@ body ::selection {
 .vw-100 { width: 100vw; }
 .min-vw-100 { min-width: 100vw; }
 .h-25 { height: 25%; }
+.h-50 { height: 50%; }
