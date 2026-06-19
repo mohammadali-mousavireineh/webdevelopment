@@ -613,3 +613,4 @@ body ::selection {
 .right-0 { right: 0; }
 .bottom-0 { bottom: 0; }
 .left-0 { left: 0; }
+.translate-middle { transform: translate(-50%, -50%); }
