@@ -609,3 +609,4 @@ body ::selection {
 .position-relative { position: relative; }
 .position-absolute { position: absolute; }
 .position-fixed { position: fixed; }
+.top-0 { top: 0; }
