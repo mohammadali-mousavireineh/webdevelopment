@@ -607,3 +607,4 @@ body ::selection {
 .min-vh-100 { min-height: 100vh; }
 .position-static { position: static; }
 .position-relative { position: relative; }
+.position-absolute { position: absolute; }
