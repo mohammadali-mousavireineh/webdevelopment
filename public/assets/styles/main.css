@@ -625,3 +625,4 @@ body ::selection {
 .border-2 { border-width: 2px; }
 .border-4 { border-width: 4px; }
 .border-primary { border-color: var(--color-primary); }
+.border-accent { border-color: var(--color-accent); }
