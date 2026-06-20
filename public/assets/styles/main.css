@@ -620,3 +620,4 @@ body ::selection {
 .border-0 { border: 0; }
 .border-top { border-top: 1px solid var(--color-border); }
 .border-bottom { border-bottom: 1px solid var(--color-border); }
+.border-left { border-left: 1px solid var(--color-border); }
