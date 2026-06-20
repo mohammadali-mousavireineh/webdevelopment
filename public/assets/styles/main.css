@@ -616,3 +616,4 @@ body ::selection {
 .translate-middle { transform: translate(-50%, -50%); }
 .translate-middle-x { transform: translateX(-50%); }
 .translate-middle-y { transform: translateY(-50%); }
+.border { border: 1px solid var(--color-border); }
