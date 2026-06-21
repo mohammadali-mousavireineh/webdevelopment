@@ -632,3 +632,4 @@ body ::selection {
 .rounded-sm { border-radius: var(--radius-sm); }
 .rounded-lg { border-radius: var(--radius-lg); }
 .rounded-xl { border-radius: var(--radius-xl); }
+.rounded-circle { border-radius: 50%; }
