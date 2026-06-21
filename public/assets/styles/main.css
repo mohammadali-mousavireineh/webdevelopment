@@ -627,3 +627,4 @@ body ::selection {
 .border-primary { border-color: var(--color-primary); }
 .border-accent { border-color: var(--color-accent); }
 .border-success { border-color: var(--color-success); }
+.border-danger { border-color: var(--color-danger); }
