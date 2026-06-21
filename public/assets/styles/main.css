@@ -630,3 +630,4 @@ body ::selection {
 .border-danger { border-color: var(--color-danger); }
 .rounded { border-radius: var(--radius-md); }
 .rounded-sm { border-radius: var(--radius-sm); }
+.rounded-lg { border-radius: var(--radius-lg); }
