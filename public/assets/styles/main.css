@@ -633,3 +633,4 @@ body ::selection {
 .rounded-lg { border-radius: var(--radius-lg); }
 .rounded-xl { border-radius: var(--radius-xl); }
 .rounded-circle { border-radius: 50%; }
+.text-start { text-align: left; }
