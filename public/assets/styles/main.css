@@ -1,0 +1,13 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    padding: 18px;
+    background-image: linear-gradient(to right,red,orange,pink,lightblue);
+    min-height: 100vh;
+    font-size: xx-large;
+    color: white;
+    overflow: hidden;
+}
