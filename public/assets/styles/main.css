@@ -642,3 +642,4 @@ body ::selection {
 .text-break { word-break: break-word; overflow-wrap: break-word; }
 .text-lowercase { text-transform: lowercase; }
 .text-uppercase { text-transform: uppercase; }
+.text-capitalize { text-transform: capitalize; }
