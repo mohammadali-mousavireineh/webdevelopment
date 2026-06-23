@@ -636,3 +636,4 @@ body ::selection {
 .text-start { text-align: left; }
 .text-center { text-align: center; }
 .text-end { text-align: right; }
+.text-justify { text-align: justify; }
