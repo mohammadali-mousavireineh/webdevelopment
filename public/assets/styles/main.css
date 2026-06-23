@@ -638,3 +638,4 @@ body ::selection {
 .text-end { text-align: right; }
 .text-justify { text-align: justify; }
 .text-nowrap { white-space: nowrap; }
+.text-wrap { white-space: normal; }
