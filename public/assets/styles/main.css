@@ -637,3 +637,4 @@ body ::selection {
 .text-center { text-align: center; }
 .text-end { text-align: right; }
 .text-justify { text-align: justify; }
+.text-nowrap { white-space: nowrap; }
