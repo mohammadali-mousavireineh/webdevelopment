@@ -16,5 +16,8 @@
     "url": "https://github.com/mohammadali-mousavireineh/webdevelopment/issues"
   },
   "homepage": "https://github.com/mohammadali-mousavireineh/webdevelopment#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "safa-router": "^1.4.1"
+  }
 }
