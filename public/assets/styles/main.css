@@ -1,13 +1,34 @@
-*
-{
-    box-sizing: border-box;
+@import "./root.css";
+@import "./font.css";
+@import "./components/header.css";
+@import "./components/footer.css";
+
+* {
+  box-sizing: border-box;
 }
-body
-{
-    padding: 18px;
-    background-image: linear-gradient(to right,red,orange,pink,lightblue);
-    min-height: 100vh;
-    font-size: xx-large;
-    color: white;
-    overflow: hidden;
+
+body {
+  margin: 0;
+  padding: 18px;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-normal);
+  color: var(--color-text);
+  background-color: var(--color-background);
+  display: grid;
+  grid-template-columns: repeat(24, 1fr);
+  grid-template-rows: repeat(24, 1fr);
+  direction: rtl;
+}
+
+
+
+#app {
+  grid-column: 24 span;
+  grid-row: 4 / 18 span;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: var(--spacing-lg);
 }
