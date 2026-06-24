@@ -20,6 +20,20 @@ body {
   grid-template-columns: repeat(24, 1fr);
   grid-template-rows: repeat(24, 1fr);
   direction: rtl;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  #app {
+    grid-column: 1 / -1;
+    grid-row: auto;
+    padding: var(--spacing-md);
+  }
 }
 
 
