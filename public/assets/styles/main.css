@@ -651,3 +651,4 @@ body ::selection {
 .font-semibold { font-weight: 600; }
 .font-bold { font-weight: 700; }
 .font-extrabold { font-weight: 800; }
+.font-black { font-weight: 900; }
