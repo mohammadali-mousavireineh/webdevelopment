@@ -1,0 +1,4 @@
+.footer{
+    grid-row: 22 / span 3;
+    grid-column: span 24;
+}
