@@ -1,6 +1,6 @@
 .header {
   grid-column: span 24;
-  grid-row: 1 / span 3;
+  grid-row: 1;
   display: flex;
   align-items: center;
   align-content: center;

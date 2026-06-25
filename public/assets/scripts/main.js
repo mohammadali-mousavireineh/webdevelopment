@@ -9,6 +9,14 @@ const router = new SafaRouter({
     header: headerComponent,
     footer: footerComponent,
   },
+  errors: {
+    pageDir: 'public/pages/errors',
+    stackTraces: false,
+  },
+  realtime: {
+    enabled: true,
+    mode: 'sse',
+  },
 })
 
 router.start()
