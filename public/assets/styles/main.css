@@ -31,7 +31,7 @@ body {
 
   #app {
     grid-column: 1 / -1;
-    grid-row: auto;
+    grid-row: 2;
     padding: var(--spacing-md);
   }
 }
