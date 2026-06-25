@@ -1,0 +1,24 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadali-mousavireineh/webdevelopment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadali-mousavireineh/webdevelopment/issues"
+  },
+  "homepage": "https://github.com/mohammadali-mousavireineh/webdevelopment#readme",
+  "description": "",
+  "dependencies": {
+    "safa-router": "^1.4.1"
+  }
+}

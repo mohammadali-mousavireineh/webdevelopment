@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Web Development</title>
     <link rel="stylesheet" href="public/assets/styles/main.css">
 </head>
 <body>
-    <script>
-window.location.replace("public/pages/index.html");
+    <header data-safa-component="header" class="header"></header>
+    <main id="app"></main>
+    <footer data-safa-component="footer" class="footer"></footer>
+    <script type="importmap">
+    {
+      "imports": {
+        "safa-router": "./node_modules/safa-router/src/index.js"
+      }
+    }
     </script>
+    <script type="module" src="public/assets/scripts/main.js"></script>
 </body>
 </html>
