@@ -663,3 +663,4 @@ body ::selection {
 .lh-sm { line-height: 1.25; }
 .lh-base { line-height: 1.5; }
 .lh-lg { line-height: 2; }
+.text-decoration-none { text-decoration: none; }
