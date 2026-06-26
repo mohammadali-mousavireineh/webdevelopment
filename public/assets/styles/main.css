@@ -664,3 +664,4 @@ body ::selection {
 .lh-base { line-height: 1.5; }
 .lh-lg { line-height: 2; }
 .text-decoration-none { text-decoration: none; }
+.text-decoration-underline { text-decoration: underline; }
