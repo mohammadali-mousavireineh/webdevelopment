@@ -667,3 +667,4 @@ body ::selection {
 .text-decoration-underline { text-decoration: underline; }
 .text-decoration-line-through { text-decoration: line-through; }
 .text-reset { color: inherit; }
+.text-muted { color: var(--color-text-muted); }
