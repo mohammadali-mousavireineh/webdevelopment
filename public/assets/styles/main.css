@@ -669,3 +669,4 @@ body ::selection {
 .text-reset { color: inherit; }
 .text-muted { color: var(--color-text-muted); }
 .text-primary { color: var(--color-primary); }
+.text-accent { color: var(--color-accent); }
