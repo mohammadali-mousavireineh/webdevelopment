@@ -672,3 +672,4 @@ body ::selection {
 .text-accent { color: var(--color-accent); }
 .text-success { color: var(--color-success); }
 .text-danger { color: var(--color-danger); }
+.text-warning { color: var(--color-warning); }
