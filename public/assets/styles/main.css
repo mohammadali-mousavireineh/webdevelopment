@@ -675,3 +675,4 @@ body ::selection {
 .text-warning { color: var(--color-warning); }
 .text-info { color: var(--color-info); }
 .bg-primary { background-color: var(--color-primary); }
+.bg-accent { background-color: var(--color-accent); }
