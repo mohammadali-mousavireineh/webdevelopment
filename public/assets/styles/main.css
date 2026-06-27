@@ -683,3 +683,4 @@ body ::selection {
 .bg-transparent { background-color: transparent; }
 .bg-surface { background-color: var(--color-surface); }
 .bg-muted { background-color: var(--color-surface-alt); }
+.bg-dark { background-color: var(--color-text); color: white; }
