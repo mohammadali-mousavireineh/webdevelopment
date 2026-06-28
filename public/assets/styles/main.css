@@ -692,3 +692,4 @@ body ::selection {
 .opacity-75 { opacity: 0.75; }
 .opacity-100 { opacity: 1; }
 .stretched-link::after { position: absolute; inset: 0; z-index: 1; content: ""; }
+.text-truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
