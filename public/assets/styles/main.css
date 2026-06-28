@@ -686,3 +686,4 @@ body ::selection {
 .bg-dark { background-color: var(--color-text); color: white; }
 .visible { visibility: visible; }
 .invisible { visibility: hidden; }
+.opacity-0 { opacity: 0; }
