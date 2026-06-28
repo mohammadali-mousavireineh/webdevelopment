@@ -693,3 +693,4 @@ body ::selection {
 .opacity-100 { opacity: 1; }
 .stretched-link::after { position: absolute; inset: 0; z-index: 1; content: ""; }
 .text-truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.vr { display: inline-block; width: 1px; min-height: 1em; background: var(--color-border); }
