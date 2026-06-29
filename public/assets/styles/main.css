@@ -703,3 +703,4 @@ body ::selection {
 .overflow-y-scroll { overflow-y: scroll; }
 .overflow-x-scroll { overflow-x: scroll; }
 .fit-cover { object-fit: cover; }
+.fit-contain { object-fit: contain; }
