@@ -700,3 +700,4 @@ body ::selection {
 .user-select-none { user-select: none; -webkit-user-select: none; }
 .pe-none { pointer-events: none; }
 .pe-auto { pointer-events: auto; }
+.overflow-y-scroll { overflow-y: scroll; }
