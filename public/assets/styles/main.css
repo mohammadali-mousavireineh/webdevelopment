@@ -699,3 +699,4 @@ body ::selection {
 .user-select-auto { user-select: auto; -webkit-user-select: auto; }
 .user-select-none { user-select: none; -webkit-user-select: none; }
 .pe-none { pointer-events: none; }
+.pe-auto { pointer-events: auto; }
