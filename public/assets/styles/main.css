@@ -698,3 +698,4 @@ body ::selection {
 .user-select-all { user-select: all; -webkit-user-select: all; }
 .user-select-auto { user-select: auto; -webkit-user-select: auto; }
 .user-select-none { user-select: none; -webkit-user-select: none; }
+.pe-none { pointer-events: none; }
