@@ -709,3 +709,4 @@ body ::selection {
 .fit-scale-down { object-fit: scale-down; }
 .header { contain: layout style paint; }
 .header { box-sizing: border-box; }
+.footer { contain: layout style paint; }
