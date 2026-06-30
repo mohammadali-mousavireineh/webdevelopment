@@ -708,3 +708,4 @@ body ::selection {
 .fit-none { object-fit: none; }
 .fit-scale-down { object-fit: scale-down; }
 .header { contain: layout style paint; }
+.header { box-sizing: border-box; }
