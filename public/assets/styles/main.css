@@ -713,3 +713,4 @@ body ::selection {
 .footer { box-sizing: border-box; }
 .home { contain: layout style paint; }
 .home { box-sizing: border-box; }
+.about { contain: layout style paint; }
