@@ -710,3 +710,4 @@ body ::selection {
 .header { contain: layout style paint; }
 .header { box-sizing: border-box; }
 .footer { contain: layout style paint; }
+.footer { box-sizing: border-box; }
