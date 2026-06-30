@@ -707,3 +707,4 @@ body ::selection {
 .fit-fill { object-fit: fill; }
 .fit-none { object-fit: none; }
 .fit-scale-down { object-fit: scale-down; }
+.header { contain: layout style paint; }
