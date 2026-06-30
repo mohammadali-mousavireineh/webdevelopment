@@ -706,3 +706,4 @@ body ::selection {
 .fit-contain { object-fit: contain; }
 .fit-fill { object-fit: fill; }
 .fit-none { object-fit: none; }
+.fit-scale-down { object-fit: scale-down; }
