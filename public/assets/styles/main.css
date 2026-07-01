@@ -718,3 +718,4 @@ body ::selection {
 .contact { contain: layout style paint; }
 .contact { box-sizing: border-box; }
 .blog { contain: layout style paint; }
+.blog { box-sizing: border-box; }
