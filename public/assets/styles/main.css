@@ -720,3 +720,4 @@ body ::selection {
 .blog { contain: layout style paint; }
 .blog { box-sizing: border-box; }
 .gallery { contain: layout style paint; }
+.gallery { box-sizing: border-box; }
