@@ -717,3 +717,4 @@ body ::selection {
 .about { box-sizing: border-box; }
 .contact { contain: layout style paint; }
 .contact { box-sizing: border-box; }
+.blog { contain: layout style paint; }
