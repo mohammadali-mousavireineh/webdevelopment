@@ -723,3 +723,4 @@ body ::selection {
 .gallery { box-sizing: border-box; }
 .m-1 { margin: 1px; }
 .p-1 { padding: 1px; }
+.gap-1 { gap: 1px; }
