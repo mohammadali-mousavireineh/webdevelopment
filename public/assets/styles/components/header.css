@@ -387,3 +387,4 @@
 @media print { ..header { page-break-inside: avoid; } }
 .header { position: relative; }
 .header { z-index: 1; }
+.header { background: var(--color-surface); }
