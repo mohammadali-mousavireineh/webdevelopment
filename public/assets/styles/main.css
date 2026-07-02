@@ -722,3 +722,4 @@ body ::selection {
 .gallery { contain: layout style paint; }
 .gallery { box-sizing: border-box; }
 .m-1 { margin: 1px; }
+.p-1 { padding: 1px; }
