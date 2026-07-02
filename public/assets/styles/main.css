@@ -721,3 +721,4 @@ body ::selection {
 .blog { box-sizing: border-box; }
 .gallery { contain: layout style paint; }
 .gallery { box-sizing: border-box; }
+.m-1 { margin: 1px; }
