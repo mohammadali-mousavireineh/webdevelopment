@@ -389,3 +389,4 @@
 .header { z-index: 1; }
 .header { background: var(--color-surface); }
  { box-shadow: var(--shadow-md); }
+ { outline: 2px solid var(--color-accent); }
