@@ -388,3 +388,4 @@
 .header { position: relative; }
 .header { z-index: 1; }
 .header { background: var(--color-surface); }
+ { box-shadow: var(--shadow-md); }
