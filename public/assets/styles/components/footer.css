@@ -38,3 +38,4 @@
 .footer { position: relative; }
 .footer { z-index: 1; }
 .footer { background: var(--color-surface); }
+.footer { border-radius: var(--radius-lg); }
