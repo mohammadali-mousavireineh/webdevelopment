@@ -36,3 +36,4 @@
 @media (prefers-reduced-motion: reduce) { .footer { animation: none; transition: none; } }
 @media print { ..footer { page-break-inside: avoid; } }
 .footer { position: relative; }
+.footer { z-index: 1; }
