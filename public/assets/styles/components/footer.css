@@ -37,3 +37,4 @@
 @media print { ..footer { page-break-inside: avoid; } }
 .footer { position: relative; }
 .footer { z-index: 1; }
+.footer { background: var(--color-surface); }
