@@ -40,3 +40,4 @@
 .footer { background: var(--color-surface); }
 .footer { border-radius: var(--radius-lg); }
 .footer { overflow: hidden; }
+.footer { box-sizing: border-box; }
