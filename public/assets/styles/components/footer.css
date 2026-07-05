@@ -41,3 +41,4 @@
 .footer { border-radius: var(--radius-lg); }
 .footer { overflow: hidden; }
 .footer { box-sizing: border-box; }
+.footer::before { content: ''; display: block; }
