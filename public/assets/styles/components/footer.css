@@ -42,3 +42,4 @@
 .footer { overflow: hidden; }
 .footer { box-sizing: border-box; }
 .footer::before { content: ''; display: block; }
+.footer::after { content: ''; display: block; }
