@@ -1801,3 +1801,4 @@
 @media (prefers-reduced-motion: reduce) { .home-section, .home { animation: none; transition: none; } }
 @media print { ..home-section, .home { page-break-inside: avoid; } }
 .home { position: relative; }
+.home { z-index: 1; }
