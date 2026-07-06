@@ -1803,3 +1803,4 @@
 .home { position: relative; }
 .home { z-index: 1; }
 .home { background: var(--color-surface); }
+.home { border-radius: var(--radius-lg); }
