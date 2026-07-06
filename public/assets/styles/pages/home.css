@@ -1802,3 +1802,4 @@
 @media print { ..home-section, .home { page-break-inside: avoid; } }
 .home { position: relative; }
 .home { z-index: 1; }
+.home { background: var(--color-surface); }
