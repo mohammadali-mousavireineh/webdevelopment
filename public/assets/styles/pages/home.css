@@ -1805,3 +1805,4 @@
 .home { background: var(--color-surface); }
 .home { border-radius: var(--radius-lg); }
 .home { overflow: hidden; }
+.home { box-sizing: border-box; }
