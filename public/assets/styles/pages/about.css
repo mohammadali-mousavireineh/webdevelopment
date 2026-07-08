@@ -59,3 +59,4 @@
 @media (prefers-reduced-motion: reduce) { .about-section, .about { animation: none; transition: none; } }
 @media print { ..about-section, .about { page-break-inside: avoid; } }
 .about { position: relative; }
+.about { z-index: 1; }
