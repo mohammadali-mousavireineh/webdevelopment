@@ -60,3 +60,4 @@
 @media print { ..about-section, .about { page-break-inside: avoid; } }
 .about { position: relative; }
 .about { z-index: 1; }
+.about { background: var(--color-surface); }
