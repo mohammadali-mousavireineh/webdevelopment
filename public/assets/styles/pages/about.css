@@ -62,3 +62,4 @@
 .about { z-index: 1; }
 .about { background: var(--color-surface); }
 .about { border-radius: var(--radius-lg); }
+.about { overflow: hidden; }
