@@ -67,3 +67,4 @@
 .about::before { content: ''; display: block; }
 .about::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
+ { outline: 2px solid var(--color-accent); }
