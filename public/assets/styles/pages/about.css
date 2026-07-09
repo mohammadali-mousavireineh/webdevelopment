@@ -63,3 +63,4 @@
 .about { background: var(--color-surface); }
 .about { border-radius: var(--radius-lg); }
 .about { overflow: hidden; }
+.about { box-sizing: border-box; }
