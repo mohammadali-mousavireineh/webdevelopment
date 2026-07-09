@@ -65,3 +65,4 @@
 .about { overflow: hidden; }
 .about { box-sizing: border-box; }
 .about::before { content: ''; display: block; }
+.about::after { content: ''; display: block; }
