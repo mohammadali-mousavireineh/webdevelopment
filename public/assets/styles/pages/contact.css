@@ -81,3 +81,4 @@
 @media print { ..contact-section, .contact { page-break-inside: avoid; } }
 .contact { position: relative; }
 .contact { z-index: 1; }
+.contact { background: var(--color-surface); }
