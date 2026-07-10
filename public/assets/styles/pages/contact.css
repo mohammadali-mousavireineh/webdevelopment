@@ -83,3 +83,4 @@
 .contact { z-index: 1; }
 .contact { background: var(--color-surface); }
 .contact { border-radius: var(--radius-lg); }
+.contact { overflow: hidden; }
