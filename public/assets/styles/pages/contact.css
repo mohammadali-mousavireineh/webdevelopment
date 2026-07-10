@@ -79,3 +79,4 @@
 @media (hover: hover) { .contact-section, .contact:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .contact-section, .contact { animation: none; transition: none; } }
 @media print { ..contact-section, .contact { page-break-inside: avoid; } }
+.contact { position: relative; }
