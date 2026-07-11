@@ -86,3 +86,4 @@
 .contact { overflow: hidden; }
 .contact { box-sizing: border-box; }
 .contact::before { content: ''; display: block; }
+.contact::after { content: ''; display: block; }
