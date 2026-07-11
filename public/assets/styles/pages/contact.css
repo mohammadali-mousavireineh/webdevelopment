@@ -88,3 +88,4 @@
 .contact::before { content: ''; display: block; }
 .contact::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
+ { outline: 2px solid var(--color-accent); }
