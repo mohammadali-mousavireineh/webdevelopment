@@ -85,3 +85,4 @@
 .contact { border-radius: var(--radius-lg); }
 .contact { overflow: hidden; }
 .contact { box-sizing: border-box; }
+.contact::before { content: ''; display: block; }
