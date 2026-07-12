@@ -34,3 +34,4 @@
 .blog { position: relative; }
 .blog { z-index: 1; }
 .blog { background: var(--color-surface); }
+.blog { border-radius: var(--radius-lg); }
