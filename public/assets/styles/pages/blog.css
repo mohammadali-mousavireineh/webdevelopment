@@ -31,3 +31,4 @@
 @media (hover: hover) { .blog-section, .blog:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .blog-section, .blog { animation: none; transition: none; } }
 @media print { ..blog-section, .blog { page-break-inside: avoid; } }
+.blog { position: relative; }
