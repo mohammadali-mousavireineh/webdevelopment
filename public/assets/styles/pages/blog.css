@@ -37,3 +37,4 @@
 .blog { border-radius: var(--radius-lg); }
 .blog { overflow: hidden; }
 .blog { box-sizing: border-box; }
+.blog::before { content: ''; display: block; }
