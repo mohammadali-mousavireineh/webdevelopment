@@ -39,3 +39,4 @@
 .blog { box-sizing: border-box; }
 .blog::before { content: ''; display: block; }
 .blog::after { content: ''; display: block; }
+ { box-shadow: var(--shadow-md); }
