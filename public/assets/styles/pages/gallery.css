@@ -67,3 +67,4 @@
 @media print { ..gallery-section, .gallery { page-break-inside: avoid; } }
 .gallery { position: relative; }
 .gallery { z-index: 1; }
+.gallery { background: var(--color-surface); }
