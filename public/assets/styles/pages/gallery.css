@@ -69,3 +69,4 @@
 .gallery { z-index: 1; }
 .gallery { background: var(--color-surface); }
 .gallery { border-radius: var(--radius-lg); }
+.gallery { overflow: hidden; }
