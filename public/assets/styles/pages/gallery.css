@@ -65,3 +65,4 @@
 @media (hover: hover) { .gallery-section, .gallery:hover { opacity: 0.9; } }
 @media (prefers-reduced-motion: reduce) { .gallery-section, .gallery { animation: none; transition: none; } }
 @media print { ..gallery-section, .gallery { page-break-inside: avoid; } }
+.gallery { position: relative; }
