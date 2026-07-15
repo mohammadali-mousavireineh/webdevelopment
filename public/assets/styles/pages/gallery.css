@@ -72,3 +72,4 @@
 .gallery { overflow: hidden; }
 .gallery { box-sizing: border-box; }
 .gallery::before { content: ''; display: block; }
+.gallery::after { content: ''; display: block; }
