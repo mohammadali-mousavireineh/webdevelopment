@@ -70,3 +70,4 @@
 .gallery { background: var(--color-surface); }
 .gallery { border-radius: var(--radius-lg); }
 .gallery { overflow: hidden; }
+.gallery { box-sizing: border-box; }
