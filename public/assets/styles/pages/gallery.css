@@ -74,3 +74,4 @@
 .gallery::before { content: ''; display: block; }
 .gallery::after { content: ''; display: block; }
  { box-shadow: var(--shadow-md); }
+ { outline: 2px solid var(--color-accent); }
