@@ -89,6 +89,7 @@
   background: radial-gradient(circle, color-mix(in srgb, var(--color-accent) 6%, transparent) 0%, transparent 70%);
   top: -60px;
   left: -60px;
+  animation: heroBlobFloat 8s ease-in-out infinite;
 }
 
 .hero-decoration--2 {
@@ -97,6 +98,12 @@
   background: radial-gradient(circle, color-mix(in srgb, var(--color-primary) 5%, transparent) 0%, transparent 70%);
   bottom: -40px;
   right: -40px;
+  animation: heroBlobFloat 10s ease-in-out infinite reverse;
+}
+
+@keyframes heroBlobFloat {
+  0%, 100% { transform: translate(0, 0); }
+  50%      { transform: translate(10px, -10px); }
 }
 
 .hero__content {
