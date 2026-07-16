@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   padding: 18px;
@@ -22,6 +26,11 @@ body {
   grid-template-rows: auto 1fr auto;
   direction: rtl;
   overflow-y: auto;
+}
+
+body ::selection {
+  background: color-mix(in srgb, var(--color-accent) 25%, transparent);
+  color: var(--color-primary);
 }
 
 #app {
