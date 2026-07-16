@@ -856,6 +856,32 @@
   }
 }
 
+/* ── Back to Top ── */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  left: 2rem;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 1.25rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+  transition: all var(--transition-normal);
+  z-index: 100;
+}
+
+.back-to-top:hover {
+  background: var(--color-accent);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+
 /* ── Accessibility ── */
 @media (prefers-reduced-motion: reduce) {
   .hero__content > * {
