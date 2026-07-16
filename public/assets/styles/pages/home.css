@@ -27,6 +27,18 @@
 .hero {
   text-align: center;
   padding: 5rem 1rem 4rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, color-mix(in srgb, var(--color-accent) 8%, transparent) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 50%, color-mix(in srgb, var(--color-primary) 6%, transparent) 0%, transparent 60%);
+  pointer-events: none;
 }
 
 .hero__content {
