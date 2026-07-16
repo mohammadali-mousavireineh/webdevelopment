@@ -710,6 +710,14 @@
   stroke-linejoin: round;
 }
 
+.features__grid .feature-card:nth-child(2) {
+  transition-delay: 0.05s;
+}
+
+.features__grid .feature-card:nth-child(3) {
+  transition-delay: 0.1s;
+}
+
 .feature-card__title {
   font-size: 1.125rem;
   font-weight: 700;
