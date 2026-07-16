@@ -623,6 +623,29 @@
   transform: translateX(-3px);
 }
 
+.posts__footer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.posts__all-link {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  font-size: 0.95rem;
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-accent);
+  border: 2px solid var(--color-accent);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all var(--transition-normal);
+}
+
+.posts__all-link:hover {
+  background: var(--color-accent);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
 /* ── FAQ ── */
 .faq__list {
   max-width: 700px;
