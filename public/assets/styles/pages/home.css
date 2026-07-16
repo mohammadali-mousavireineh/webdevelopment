@@ -787,11 +787,27 @@
   cursor: pointer;
   transition: all var(--transition-fast);
   white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+}
+
+.cta__btn::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.1);
+  transform: translateX(-100%);
+  transition: transform var(--transition-normal);
 }
 
 .cta__btn:hover {
   background: var(--color-logo-text);
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.cta__btn:hover::after {
+  transform: translateX(0);
 }
 
 /* ── Responsive ── */
