@@ -61,20 +61,42 @@
   line-height: 1.7;
 }
 
+.hero__actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .hero__cta {
   display: inline-block;
   padding: 0.75rem 2rem;
   font-size: 1rem;
   font-weight: var(--font-weight-semibold);
-  background: var(--color-accent);
-  color: #fff;
   border-radius: 8px;
   text-decoration: none;
   transition: all var(--transition-normal);
 }
 
-.hero__cta:hover {
+.hero__cta--primary {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.hero__cta--primary:hover {
   background: var(--color-primary);
+  transform: translateY(-2px);
+}
+
+.hero__cta--secondary {
+  background: transparent;
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
+}
+
+.hero__cta--secondary:hover {
+  background: var(--color-primary);
+  color: #fff;
   transform: translateY(-2px);
 }
 
