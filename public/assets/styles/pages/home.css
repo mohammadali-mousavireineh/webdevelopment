@@ -1,5 +1,6 @@
 .section {
   padding: 5rem 1rem;
+  scroll-margin-top: 2rem;
 }
 
 .section--alt {
@@ -366,6 +367,7 @@
   isolation: isolate;
   overflow: hidden;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  border-top: 3px solid color-mix(in srgb, var(--color-accent) 30%, transparent);
 }
 
 .feature-card::after {
