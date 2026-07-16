@@ -35,6 +35,7 @@
   letter-spacing: -0.025em;
   position: relative;
   display: inline-block;
+  text-wrap: balance;
 }
 
 .section__title::after {
