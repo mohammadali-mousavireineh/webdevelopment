@@ -556,6 +556,23 @@
     font-size: 1.4rem;
   }
 
+  .stats__grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .testimonials__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .categories__cloud {
+    gap: 0.5rem;
+  }
+
   .features__grid,
   .posts__grid {
     grid-template-columns: 1fr;
