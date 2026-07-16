@@ -109,6 +109,8 @@
 .hero__content {
   max-width: 640px;
   margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 
 .hero__title {
