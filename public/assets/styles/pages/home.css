@@ -119,6 +119,37 @@
 .hero__subtitle { animation-delay: 0.25s; }
 .hero__actions  { animation-delay: 0.4s; }
 
+/* ── Stats ── */
+.stats {
+  background: var(--color-primary);
+  color: #fff;
+  padding: 3rem 1rem;
+}
+
+.stats__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  text-align: center;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.stat-item__number {
+  font-size: 2rem;
+  font-weight: var(--font-weight-bold);
+  color: var(--color-accent);
+}
+
+.stat-item__label {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
 /* ── About ── */
 .about {
   background: var(--color-background);
