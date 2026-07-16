@@ -244,3 +244,35 @@
 .cta__btn:hover {
   background: var(--color-logo-text);
 }
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .section {
+    padding: 2.5rem 1rem;
+  }
+
+  .hero {
+    padding: 3rem 1rem 2.5rem;
+  }
+
+  .hero__title {
+    font-size: 1.75rem;
+  }
+
+  .hero__subtitle {
+    font-size: 1rem;
+  }
+
+  .section__title {
+    font-size: 1.4rem;
+  }
+
+  .features__grid,
+  .posts__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cta__form {
+    flex-direction: column;
+  }
+}
