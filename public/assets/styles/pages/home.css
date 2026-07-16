@@ -251,16 +251,28 @@
 .stats {
   background: var(--color-primary);
   color: #fff;
-  padding: 4rem 1rem;
+  padding: 5rem 1rem;
   position: relative;
   isolation: isolate;
+  overflow: hidden;
 }
 
 .stats::before {
   content: '';
   position: absolute;
   inset: 0;
-  background-image: radial-gradient(circle at 80% 20%, color-mix(in srgb, var(--color-accent) 8%, transparent) 0%, transparent 50%);
+  background-image:
+    radial-gradient(circle at 80% 20%, color-mix(in srgb, var(--color-accent) 10%, transparent) 0%, transparent 50%),
+    radial-gradient(circle at 20% 80%, color-mix(in srgb, #fff 3%, transparent) 0%, transparent 40%);
+  z-index: -1;
+}
+
+.stats::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
   z-index: -1;
 }
 
@@ -274,23 +286,33 @@
 .stat-item {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  padding: 1rem;
+  gap: 0.5rem;
+  padding: 2rem 1rem;
   border-radius: var(--radius-lg);
-  transition: background var(--transition-normal);
+  transition: all var(--transition-normal);
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  backdrop-filter: blur(4px);
 }
 
 .stat-item:hover {
-  background: rgba(255,255,255,0.05);
+  background: rgba(255,255,255,0.06);
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+  transform: translateY(-4px);
 }
 
 .stat-item:hover .stat-item__number {
   transform: scale(1.1);
 }
 
+.stat-item__icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
 .stat-item__number {
-  font-size: 2.25rem;
-  font-weight: var(--font-weight-bold);
+  font-size: 2.5rem;
+  font-weight: 800;
   color: var(--color-accent);
   line-height: 1.1;
   transition: transform var(--transition-normal);
