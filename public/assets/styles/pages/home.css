@@ -201,6 +201,7 @@
   margin: 0 0 1.25rem;
   line-height: 1.1;
   letter-spacing: -0.035em;
+  text-wrap: balance;
 }
 
 .hero__title span {
