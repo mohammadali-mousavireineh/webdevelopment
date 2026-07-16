@@ -1175,6 +1175,10 @@
   transition: all 0.3s ease;
 }
 
+.cta__input:hover {
+  background: #fff;
+}
+
 .cta__input::placeholder {
   color: var(--color-text-muted);
   opacity: 0.6;
