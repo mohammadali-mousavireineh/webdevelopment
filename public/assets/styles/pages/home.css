@@ -44,11 +44,11 @@
   bottom: -4px;
   left: 50%;
   transform: translateX(-50%);
-  width: 40%;
+  width: 50%;
   height: 2px;
   background: linear-gradient(90deg, transparent, var(--color-accent), transparent);
   border-radius: 1px;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .section__divider {
