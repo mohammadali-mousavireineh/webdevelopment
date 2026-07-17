@@ -3,8 +3,8 @@ export default function headerComponent({ path }) {
     { href: '/', label: 'خانه' },
     { href: '/blog', label: 'وبلاگ' },
     { href: '/images', label: 'گالری' },
-    { href: '/about', label: 'درباره ی ما' },
-    { href: '/contant', label: 'تماس ی ما' },
+    { href: '/about', label: 'درباره ما' },
+    { href: '/contact', label: 'تماس با ما' },
   ]
   return `
       <a href="/" data-safa-link class="header__logo">وبلاگ</a>
