@@ -35,6 +35,10 @@ router.afterEach(() => {
   clearTimeout(loadingTimeout)
   loadingOverlay.classList.remove('active')
   document.querySelectorAll('.reveal:not(.visible)').forEach(el => observer.observe(el))
+  const contactForm = document.querySelector('.contact-form')
+  if (contactForm) attachFormHandler(contactForm)
+  const ctaForm = document.querySelector('.cta__form')
+  if (ctaForm) attachFormHandler(ctaForm, { successMsg: 'عضویت شما با موفقیت ثبت شد.' })
 })
 
 const observer = new IntersectionObserver((entries) => {
@@ -52,5 +56,34 @@ const mutationObserver = new MutationObserver(() => {
   document.querySelectorAll('.reveal:not(.visible)').forEach(el => observer.observe(el))
 })
 mutationObserver.observe(document.getElementById('app'), { childList: true, subtree: true })
+
+function attachFormHandler(form, { successMsg = 'پیام شما با موفقیت ارسال شد.', reset = true } = {}) {
+  form.addEventListener('submit', (e) => {
+    e.preventDefault()
+    const inputs = form.querySelectorAll('input, textarea')
+    let valid = true
+    inputs.forEach(inp => {
+      if (inp.hasAttribute('required') && !inp.value.trim()) {
+        inp.style.borderColor = 'var(--color-danger)'
+        valid = false
+      } else {
+        inp.style.borderColor = ''
+      }
+      if (inp.type === 'email' && inp.value && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(inp.value)) {
+        inp.style.borderColor = 'var(--color-danger)'
+        valid = false
+      }
+    })
+    if (!valid) return
+    const btn = form.querySelector('button[type="submit"]')
+    const orig = btn.textContent
+    btn.disabled = true; btn.textContent = '...'
+    setTimeout(() => {
+      btn.disabled = false; btn.textContent = orig
+      if (reset) form.reset()
+      alert(successMsg)
+    }, 800)
+  })
+}
 
 router.start()
