@@ -107,6 +107,27 @@ body ::selection {
   to { transform: rotate(360deg); }
 }
 
+@media print {
+  .header, .footer, .back-to-top, .cta, .hero__actions, .loading-overlay {
+    display: none !important;
+  }
+
+  body {
+    padding: 0;
+    background: #fff;
+    color: #000;
+  }
+
+  #app {
+    padding: 0;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: underline !important;
+  }
+}
+
 @media (max-width: 768px) {
   body {
     padding: 10px;
