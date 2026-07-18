@@ -22,6 +22,7 @@ const router = new SafaRouter({
     enabled: true,
     mode: 'sse',
   },
+  titleTemplate: '%s — وبلاگ برنامه‌نویسی',
 })
 
 let loadingTimeout
