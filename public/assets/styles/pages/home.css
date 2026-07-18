@@ -861,6 +861,11 @@
   justify-content: center;
   position: relative;
   overflow: hidden;
+  transition: transform 0.4s ease;
+}
+
+.post-card:hover .post-card__image {
+  transform: scale(1.03);
 }
 
 .post-card__image::after {
@@ -868,6 +873,28 @@
   position: absolute;
   inset: 0;
   background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.08));
+  transition: opacity 0.4s ease;
+}
+
+.post-card:hover .post-card__image::after {
+  opacity: 0.6;
+}
+
+.post-card__image::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.08) 50%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+}
+
+.post-card:hover .post-card__image::before {
+  opacity: 1;
 }
 
 .post-card__image-text {
