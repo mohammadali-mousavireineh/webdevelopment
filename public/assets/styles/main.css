@@ -40,6 +40,25 @@ body ::selection {
   padding: var(--spacing-lg);
 }
 
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-primary);
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  z-index: var(--z-full);
+  font-weight: 700;
+  text-decoration: none;
+  transition: top var(--transition-normal);
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
 .loading-overlay {
   position: fixed;
   inset: 0;
