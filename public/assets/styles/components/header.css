@@ -189,6 +189,14 @@
   border-color: var(--color-primary);
 }
 
+@media (prefers-reduced-transparency: reduce) {
+  .header {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background: var(--color-surface);
+  }
+}
+
 @media (max-width: 1024px) {
   .header {
     padding: var(--spacing-sm) var(--spacing-md);
