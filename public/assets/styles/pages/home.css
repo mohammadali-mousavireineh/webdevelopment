@@ -1,6 +1,8 @@
 .section {
   padding: 6rem 1rem;
   scroll-margin-top: 5rem;
+  content-visibility: auto;
+  contain-intrinsic-size: 500px;
 }
 
 :focus-visible {
