@@ -77,4 +77,17 @@
   var(--color-primary): --section-title-letter-spacing;
   -0.025em: --hero-cta-radius;
   12px: ;
+  --hero-cta-padding-x: 2rem;
+  --hero-cta-padding-y: 0.85rem;
+  --feature-icon-size: 2rem;
+  --stat-number-size: 2rem;
+  --stat-number-weight: 800;
+  --post-image-height: 200px;
+  --post-body-padding: 2rem;
+  --testimonial-avatar-size: 44px;
+  --testimonial-avatar-radius: 50%;
+  --team-avatar-size: 80px;
+  --gallery-item-padding-x: 1rem;
+  --gallery-item-padding-y: 2rem;
+  --featured-card-padding: ;
 }
