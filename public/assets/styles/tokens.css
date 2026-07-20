@@ -51,4 +51,17 @@
   0.06: --opacity-muted;
   0.7: --opacity-disabled;
   0.5: ;
+  --border-width-default: 2px;
+  --border-width-thin: 1px;
+  --overlay-opacity: 0.3;
+  --spinner-size: 40px;
+  --spinner-border-width: 4px;
+  --spinner-speed: 0.8s;
+  --avatar-size: 2.5rem;
+  --avatar-radius: 50%;
+  --icon-size: 2.5rem;
+  --badge-font-size: 0.7rem;
+  --badge-font-weight: 700;
+  --badge-padding-x: 0.75rem;
+  --badge-padding-y: ;
 }
