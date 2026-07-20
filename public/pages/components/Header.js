@@ -8,6 +8,12 @@ export default function headerComponent({ path }) {
   ]
   return `
       <a href="/" data-safa-link class="header__logo">وبلاگ</a>
+      <div class="header__search">
+        <button class="header__search-toggle" aria-label="جستجو" type="button">🔍</button>
+        <div class="header__search-dropdown">
+          <input class="header__search-input" type="text" placeholder="جستجو در مطالب..." aria-label="عبارت جستجو">
+        </div>
+      </div>
       <input type="checkbox" id="menu-toggle" class="header__toggle">
       <label for="menu-toggle" class="header__hamburger">
         <span></span>
@@ -24,5 +30,5 @@ export default function headerComponent({ path }) {
           <button class="header__auth--button">ورود | ثبت نام</button>
         </div>
       </div>
-`
+  `
 }
