@@ -82,6 +82,18 @@ if (window.matchMedia('(prefers-reduced-data: reduce)').matches) {
   document.documentElement.classList.add('reduced-data')
 }
 
+let lastScroll = 0
+window.addEventListener('scroll', () => {
+  const header = document.querySelector('.header')
+  const curr = window.scrollY
+  if (curr > 80) {
+    header.classList.add('header--scrolled')
+  } else {
+    header.classList.remove('header--scrolled')
+  }
+  lastScroll = curr
+}, { passive: true })
+
 const progressBar = document.querySelector('.progress-bar')
 function updateProgress() {
   const scrollTop = window.scrollY

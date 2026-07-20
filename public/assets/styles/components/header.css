@@ -18,6 +18,13 @@
   background: color-mix(in srgb, var(--color-surface) 85%, transparent);
 }
 
+.header--scrolled {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-sticky);
+  box-shadow: var(--shadow-header), 0 4px 20px rgba(0,0,0,0.1);
+}
+
 .header:hover {
   box-shadow: var(--shadow-header), 0 4px 20px rgba(0,0,0,0.06);
 }
