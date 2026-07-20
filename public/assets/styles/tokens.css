@@ -90,4 +90,17 @@
   --gallery-item-padding-x: 1rem;
   --gallery-item-padding-y: 2rem;
   --featured-card-padding: ;
+  2rem: --progress-bar-height;
+  3px: --search-width;
+  260px: --search-padding;
+  0.5rem: --mobile-header-padding-x;
+  0.75rem: --mobile-header-padding-y;
+  0.3rem: --hamburger-size;
+  24px: --hamburger-bar-height;
+  3px: --menu-transition;
+  0.35s ease: --menu-slide-distance;
+  -10px: --card-transition-duration;
+  0.35s: --card-transition-easing;
+  cubic-bezier(0.16,1,0.3,1): --hero-animation-duration;
+  6s: ;
 }
