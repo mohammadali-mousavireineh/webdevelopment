@@ -1,0 +1,15 @@
+﻿:root {
+  --form-label-weight: 600;
+  --form-input-border-color: var(--color-border);
+  --form-input-border-width: 2px;
+  --form-input-radius: var(--radius-md);
+  --form-input-padding-x: 1rem;
+  --form-input-padding-y: 0.75rem;
+  --form-input-font-size: 1rem;
+  --form-gap: 1.5rem;
+  --nav-gap-mobile: 0.25rem;
+  --nav-gap-desktop: 2rem;
+  --nav-link-font-weight: 500;
+  --nav-link-active-weight: 600;
+  --nav-link-font-size: ;
+}
