@@ -63,6 +63,16 @@ const mutationObserver = new MutationObserver(() => {
 })
 mutationObserver.observe(document.getElementById('app'), { childList: true, subtree: true })
 
+const progressBar = document.querySelector('.progress-bar')
+function updateProgress() {
+  const scrollTop = window.scrollY
+  const docHeight = document.documentElement.scrollHeight - window.innerHeight
+  const pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0
+  progressBar.style.width = pct + '%'
+}
+window.addEventListener('scroll', updateProgress)
+window.addEventListener('resize', updateProgress)
+
 function attachFormHandler(form, { successMsg = 'پیام شما با موفقیت ارسال شد.', reset = true } = {}) {
   form.addEventListener('submit', (e) => {
     e.preventDefault()

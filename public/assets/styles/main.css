@@ -78,6 +78,17 @@ body ::selection {
   top: 0;
 }
 
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-secondary));
+  z-index: var(--z-full);
+  transition: width 0.1s linear;
+}
+
 .page-enter-active {
   animation: pageIn 0.3s ease forwards;
 }
