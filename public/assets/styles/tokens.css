@@ -38,4 +38,17 @@
   --header-padding-y: var(--spacing-sm);
   --header-border-radius: var(--radius-lg);
   --footer-font-size: ;
+  0.875rem: --footer-padding-x;
+  1.5rem: --footer-padding-y;
+  1rem: --footer-border-top;
+  1px solid var(--color-border): --section-padding-y;
+  6rem: --section-padding-x;
+  1rem: --section-margin-bottom;
+  4.5rem: --grid-columns;
+  24: --grid-body-padding;
+  18px: --grid-body-padding-mobile;
+  10px: --opacity-hover;
+  0.06: --opacity-muted;
+  0.7: --opacity-disabled;
+  0.5: ;
 }
