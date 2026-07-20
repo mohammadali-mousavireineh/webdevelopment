@@ -23,6 +23,11 @@ const router = new SafaRouter({
     mode: 'sse',
   },
   titleTemplate: '%s — وبلاگ برنامه‌نویسی',
+  transitionDuration: 300,
+  transitionEnterClass: 'page-enter',
+  transitionExitClass: 'page-exit',
+  transitionEnterActiveClass: 'page-enter-active',
+  transitionExitActiveClass: 'page-exit-active',
 })
 
 let loadingTimeout
