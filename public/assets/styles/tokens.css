@@ -64,4 +64,17 @@
   --badge-font-weight: 700;
   --badge-padding-x: 0.75rem;
   --badge-padding-y: ;
+  0.25rem: --meta-font-size;
+  0.75rem: --meta-color;
+  var(--color-text-muted): --tag-font-size-sm;
+  0.75rem: --tag-padding-sm-x;
+  0.85rem: --tag-padding-sm-y;
+  0.3rem: --link-font-size;
+  0.85rem: --link-font-weight;
+  600: --section-title-size;
+  2.125rem: --section-title-weight;
+  800: --section-title-color;
+  var(--color-primary): --section-title-letter-spacing;
+  -0.025em: --hero-cta-radius;
+  12px: ;
 }
