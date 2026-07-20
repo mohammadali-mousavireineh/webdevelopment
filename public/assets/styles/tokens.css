@@ -25,4 +25,17 @@
   1px solid var(--color-border): --tag-radius;
   999px: --tag-padding-x;
   1.5rem: ;
+  --tag-padding-y: 0.55rem;
+  --tag-font-weight: 500;
+  --tag-font-size: 0.9rem;
+  --cta-radius: var(--radius-md);
+  --cta-padding-x: 2rem;
+  --cta-padding-y: 0.75rem;
+  --cta-font-weight: 700;
+  --cta-font-size: 1rem;
+  --header-height-max: 80px;
+  --header-padding-x: var(--spacing-lg);
+  --header-padding-y: var(--spacing-sm);
+  --header-border-radius: var(--radius-lg);
+  --footer-font-size: ;
 }
