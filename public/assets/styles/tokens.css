@@ -12,4 +12,17 @@
   --nav-link-font-weight: 500;
   --nav-link-active-weight: 600;
   --nav-link-font-size: ;
+  1rem: --hero-title-size;
+  3.5rem: --hero-title-weight;
+  800: --hero-title-color;
+  var(--color-primary): --hero-subtitle-size;
+  1.2rem: --hero-subtitle-color;
+  var(--color-text-secondary): --card-radius;
+  20px: --card-padding;
+  2rem: --card-lift;
+  -6px: --card-bg;
+  #fff: --card-border-default;
+  1px solid var(--color-border): --tag-radius;
+  999px: --tag-padding-x;
+  1.5rem: ;
 }
