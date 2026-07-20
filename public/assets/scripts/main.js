@@ -63,6 +63,17 @@ const mutationObserver = new MutationObserver(() => {
 })
 mutationObserver.observe(document.getElementById('app'), { childList: true, subtree: true })
 
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    const toggle = document.getElementById('menu-toggle')
+    if (toggle) toggle.checked = false
+  }
+})
+
+if (window.matchMedia('(prefers-reduced-data: reduce)').matches) {
+  document.documentElement.classList.add('reduced-data')
+}
+
 const progressBar = document.querySelector('.progress-bar')
 function updateProgress() {
   const scrollTop = window.scrollY
