@@ -6,6 +6,7 @@
 @import "./pages/about.css";
 @import "./pages/contact.css";
 @import "./pages/blog.css";
+@import "./pages/gallery.css";
 
 * {
   box-sizing: border-box;
