@@ -63,6 +63,14 @@ const mutationObserver = new MutationObserver(() => {
 })
 mutationObserver.observe(document.getElementById('app'), { childList: true, subtree: true })
 
+document.addEventListener('click', (e) => {
+  const target = e.target.closest('.back-to-top')
+  if (target) {
+    e.preventDefault()
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+})
+
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
     const toggle = document.getElementById('menu-toggle')
