@@ -116,4 +116,14 @@
   --focus-offset: 2px;
   --selection-bg-opacity: 25%;
   --selection-text-color: ;
+  var(--color-primary): --scrollbar-width;
+  10px: --scrollbar-radius;
+  5px: --loader-bg-opacity;
+  0.3: --gradient-angle;
+  135deg: --image-overlay-opacity;
+  0.08: --shine-opacity;
+  0.08: --shine-angle;
+  45deg: --card-shadow-hover-y;
+  12px: --card-shadow-hover-blur;
+  40px: --card-shadow-rest-y;
 }
