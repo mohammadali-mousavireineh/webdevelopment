@@ -13,6 +13,9 @@
   position: relative;
   max-height: 80px;
   transition: box-shadow var(--transition-normal);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  background: color-mix(in srgb, var(--color-surface) 85%, transparent);
 }
 
 .header:hover {
